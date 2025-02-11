@@ -1,0 +1,19 @@
+{"time":"2025-02-10T20:51:38.145865263-05:00","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2025-02-10T20:51:38.14589899-05:00","level":"INFO","msg":"created symlink","path":"/home/ashmal/Courses/MedImgComputing/Assignment_1/A1/wandb/run-20250210_205138-y957hkpi/logs/debug-core.log"}
+{"time":"2025-02-10T20:51:38.26909626-05:00","level":"INFO","msg":"created new stream","id":"y957hkpi"}
+{"time":"2025-02-10T20:51:38.269149029-05:00","level":"INFO","msg":"stream: started","id":"y957hkpi"}
+{"time":"2025-02-10T20:51:38.269198523-05:00","level":"INFO","msg":"writer: Do: started","stream_id":"y957hkpi"}
+{"time":"2025-02-10T20:51:38.269198516-05:00","level":"INFO","msg":"handler: started","stream_id":"y957hkpi"}
+{"time":"2025-02-10T20:51:38.269298966-05:00","level":"INFO","msg":"sender: started","stream_id":"y957hkpi"}
+{"time":"2025-02-10T20:51:38.568547548-05:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-02-10T21:35:16.356695065-05:00","level":"INFO","msg":"stream: closing","id":"y957hkpi"}
+{"time":"2025-02-10T21:35:16.356804205-05:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-02-10T21:35:16.357899511-05:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-02-10T21:35:16.457815267-05:00","level":"WARN","msg":"No job ingredients found, not creating job artifact"}
+{"time":"2025-02-10T21:35:16.457841596-05:00","level":"WARN","msg":"No source type found, not creating job artifact"}
+{"time":"2025-02-10T21:35:16.45785053-05:00","level":"INFO","msg":"sender: sendDefer: no job artifact to save"}
+{"time":"2025-02-10T21:35:16.740430007-05:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-02-10T21:35:16.851882978-05:00","level":"INFO","msg":"handler: closed","stream_id":"y957hkpi"}
+{"time":"2025-02-10T21:35:16.851920661-05:00","level":"INFO","msg":"writer: Close: closed","stream_id":"y957hkpi"}
+{"time":"2025-02-10T21:35:16.851954741-05:00","level":"INFO","msg":"sender: closed","stream_id":"y957hkpi"}
+{"time":"2025-02-10T21:35:16.853296196-05:00","level":"INFO","msg":"stream: closed","id":"y957hkpi"}

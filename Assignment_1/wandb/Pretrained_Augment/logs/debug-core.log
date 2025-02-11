@@ -1,0 +1,14 @@
+{"time":"2025-02-10T21:10:17.265137431-05:00","level":"INFO","msg":"started logging, with flags","port-filename":"/tmp/tmpl61do3d2/port-1646373.txt","pid":1646373,"debug":false,"disable-analytics":false}
+{"time":"2025-02-10T21:10:17.265172511-05:00","level":"INFO","msg":"FeatureState","shutdownOnParentExitEnabled":false}
+{"time":"2025-02-10T21:10:17.268944312-05:00","level":"INFO","msg":"Will exit if parent process dies.","ppid":1646373}
+{"time":"2025-02-10T21:10:17.268911462-05:00","level":"INFO","msg":"server is running","addr":{"IP":"127.0.0.1","Port":43369,"Zone":""}}
+{"time":"2025-02-10T21:10:17.453278548-05:00","level":"INFO","msg":"connection: ManageConnectionData: new connection created","id":"127.0.0.1:33144"}
+{"time":"2025-02-10T21:10:17.80726586-05:00","level":"INFO","msg":"handleInformInit: received","streamId":"tvfaay08","id":"127.0.0.1:33144"}
+{"time":"2025-02-10T21:10:17.931684151-05:00","level":"INFO","msg":"handleInformInit: stream started","streamId":"tvfaay08","id":"127.0.0.1:33144"}
+{"time":"2025-02-10T21:56:42.517464877-05:00","level":"INFO","msg":"handleInformTeardown: server teardown initiated","id":"127.0.0.1:33144"}
+{"time":"2025-02-10T21:56:42.518174174-05:00","level":"INFO","msg":"server is shutting down"}
+{"time":"2025-02-10T21:56:42.518154327-05:00","level":"INFO","msg":"connection: Close: initiating connection closure","id":"127.0.0.1:33144"}
+{"time":"2025-02-10T21:56:42.51835953-05:00","level":"INFO","msg":"connection: Close: connection successfully closed","id":"127.0.0.1:33144"}
+{"time":"2025-02-10T21:56:43.022501145-05:00","level":"INFO","msg":"handleInformTeardown: server shutdown complete","id":"127.0.0.1:33144"}
+{"time":"2025-02-10T21:56:43.022543949-05:00","level":"INFO","msg":"connection: ManageConnectionData: connection closed","id":"127.0.0.1:33144"}
+{"time":"2025-02-10T21:56:43.022576599-05:00","level":"INFO","msg":"server is closed"}
