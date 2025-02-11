@@ -1,0 +1,19 @@
+{"time":"2025-02-10T17:57:31.405580538-05:00","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2025-02-10T17:57:31.405611373-05:00","level":"INFO","msg":"created symlink","path":"/home/ashmal/Courses/MedImgComputing/Assignment_1/A1/wandb/run-20250210_175731-9dezbxic/logs/debug-core.log"}
+{"time":"2025-02-10T17:57:31.530411571-05:00","level":"INFO","msg":"created new stream","id":"9dezbxic"}
+{"time":"2025-02-10T17:57:31.530503503-05:00","level":"INFO","msg":"stream: started","id":"9dezbxic"}
+{"time":"2025-02-10T17:57:31.530549366-05:00","level":"INFO","msg":"sender: started","stream_id":"9dezbxic"}
+{"time":"2025-02-10T17:57:31.530548654-05:00","level":"INFO","msg":"writer: Do: started","stream_id":"9dezbxic"}
+{"time":"2025-02-10T17:57:31.530630064-05:00","level":"INFO","msg":"handler: started","stream_id":"9dezbxic"}
+{"time":"2025-02-10T17:57:31.862881939-05:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-02-10T19:03:48.033289212-05:00","level":"INFO","msg":"stream: closing","id":"9dezbxic"}
+{"time":"2025-02-10T19:03:48.033391325-05:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-02-10T19:03:48.034791878-05:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-02-10T19:03:48.147442863-05:00","level":"WARN","msg":"No job ingredients found, not creating job artifact"}
+{"time":"2025-02-10T19:03:48.14746749-05:00","level":"WARN","msg":"No source type found, not creating job artifact"}
+{"time":"2025-02-10T19:03:48.147476406-05:00","level":"INFO","msg":"sender: sendDefer: no job artifact to save"}
+{"time":"2025-02-10T19:03:48.449531512-05:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-02-10T19:03:48.565357999-05:00","level":"INFO","msg":"handler: closed","stream_id":"9dezbxic"}
+{"time":"2025-02-10T19:03:48.565392282-05:00","level":"INFO","msg":"writer: Close: closed","stream_id":"9dezbxic"}
+{"time":"2025-02-10T19:03:48.565410649-05:00","level":"INFO","msg":"sender: closed","stream_id":"9dezbxic"}
+{"time":"2025-02-10T19:03:48.567596225-05:00","level":"INFO","msg":"stream: closed","id":"9dezbxic"}
