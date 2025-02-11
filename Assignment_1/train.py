@@ -188,7 +188,7 @@ def test(model, device, test_loader, criterion):
     test_loss = float(np.mean(losses))
     test_accuracy = correct / len(test_loader.dataset)
 
-    print('\nTest set: Average loss: {:.4f}, Accuracy: {}/{} ({:.0f}%)\n'.format(
+    print('\nTest set: Loss: {:.4f}, Accuracy: {}/{} ({:.4f}%)\n'.format(
         test_loss, correct, len(test_loader.dataset), 100. * test_accuracy))
     
     # Print class-wise accuracy
@@ -207,7 +207,7 @@ def run_main(FLAGS):
     wandb.login(key="a240530f017b49dac5c562009a9979e8f813634b")
     run = wandb.init(
         # Set the project where this run will be logged
-        project=f"MedImgComp_PA1_{FLAGS.mode}",
+        project=f"CAP5415_MedImgComp_PA1_{FLAGS.mode}_Augment",
         # Track hyperparameters and run metadata
         config={
             "learning_rate": FLAGS.learning_rate,
@@ -247,82 +247,73 @@ def run_main(FLAGS):
 
     # Run training for n_epochs specified in config
     for epoch in range(1, FLAGS.num_epochs + 1):
-        print(f"================= Running Epoch : {epoch} =================")
+        print(f"\n\n================= Running Epoch : {epoch} =================")
         train_loss, train_accuracy, train_class_correct, train_class_total = train(model, device, train_loader,
                                            optimizer, criterion, epoch, FLAGS.batch_size)
         
         val_loss, val_acc, val_class_correct, val_class_total = validate(model, device, val_loader, criterion)  # Validation after each epoch
-        
-        test_loss, test_accuracy, test_class_correct, test_class_total = test(model, device, test_loader, criterion)
 
         num_classes = 2
         class_acc = {f"train_class_{i}_accuracy": (train_class_correct[i] / train_class_total[i]) * 100 if train_class_total[i] > 0 else 0 for i in range(num_classes)}
         class_acc.update({f"val_class_{i}_accuracy": (val_class_correct[i] / val_class_total[i]) * 100 if val_class_total[i] > 0 else 0 for i in range(num_classes)})
-        class_acc.update({f"test_class_{i}_accuracy": (test_class_correct[i] / test_class_total[i]) * 100 if test_class_total[i] > 0 else 0 for i in range(num_classes)})
 
         wandb.log({
-            "train_loss": train_loss, "val_loss": val_loss, "test_loss": test_loss,
-            "train_accuracy": train_accuracy, "val_accuracy": val_acc, "test_accuracy": test_accuracy, **class_acc
+            "train_loss": train_loss, "val_loss": val_loss,
+            "train_accuracy": train_accuracy, "val_accuracy": val_acc, **class_acc
         })
 
-
-        if test_accuracy > best_accuracy:
-            best_accuracy = test_accuracy
+        if val_acc > best_accuracy:
+            best_accuracy = val_acc
             best_epoch = epoch
 
         loss_train.append(train_loss)
         accuracy_train.append(train_accuracy)
-        loss_test.append(test_loss)
-        accuracy_test.append(test_accuracy)
         loss_val.append(val_loss)
         accuracy_val.append(val_acc)
+        
 
-        wandb.log({"train_loss": train_loss, "val_loss": val_loss, "test_loss": test_loss,
-                  "train_accuracy": train_accuracy, "val_accuracy": val_acc ,"test_accuracy": test_accuracy})
+    print(f"\n\n================= Test Dataset =================")
+    test_loss, test_accuracy, test_class_correct, test_class_total = test(model, device, test_loader, criterion)
+    class_acc.update({f"test_class_{i}_accuracy": (test_class_correct[i] / test_class_total[i]) * 100 if test_class_total[i] > 0 else 0 for i in range(num_classes)})
 
     loss_train = np.array(loss_train)
     accuracy_train = np.array(accuracy_train)
-    loss_test = np.array(loss_test)
-    accuracy_test = np.array(accuracy_test)
     loss_val = np.array(loss_val)
     accuracy_val = np.array(accuracy_val)
-
 
     fig = plt.figure(1)
     epochs = range(1, FLAGS.num_epochs + 1)
     plt.plot(epochs, loss_train, 'g', label='Training loss')
-    plt.plot(epochs, loss_test, 'b', label='Test loss')
-    plt.plot(epochs, loss_val, 'r', label='Validation loss')
-    plt.title('Model mode: '+str(FLAGS.mode)+' Training and Test Loss')
+    plt.plot(epochs, loss_val, 'b', label='Validation loss')
+    plt.title('Model mode: '+str(FLAGS.mode)+' Training and Validation Loss')
     plt.xlabel('Epochs')
     plt.ylabel('Loss')
     plt.legend()
     plt.show()
-    fig.savefig('plots/loss_plot mode: '+str(FLAGS.mode)+'.png')
+    fig.savefig('plots_augment/loss_plot_mode_'+str(FLAGS.mode)+'.png')
 
     fig = plt.figure(2)
     epochs = range(1, FLAGS.num_epochs + 1)
     plt.plot(epochs, accuracy_train*100, 'g', label='Training accuracy')
-    plt.plot(epochs, accuracy_test*100, 'b', label='Test accuracy')
     plt.plot(epochs, accuracy_val*100, 'r', label='Validation accuracy')
     plt.title('Model mode:'+str(FLAGS.mode) +
-              ' Training and Test Accuracy')
+              ' Training and Validation Accuracy')
     plt.xlabel('Epochs')
     plt.ylabel('Accuracy in %')
     plt.legend()
     plt.show()
-    fig.savefig('plots/accuracy_plot mode: '+str(FLAGS.mode)+'.png')
+    fig.savefig('plots_augment/accuracy_plot_mode_'+str(FLAGS.mode)+'.png')
 
     print("accuracy is {:2.2f}".format(best_accuracy))
     print("convergence epoch is {}".format(best_epoch))
-
     
     # Print final results
     print("\nFinal Results:")
     print("-"*50)
     print(f"Best Test Accuracy: {best_epoch:.2f}%")
     print(f"Final Train Loss: {loss_train[-1]:.4f}")
-    print(f"Final Test Loss: {loss_test[-1]:.4f}")
+    print(f"Test Loss: {test_loss:.4f}")
+    print(f"Test Accuracy: {test_accuracy:.4f}")
     
     print("\n" + "="*50)
     print(f"Finished Mode {FLAGS.mode} at {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
@@ -330,8 +321,7 @@ def run_main(FLAGS):
     
     print("Training and evaluation finished")
 
-
-    save_folder = "model_weights"
+    save_folder = "model_weights2"
     os.makedirs(save_folder, exist_ok=True)
 
     save_path = os.path.join(save_folder, FLAGS.model_save_path)
