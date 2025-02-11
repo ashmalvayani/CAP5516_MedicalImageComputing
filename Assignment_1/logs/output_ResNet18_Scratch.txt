@@ -1,0 +1,737 @@
+Torch device selected:  cuda
+Mode: scratch, Learning Rate: 0.001, Epochs: 40
+================= Running Epoch : 1 =================
+Train set: Average loss: 0.4494, Accuracy: 4089/5216 (78.3934%)
+
+Printing class wise accuracy for Training Set.
+  Class 0 Accuracy: 35.65% (478/1341)
+  Class 1 Accuracy: 93.19% (3611/3875)
+
+Validation set: Average loss: 0.5687, Accuracy: 10/16 (62%)
+
+Printing class wise accuracy for Validation Set.
+  Class 0 Accuracy: 25.00% (2/8)
+  Class 1 Accuracy: 100.00% (8/8)
+
+Test set: Average loss: 0.5116, Accuracy: 446/624 (71%)
+
+Printing class wise accuracy for Test Set.
+  Class 0 Accuracy: 38.03% (89/234)
+  Class 1 Accuracy: 91.54% (357/390)
+================= Running Epoch : 2 =================
+Train set: Average loss: 0.3194, Accuracy: 4477/5216 (85.8321%)
+
+Printing class wise accuracy for Training Set.
+  Class 0 Accuracy: 66.44% (891/1341)
+  Class 1 Accuracy: 92.54% (3586/3875)
+
+Validation set: Average loss: 0.6153, Accuracy: 10/16 (62%)
+
+Printing class wise accuracy for Validation Set.
+  Class 0 Accuracy: 25.00% (2/8)
+  Class 1 Accuracy: 100.00% (8/8)
+
+Test set: Average loss: 0.5505, Accuracy: 432/624 (69%)
+
+Printing class wise accuracy for Test Set.
+  Class 0 Accuracy: 23.08% (54/234)
+  Class 1 Accuracy: 96.92% (378/390)
+================= Running Epoch : 3 =================
+Train set: Average loss: 0.2785, Accuracy: 4589/5216 (87.9793%)
+
+Printing class wise accuracy for Training Set.
+  Class 0 Accuracy: 70.40% (944/1341)
+  Class 1 Accuracy: 94.06% (3645/3875)
+
+Validation set: Average loss: 0.5524, Accuracy: 12/16 (75%)
+
+Printing class wise accuracy for Validation Set.
+  Class 0 Accuracy: 50.00% (4/8)
+  Class 1 Accuracy: 100.00% (8/8)
+
+Test set: Average loss: 0.4706, Accuracy: 470/624 (75%)
+
+Printing class wise accuracy for Test Set.
+  Class 0 Accuracy: 45.30% (106/234)
+  Class 1 Accuracy: 93.33% (364/390)
+================= Running Epoch : 4 =================
+Train set: Average loss: 0.2446, Accuracy: 4687/5216 (89.8581%)
+
+Printing class wise accuracy for Training Set.
+  Class 0 Accuracy: 77.33% (1037/1341)
+  Class 1 Accuracy: 94.19% (3650/3875)
+
+Validation set: Average loss: 0.7944, Accuracy: 9/16 (56%)
+
+Printing class wise accuracy for Validation Set.
+  Class 0 Accuracy: 12.50% (1/8)
+  Class 1 Accuracy: 100.00% (8/8)
+
+Test set: Average loss: 0.5990, Accuracy: 429/624 (69%)
+
+Printing class wise accuracy for Test Set.
+  Class 0 Accuracy: 19.66% (46/234)
+  Class 1 Accuracy: 98.21% (383/390)
+================= Running Epoch : 5 =================
+Train set: Average loss: 0.2210, Accuracy: 4747/5216 (91.0084%)
+
+Printing class wise accuracy for Training Set.
+  Class 0 Accuracy: 80.54% (1080/1341)
+  Class 1 Accuracy: 94.63% (3667/3875)
+
+Validation set: Average loss: 0.9504, Accuracy: 10/16 (62%)
+
+Printing class wise accuracy for Validation Set.
+  Class 0 Accuracy: 25.00% (2/8)
+  Class 1 Accuracy: 100.00% (8/8)
+
+Test set: Average loss: 0.6921, Accuracy: 416/624 (67%)
+
+Printing class wise accuracy for Test Set.
+  Class 0 Accuracy: 14.10% (33/234)
+  Class 1 Accuracy: 98.21% (383/390)
+================= Running Epoch : 6 =================
+Train set: Average loss: 0.2080, Accuracy: 4779/5216 (91.6219%)
+
+Printing class wise accuracy for Training Set.
+  Class 0 Accuracy: 80.98% (1086/1341)
+  Class 1 Accuracy: 95.30% (3693/3875)
+
+Validation set: Average loss: 0.4650, Accuracy: 12/16 (75%)
+
+Printing class wise accuracy for Validation Set.
+  Class 0 Accuracy: 50.00% (4/8)
+  Class 1 Accuracy: 100.00% (8/8)
+
+Test set: Average loss: 0.4150, Accuracy: 506/624 (81%)
+
+Printing class wise accuracy for Test Set.
+  Class 0 Accuracy: 62.82% (147/234)
+  Class 1 Accuracy: 92.05% (359/390)
+================= Running Epoch : 7 =================
+Train set: Average loss: 0.1842, Accuracy: 4859/5216 (93.1557%)
+
+Printing class wise accuracy for Training Set.
+  Class 0 Accuracy: 84.71% (1136/1341)
+  Class 1 Accuracy: 96.08% (3723/3875)
+
+Validation set: Average loss: 0.9112, Accuracy: 11/16 (69%)
+
+Printing class wise accuracy for Validation Set.
+  Class 0 Accuracy: 37.50% (3/8)
+  Class 1 Accuracy: 100.00% (8/8)
+
+Test set: Average loss: 0.5682, Accuracy: 454/624 (73%)
+
+Printing class wise accuracy for Test Set.
+  Class 0 Accuracy: 30.77% (72/234)
+  Class 1 Accuracy: 97.95% (382/390)
+================= Running Epoch : 8 =================
+Train set: Average loss: 0.1823, Accuracy: 4836/5216 (92.7147%)
+
+Printing class wise accuracy for Training Set.
+  Class 0 Accuracy: 84.34% (1131/1341)
+  Class 1 Accuracy: 95.61% (3705/3875)
+
+Validation set: Average loss: 0.9982, Accuracy: 9/16 (56%)
+
+Printing class wise accuracy for Validation Set.
+  Class 0 Accuracy: 12.50% (1/8)
+  Class 1 Accuracy: 100.00% (8/8)
+
+Test set: Average loss: 0.6058, Accuracy: 434/624 (70%)
+
+Printing class wise accuracy for Test Set.
+  Class 0 Accuracy: 21.37% (50/234)
+  Class 1 Accuracy: 98.46% (384/390)
+================= Running Epoch : 9 =================
+Train set: Average loss: 0.1743, Accuracy: 4856/5216 (93.0982%)
+
+Printing class wise accuracy for Training Set.
+  Class 0 Accuracy: 84.27% (1130/1341)
+  Class 1 Accuracy: 96.15% (3726/3875)
+
+Validation set: Average loss: 0.9588, Accuracy: 9/16 (56%)
+
+Printing class wise accuracy for Validation Set.
+  Class 0 Accuracy: 12.50% (1/8)
+  Class 1 Accuracy: 100.00% (8/8)
+
+Test set: Average loss: 0.5585, Accuracy: 455/624 (73%)
+
+Printing class wise accuracy for Test Set.
+  Class 0 Accuracy: 30.34% (71/234)
+  Class 1 Accuracy: 98.46% (384/390)
+================= Running Epoch : 10 =================
+Train set: Average loss: 0.1569, Accuracy: 4894/5216 (93.8267%)
+
+Printing class wise accuracy for Training Set.
+  Class 0 Accuracy: 86.35% (1158/1341)
+  Class 1 Accuracy: 96.41% (3736/3875)
+
+Validation set: Average loss: 0.6665, Accuracy: 11/16 (69%)
+
+Printing class wise accuracy for Validation Set.
+  Class 0 Accuracy: 37.50% (3/8)
+  Class 1 Accuracy: 100.00% (8/8)
+
+Test set: Average loss: 0.4185, Accuracy: 502/624 (80%)
+
+Printing class wise accuracy for Test Set.
+  Class 0 Accuracy: 54.70% (128/234)
+  Class 1 Accuracy: 95.90% (374/390)
+================= Running Epoch : 11 =================
+Train set: Average loss: 0.1625, Accuracy: 4861/5216 (93.1940%)
+
+Printing class wise accuracy for Training Set.
+  Class 0 Accuracy: 85.76% (1150/1341)
+  Class 1 Accuracy: 95.77% (3711/3875)
+
+Validation set: Average loss: 1.0538, Accuracy: 9/16 (56%)
+
+Printing class wise accuracy for Validation Set.
+  Class 0 Accuracy: 12.50% (1/8)
+  Class 1 Accuracy: 100.00% (8/8)
+
+Test set: Average loss: 0.6058, Accuracy: 452/624 (72%)
+
+Printing class wise accuracy for Test Set.
+  Class 0 Accuracy: 28.21% (66/234)
+  Class 1 Accuracy: 98.97% (386/390)
+================= Running Epoch : 12 =================
+Train set: Average loss: 0.1447, Accuracy: 4920/5216 (94.3252%)
+
+Printing class wise accuracy for Training Set.
+  Class 0 Accuracy: 87.70% (1176/1341)
+  Class 1 Accuracy: 96.62% (3744/3875)
+
+Validation set: Average loss: 1.6877, Accuracy: 8/16 (50%)
+
+Printing class wise accuracy for Validation Set.
+  Class 0 Accuracy: 0.00% (0/8)
+  Class 1 Accuracy: 100.00% (8/8)
+
+Test set: Average loss: 0.9270, Accuracy: 417/624 (67%)
+
+Printing class wise accuracy for Test Set.
+  Class 0 Accuracy: 11.54% (27/234)
+  Class 1 Accuracy: 100.00% (390/390)
+================= Running Epoch : 13 =================
+Train set: Average loss: 0.1295, Accuracy: 4969/5216 (95.2646%)
+
+Printing class wise accuracy for Training Set.
+  Class 0 Accuracy: 90.08% (1208/1341)
+  Class 1 Accuracy: 97.06% (3761/3875)
+
+Validation set: Average loss: 0.4464, Accuracy: 12/16 (75%)
+
+Printing class wise accuracy for Validation Set.
+  Class 0 Accuracy: 50.00% (4/8)
+  Class 1 Accuracy: 100.00% (8/8)
+
+Test set: Average loss: 0.3419, Accuracy: 539/624 (86%)
+
+Printing class wise accuracy for Test Set.
+  Class 0 Accuracy: 72.22% (169/234)
+  Class 1 Accuracy: 94.87% (370/390)
+================= Running Epoch : 14 =================
+Train set: Average loss: 0.1250, Accuracy: 4970/5216 (95.2837%)
+
+Printing class wise accuracy for Training Set.
+  Class 0 Accuracy: 89.93% (1206/1341)
+  Class 1 Accuracy: 97.14% (3764/3875)
+
+Validation set: Average loss: 0.9448, Accuracy: 11/16 (69%)
+
+Printing class wise accuracy for Validation Set.
+  Class 0 Accuracy: 37.50% (3/8)
+  Class 1 Accuracy: 100.00% (8/8)
+
+Test set: Average loss: 0.5509, Accuracy: 477/624 (76%)
+
+Printing class wise accuracy for Test Set.
+  Class 0 Accuracy: 38.89% (91/234)
+  Class 1 Accuracy: 98.97% (386/390)
+================= Running Epoch : 15 =================
+Train set: Average loss: 0.1202, Accuracy: 4990/5216 (95.6672%)
+
+Printing class wise accuracy for Training Set.
+  Class 0 Accuracy: 90.68% (1216/1341)
+  Class 1 Accuracy: 97.39% (3774/3875)
+
+Validation set: Average loss: 1.5226, Accuracy: 10/16 (62%)
+
+Printing class wise accuracy for Validation Set.
+  Class 0 Accuracy: 100.00% (8/8)
+  Class 1 Accuracy: 25.00% (2/8)
+
+Test set: Average loss: 0.9351, Accuracy: 425/624 (68%)
+
+Printing class wise accuracy for Test Set.
+  Class 0 Accuracy: 93.59% (219/234)
+  Class 1 Accuracy: 52.82% (206/390)
+================= Running Epoch : 16 =================
+Train set: Average loss: 0.1131, Accuracy: 4994/5216 (95.7439%)
+
+Printing class wise accuracy for Training Set.
+  Class 0 Accuracy: 90.68% (1216/1341)
+  Class 1 Accuracy: 97.50% (3778/3875)
+
+Validation set: Average loss: 0.3661, Accuracy: 11/16 (69%)
+
+Printing class wise accuracy for Validation Set.
+  Class 0 Accuracy: 50.00% (4/8)
+  Class 1 Accuracy: 87.50% (7/8)
+
+Test set: Average loss: 0.3293, Accuracy: 541/624 (87%)
+
+Printing class wise accuracy for Test Set.
+  Class 0 Accuracy: 73.50% (172/234)
+  Class 1 Accuracy: 94.62% (369/390)
+================= Running Epoch : 17 =================
+Train set: Average loss: 0.1091, Accuracy: 5008/5216 (96.0123%)
+
+Printing class wise accuracy for Training Set.
+  Class 0 Accuracy: 91.50% (1227/1341)
+  Class 1 Accuracy: 97.57% (3781/3875)
+
+Validation set: Average loss: 0.9250, Accuracy: 10/16 (62%)
+
+Printing class wise accuracy for Validation Set.
+  Class 0 Accuracy: 25.00% (2/8)
+  Class 1 Accuracy: 100.00% (8/8)
+
+Test set: Average loss: 0.6215, Accuracy: 459/624 (74%)
+
+Printing class wise accuracy for Test Set.
+  Class 0 Accuracy: 31.20% (73/234)
+  Class 1 Accuracy: 98.97% (386/390)
+================= Running Epoch : 18 =================
+Train set: Average loss: 0.1027, Accuracy: 5025/5216 (96.3382%)
+
+Printing class wise accuracy for Training Set.
+  Class 0 Accuracy: 92.24% (1237/1341)
+  Class 1 Accuracy: 97.75% (3788/3875)
+
+Validation set: Average loss: 1.5871, Accuracy: 8/16 (50%)
+
+Printing class wise accuracy for Validation Set.
+  Class 0 Accuracy: 0.00% (0/8)
+  Class 1 Accuracy: 100.00% (8/8)
+
+Test set: Average loss: 0.9562, Accuracy: 432/624 (69%)
+
+Printing class wise accuracy for Test Set.
+  Class 0 Accuracy: 17.95% (42/234)
+  Class 1 Accuracy: 100.00% (390/390)
+================= Running Epoch : 19 =================
+Train set: Average loss: 0.1001, Accuracy: 5020/5216 (96.2423%)
+
+Printing class wise accuracy for Training Set.
+  Class 0 Accuracy: 92.39% (1239/1341)
+  Class 1 Accuracy: 97.57% (3781/3875)
+
+Validation set: Average loss: 0.6370, Accuracy: 12/16 (75%)
+
+Printing class wise accuracy for Validation Set.
+  Class 0 Accuracy: 50.00% (4/8)
+  Class 1 Accuracy: 100.00% (8/8)
+
+Test set: Average loss: 0.4846, Accuracy: 488/624 (78%)
+
+Printing class wise accuracy for Test Set.
+  Class 0 Accuracy: 45.73% (107/234)
+  Class 1 Accuracy: 97.69% (381/390)
+================= Running Epoch : 20 =================
+Train set: Average loss: 0.0942, Accuracy: 5037/5216 (96.5683%)
+
+Printing class wise accuracy for Training Set.
+  Class 0 Accuracy: 92.62% (1242/1341)
+  Class 1 Accuracy: 97.94% (3795/3875)
+
+Validation set: Average loss: 1.6541, Accuracy: 8/16 (50%)
+
+Printing class wise accuracy for Validation Set.
+  Class 0 Accuracy: 0.00% (0/8)
+  Class 1 Accuracy: 100.00% (8/8)
+
+Test set: Average loss: 1.0044, Accuracy: 432/624 (69%)
+
+Printing class wise accuracy for Test Set.
+  Class 0 Accuracy: 17.95% (42/234)
+  Class 1 Accuracy: 100.00% (390/390)
+================= Running Epoch : 21 =================
+Train set: Average loss: 0.0888, Accuracy: 5039/5216 (96.6066%)
+
+Printing class wise accuracy for Training Set.
+  Class 0 Accuracy: 92.69% (1243/1341)
+  Class 1 Accuracy: 97.96% (3796/3875)
+
+Validation set: Average loss: 0.4378, Accuracy: 13/16 (81%)
+
+Printing class wise accuracy for Validation Set.
+  Class 0 Accuracy: 100.00% (8/8)
+  Class 1 Accuracy: 62.50% (5/8)
+
+Test set: Average loss: 0.4062, Accuracy: 523/624 (84%)
+
+Printing class wise accuracy for Test Set.
+  Class 0 Accuracy: 88.03% (206/234)
+  Class 1 Accuracy: 81.28% (317/390)
+================= Running Epoch : 22 =================
+Train set: Average loss: 0.0908, Accuracy: 5041/5216 (96.6449%)
+
+Printing class wise accuracy for Training Set.
+  Class 0 Accuracy: 92.32% (1238/1341)
+  Class 1 Accuracy: 98.14% (3803/3875)
+
+Validation set: Average loss: 1.0907, Accuracy: 10/16 (62%)
+
+Printing class wise accuracy for Validation Set.
+  Class 0 Accuracy: 100.00% (8/8)
+  Class 1 Accuracy: 25.00% (2/8)
+
+Test set: Average loss: 0.5890, Accuracy: 485/624 (78%)
+
+Printing class wise accuracy for Test Set.
+  Class 0 Accuracy: 94.02% (220/234)
+  Class 1 Accuracy: 67.95% (265/390)
+================= Running Epoch : 23 =================
+Train set: Average loss: 0.0833, Accuracy: 5064/5216 (97.0859%)
+
+Printing class wise accuracy for Training Set.
+  Class 0 Accuracy: 93.89% (1259/1341)
+  Class 1 Accuracy: 98.19% (3805/3875)
+
+Validation set: Average loss: 0.5490, Accuracy: 11/16 (69%)
+
+Printing class wise accuracy for Validation Set.
+  Class 0 Accuracy: 50.00% (4/8)
+  Class 1 Accuracy: 87.50% (7/8)
+
+Test set: Average loss: 0.5684, Accuracy: 483/624 (77%)
+
+Printing class wise accuracy for Test Set.
+  Class 0 Accuracy: 42.74% (100/234)
+  Class 1 Accuracy: 98.21% (383/390)
+================= Running Epoch : 24 =================
+Train set: Average loss: 0.0861, Accuracy: 5042/5216 (96.6641%)
+
+Printing class wise accuracy for Training Set.
+  Class 0 Accuracy: 93.14% (1249/1341)
+  Class 1 Accuracy: 97.88% (3793/3875)
+
+Validation set: Average loss: 0.5934, Accuracy: 10/16 (62%)
+
+Printing class wise accuracy for Validation Set.
+  Class 0 Accuracy: 37.50% (3/8)
+  Class 1 Accuracy: 87.50% (7/8)
+
+Test set: Average loss: 0.5493, Accuracy: 493/624 (79%)
+
+Printing class wise accuracy for Test Set.
+  Class 0 Accuracy: 45.73% (107/234)
+  Class 1 Accuracy: 98.97% (386/390)
+================= Running Epoch : 25 =================
+Train set: Average loss: 0.0784, Accuracy: 5059/5216 (96.9900%)
+
+Printing class wise accuracy for Training Set.
+  Class 0 Accuracy: 93.29% (1251/1341)
+  Class 1 Accuracy: 98.27% (3808/3875)
+
+Validation set: Average loss: 0.5396, Accuracy: 15/16 (94%)
+
+Printing class wise accuracy for Validation Set.
+  Class 0 Accuracy: 100.00% (8/8)
+  Class 1 Accuracy: 87.50% (7/8)
+
+Test set: Average loss: 0.3480, Accuracy: 542/624 (87%)
+
+Printing class wise accuracy for Test Set.
+  Class 0 Accuracy: 86.32% (202/234)
+  Class 1 Accuracy: 87.18% (340/390)
+================= Running Epoch : 26 =================
+Train set: Average loss: 0.0746, Accuracy: 5079/5216 (97.3735%)
+
+Printing class wise accuracy for Training Set.
+  Class 0 Accuracy: 94.26% (1264/1341)
+  Class 1 Accuracy: 98.45% (3815/3875)
+
+Validation set: Average loss: 1.8309, Accuracy: 8/16 (50%)
+
+Printing class wise accuracy for Validation Set.
+  Class 0 Accuracy: 0.00% (0/8)
+  Class 1 Accuracy: 100.00% (8/8)
+
+Test set: Average loss: 1.2050, Accuracy: 421/624 (67%)
+
+Printing class wise accuracy for Test Set.
+  Class 0 Accuracy: 13.25% (31/234)
+  Class 1 Accuracy: 100.00% (390/390)
+================= Running Epoch : 27 =================
+Train set: Average loss: 0.0801, Accuracy: 5066/5216 (97.1242%)
+
+Printing class wise accuracy for Training Set.
+  Class 0 Accuracy: 93.74% (1257/1341)
+  Class 1 Accuracy: 98.30% (3809/3875)
+
+Validation set: Average loss: 0.5251, Accuracy: 11/16 (69%)
+
+Printing class wise accuracy for Validation Set.
+  Class 0 Accuracy: 50.00% (4/8)
+  Class 1 Accuracy: 87.50% (7/8)
+
+Test set: Average loss: 0.4648, Accuracy: 517/624 (83%)
+
+Printing class wise accuracy for Test Set.
+  Class 0 Accuracy: 56.41% (132/234)
+  Class 1 Accuracy: 98.72% (385/390)
+================= Running Epoch : 28 =================
+Train set: Average loss: 0.0717, Accuracy: 5084/5216 (97.4693%)
+
+Printing class wise accuracy for Training Set.
+  Class 0 Accuracy: 94.48% (1267/1341)
+  Class 1 Accuracy: 98.50% (3817/3875)
+
+Validation set: Average loss: 0.9024, Accuracy: 11/16 (69%)
+
+Printing class wise accuracy for Validation Set.
+  Class 0 Accuracy: 37.50% (3/8)
+  Class 1 Accuracy: 100.00% (8/8)
+
+Test set: Average loss: 0.7948, Accuracy: 459/624 (74%)
+
+Printing class wise accuracy for Test Set.
+  Class 0 Accuracy: 29.91% (70/234)
+  Class 1 Accuracy: 99.74% (389/390)
+================= Running Epoch : 29 =================
+Train set: Average loss: 0.0668, Accuracy: 5087/5216 (97.5268%)
+
+Printing class wise accuracy for Training Set.
+  Class 0 Accuracy: 95.00% (1274/1341)
+  Class 1 Accuracy: 98.40% (3813/3875)
+
+Validation set: Average loss: 0.9973, Accuracy: 10/16 (62%)
+
+Printing class wise accuracy for Validation Set.
+  Class 0 Accuracy: 25.00% (2/8)
+  Class 1 Accuracy: 100.00% (8/8)
+
+Test set: Average loss: 0.7664, Accuracy: 465/624 (75%)
+
+Printing class wise accuracy for Test Set.
+  Class 0 Accuracy: 32.48% (76/234)
+  Class 1 Accuracy: 99.74% (389/390)
+================= Running Epoch : 30 =================
+Train set: Average loss: 0.0644, Accuracy: 5097/5216 (97.7186%)
+
+Printing class wise accuracy for Training Set.
+  Class 0 Accuracy: 94.85% (1272/1341)
+  Class 1 Accuracy: 98.71% (3825/3875)
+
+Validation set: Average loss: 0.4435, Accuracy: 11/16 (69%)
+
+Printing class wise accuracy for Validation Set.
+  Class 0 Accuracy: 50.00% (4/8)
+  Class 1 Accuracy: 87.50% (7/8)
+
+Test set: Average loss: 0.4947, Accuracy: 515/624 (83%)
+
+Printing class wise accuracy for Test Set.
+  Class 0 Accuracy: 57.26% (134/234)
+  Class 1 Accuracy: 97.69% (381/390)
+================= Running Epoch : 31 =================
+Train set: Average loss: 0.0663, Accuracy: 5089/5216 (97.5652%)
+
+Printing class wise accuracy for Training Set.
+  Class 0 Accuracy: 94.78% (1271/1341)
+  Class 1 Accuracy: 98.53% (3818/3875)
+
+Validation set: Average loss: 0.4005, Accuracy: 13/16 (81%)
+
+Printing class wise accuracy for Validation Set.
+  Class 0 Accuracy: 75.00% (6/8)
+  Class 1 Accuracy: 87.50% (7/8)
+
+Test set: Average loss: 0.4147, Accuracy: 529/624 (85%)
+
+Printing class wise accuracy for Test Set.
+  Class 0 Accuracy: 64.10% (150/234)
+  Class 1 Accuracy: 97.18% (379/390)
+================= Running Epoch : 32 =================
+Train set: Average loss: 0.0590, Accuracy: 5106/5216 (97.8911%)
+
+Printing class wise accuracy for Training Set.
+  Class 0 Accuracy: 95.60% (1282/1341)
+  Class 1 Accuracy: 98.68% (3824/3875)
+
+Validation set: Average loss: 1.8412, Accuracy: 9/16 (56%)
+
+Printing class wise accuracy for Validation Set.
+  Class 0 Accuracy: 100.00% (8/8)
+  Class 1 Accuracy: 12.50% (1/8)
+
+Test set: Average loss: 0.7017, Accuracy: 462/624 (74%)
+
+Printing class wise accuracy for Test Set.
+  Class 0 Accuracy: 92.31% (216/234)
+  Class 1 Accuracy: 63.08% (246/390)
+================= Running Epoch : 33 =================
+Train set: Average loss: 0.0596, Accuracy: 5106/5216 (97.8911%)
+
+Printing class wise accuracy for Training Set.
+  Class 0 Accuracy: 95.30% (1278/1341)
+  Class 1 Accuracy: 98.79% (3828/3875)
+
+Validation set: Average loss: 0.9216, Accuracy: 12/16 (75%)
+
+Printing class wise accuracy for Validation Set.
+  Class 0 Accuracy: 50.00% (4/8)
+  Class 1 Accuracy: 100.00% (8/8)
+
+Test set: Average loss: 0.7232, Accuracy: 471/624 (75%)
+
+Printing class wise accuracy for Test Set.
+  Class 0 Accuracy: 36.75% (86/234)
+  Class 1 Accuracy: 98.72% (385/390)
+================= Running Epoch : 34 =================
+Train set: Average loss: 0.0630, Accuracy: 5094/5216 (97.6610%)
+
+Printing class wise accuracy for Training Set.
+  Class 0 Accuracy: 94.48% (1267/1341)
+  Class 1 Accuracy: 98.76% (3827/3875)
+
+Validation set: Average loss: 1.1514, Accuracy: 12/16 (75%)
+
+Printing class wise accuracy for Validation Set.
+  Class 0 Accuracy: 100.00% (8/8)
+  Class 1 Accuracy: 50.00% (4/8)
+
+Test set: Average loss: 0.4374, Accuracy: 520/624 (83%)
+
+Printing class wise accuracy for Test Set.
+  Class 0 Accuracy: 82.91% (194/234)
+  Class 1 Accuracy: 83.59% (326/390)
+================= Running Epoch : 35 =================
+Train set: Average loss: 0.0582, Accuracy: 5110/5216 (97.9678%)
+
+Printing class wise accuracy for Training Set.
+  Class 0 Accuracy: 95.82% (1285/1341)
+  Class 1 Accuracy: 98.71% (3825/3875)
+
+Validation set: Average loss: 1.1805, Accuracy: 9/16 (56%)
+
+Printing class wise accuracy for Validation Set.
+  Class 0 Accuracy: 12.50% (1/8)
+  Class 1 Accuracy: 100.00% (8/8)
+
+Test set: Average loss: 0.9379, Accuracy: 451/624 (72%)
+
+Printing class wise accuracy for Test Set.
+  Class 0 Accuracy: 26.07% (61/234)
+  Class 1 Accuracy: 100.00% (390/390)
+================= Running Epoch : 36 =================
+Train set: Average loss: 0.0505, Accuracy: 5128/5216 (98.3129%)
+
+Printing class wise accuracy for Training Set.
+  Class 0 Accuracy: 96.64% (1296/1341)
+  Class 1 Accuracy: 98.89% (3832/3875)
+
+Validation set: Average loss: 0.8030, Accuracy: 11/16 (69%)
+
+Printing class wise accuracy for Validation Set.
+  Class 0 Accuracy: 37.50% (3/8)
+  Class 1 Accuracy: 100.00% (8/8)
+
+Test set: Average loss: 0.8431, Accuracy: 456/624 (73%)
+
+Printing class wise accuracy for Test Set.
+  Class 0 Accuracy: 29.06% (68/234)
+  Class 1 Accuracy: 99.49% (388/390)
+================= Running Epoch : 37 =================
+Train set: Average loss: 0.0508, Accuracy: 5120/5216 (98.1595%)
+
+Printing class wise accuracy for Training Set.
+  Class 0 Accuracy: 95.82% (1285/1341)
+  Class 1 Accuracy: 98.97% (3835/3875)
+
+Validation set: Average loss: 1.1170, Accuracy: 11/16 (69%)
+
+Printing class wise accuracy for Validation Set.
+  Class 0 Accuracy: 37.50% (3/8)
+  Class 1 Accuracy: 100.00% (8/8)
+
+Test set: Average loss: 0.8634, Accuracy: 457/624 (73%)
+
+Printing class wise accuracy for Test Set.
+  Class 0 Accuracy: 29.49% (69/234)
+  Class 1 Accuracy: 99.49% (388/390)
+================= Running Epoch : 38 =================
+Train set: Average loss: 0.0469, Accuracy: 5136/5216 (98.4663%)
+
+Printing class wise accuracy for Training Set.
+  Class 0 Accuracy: 96.50% (1294/1341)
+  Class 1 Accuracy: 99.15% (3842/3875)
+
+Validation set: Average loss: 1.4717, Accuracy: 9/16 (56%)
+
+Printing class wise accuracy for Validation Set.
+  Class 0 Accuracy: 12.50% (1/8)
+  Class 1 Accuracy: 100.00% (8/8)
+
+Test set: Average loss: 1.2117, Accuracy: 428/624 (69%)
+
+Printing class wise accuracy for Test Set.
+  Class 0 Accuracy: 16.24% (38/234)
+  Class 1 Accuracy: 100.00% (390/390)
+================= Running Epoch : 39 =================
+Train set: Average loss: 0.0510, Accuracy: 5125/5216 (98.2554%)
+
+Printing class wise accuracy for Training Set.
+  Class 0 Accuracy: 96.05% (1288/1341)
+  Class 1 Accuracy: 99.02% (3837/3875)
+
+Validation set: Average loss: 0.5683, Accuracy: 12/16 (75%)
+
+Printing class wise accuracy for Validation Set.
+  Class 0 Accuracy: 50.00% (4/8)
+  Class 1 Accuracy: 100.00% (8/8)
+
+Test set: Average loss: 0.6763, Accuracy: 484/624 (78%)
+
+Printing class wise accuracy for Test Set.
+  Class 0 Accuracy: 41.45% (97/234)
+  Class 1 Accuracy: 99.23% (387/390)
+================= Running Epoch : 40 =================
+Train set: Average loss: 0.0471, Accuracy: 5127/5216 (98.2937%)
+
+Printing class wise accuracy for Training Set.
+  Class 0 Accuracy: 96.57% (1295/1341)
+  Class 1 Accuracy: 98.89% (3832/3875)
+
+Validation set: Average loss: 1.2426, Accuracy: 10/16 (62%)
+
+Printing class wise accuracy for Validation Set.
+  Class 0 Accuracy: 25.00% (2/8)
+  Class 1 Accuracy: 100.00% (8/8)
+
+Test set: Average loss: 1.0695, Accuracy: 441/624 (71%)
+
+Printing class wise accuracy for Test Set.
+  Class 0 Accuracy: 21.79% (51/234)
+  Class 1 Accuracy: 100.00% (390/390)
+accuracy is 0.87
+convergence epoch is 25
+
+Final Results:
+--------------------------------------------------
+Best Test Accuracy: 25.00%
+Final Train Loss: 0.0471
+Final Test Loss: 1.0695
+
+==================================================
+Finished Mode scratch at 2025-02-10 19:03:47
+==================================================
+
+Training and evaluation finished
+Model weights have been saved at: model_weights/model_Resnet18_Scratch_cw.pth
