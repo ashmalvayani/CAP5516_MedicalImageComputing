@@ -1,0 +1,16 @@
+
+CondaError: Run 'conda init' before 'conda activate'
+
+wandb: Using wandb-core as the SDK backend.  Please refer to https://wandb.me/wandb-core for more information.
+wandb: Currently logged in as: ashmalanis08. Use `wandb login --relogin` to force relogin
+wandb: Appending key for api.wandb.ai to your netrc file: /home/ashmal/.netrc
+wandb: Tracking run with wandb version 0.18.7
+wandb: Run data is saved locally in /home/ashmal/Courses/MedImgComputing/Assignment_1/A1/wandb/run-20250210_205352-ubtcv23n
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run legendary-lake-1
+wandb:  View project at https://wandb.ai/ashmalanis08/CAP5415_MedImgComp_PA1_scratch
+wandb:  View run at https://wandb.ai/ashmalanis08/CAP5415_MedImgComp_PA1_scratch/runs/ubtcv23n
+/home/ashmal/anaconda3/envs/llava2/lib/python3.10/site-packages/torchvision/models/_utils.py:208: UserWarning: The parameter 'pretrained' is deprecated since 0.13 and may be removed in the future, please use 'weights' instead.
+  warnings.warn(
+/home/ashmal/anaconda3/envs/llava2/lib/python3.10/site-packages/torchvision/models/_utils.py:223: UserWarning: Arguments other than a weight enum or `None` for 'weights' are deprecated since 0.13 and may be removed in the future. The current behavior is equivalent to passing `weights=None`.
+  warnings.warn(msg)

@@ -1,0 +1,12 @@
+
+CondaError: Run 'conda init' before 'conda activate'
+
+wandb: Using wandb-core as the SDK backend.  Please refer to https://wandb.me/wandb-core for more information.
+wandb: Currently logged in as: ashmalanis08. Use `wandb login --relogin` to force relogin
+wandb: Appending key for api.wandb.ai to your netrc file: /home/ashmal/.netrc
+wandb: Tracking run with wandb version 0.18.7
+wandb: Run data is saved locally in /home/ashmal/Courses/MedImgComputing/Assignment_1/A1/wandb/run-20250210_211017-tvfaay08
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run crisp-breeze-1
+wandb:  View project at https://wandb.ai/ashmalanis08/CAP5415_MedImgComp_PA1_pretrained_Augment
+wandb:  View run at https://wandb.ai/ashmalanis08/CAP5415_MedImgComp_PA1_pretrained_Augment/runs/tvfaay08
