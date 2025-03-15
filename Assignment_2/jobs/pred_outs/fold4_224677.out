@@ -1,0 +1,880 @@
+Successfully load checkpoint /home/ashmal/Courses/MedImgComputing/Assignment_2/TransBTS/checkpoints/fold_4/fold_4.pth
+Samples for valid = 97
+-------------------------------------------------------------------
+Subject 1/97,            BRATS_372, 
+Successfully save /home/ashmal/Courses/MedImgComputing/Assignment_2/TransBTS/inference/submission/fold_4/BRATS_372.nii.gz
+Hausdorff Distance for class (ET): 2.23606797749979
+Hausdorff Distance for class (TC): 3.7416573867739413
+Hausdorff Distance for class (WT): 4.47213595499958
+Dice Score for class (ET): 0.8080931943584629
+Dice Score for class (TC): 0.8285064365682444
+Dice Score for class (WT): 0.8528476438275931
+-------------------------------------------------------------------
+Subject 2/97,            BRATS_019, 
+Successfully save /home/ashmal/Courses/MedImgComputing/Assignment_2/TransBTS/inference/submission/fold_4/BRATS_019.nii.gz
+Hausdorff Distance for class (ET): 52.773099207835045
+Hausdorff Distance for class (TC): 11.40175425099138
+Hausdorff Distance for class (WT): 13.92838827718412
+Dice Score for class (ET): 0.43304600581326225
+Dice Score for class (TC): 0.7792592479200013
+Dice Score for class (WT): 0.8149050271597822
+-------------------------------------------------------------------
+Subject 3/97,            BRATS_280, 
+Successfully save /home/ashmal/Courses/MedImgComputing/Assignment_2/TransBTS/inference/submission/fold_4/BRATS_280.nii.gz
+Hausdorff Distance for class (ET): 1.4142135623730951
+Hausdorff Distance for class (TC): 2.8284271247461903
+Hausdorff Distance for class (WT): 3.0
+Dice Score for class (ET): 0.9377076071354572
+Dice Score for class (TC): 0.8989172811199178
+Dice Score for class (WT): 0.9325963216505953
+-------------------------------------------------------------------
+Subject 4/97,            BRATS_396, 
+Successfully save /home/ashmal/Courses/MedImgComputing/Assignment_2/TransBTS/inference/submission/fold_4/BRATS_396.nii.gz
+Hausdorff Distance for class (ET): 1.0
+Hausdorff Distance for class (TC): 1.7320508075688772
+Hausdorff Distance for class (WT): 1.7320508075688772
+Dice Score for class (ET): 0.9142044155379909
+Dice Score for class (TC): 0.9117584496070027
+Dice Score for class (WT): 0.9321960637408422
+-------------------------------------------------------------------
+Subject 5/97,            BRATS_050, 
+Successfully save /home/ashmal/Courses/MedImgComputing/Assignment_2/TransBTS/inference/submission/fold_4/BRATS_050.nii.gz
+Hausdorff Distance for class (ET): 2.449489742783178
+Hausdorff Distance for class (TC): 4.898979485566356
+Hausdorff Distance for class (WT): 4.0
+Dice Score for class (ET): 0.8947759550807973
+Dice Score for class (TC): 0.8538759900816275
+Dice Score for class (WT): 0.8989391401451059
+-------------------------------------------------------------------
+Subject 6/97,            BRATS_347, 
+Successfully save /home/ashmal/Courses/MedImgComputing/Assignment_2/TransBTS/inference/submission/fold_4/BRATS_347.nii.gz
+Hausdorff Distance for class (ET): 2.23606797749979
+Hausdorff Distance for class (TC): 2.23606797749979
+Hausdorff Distance for class (WT): 2.23606797749979
+Dice Score for class (ET): 0.8271748310806444
+Dice Score for class (TC): 0.9295398655069267
+Dice Score for class (WT): 0.9469714123495355
+-------------------------------------------------------------------
+Subject 7/97,            BRATS_174, 
+Successfully save /home/ashmal/Courses/MedImgComputing/Assignment_2/TransBTS/inference/submission/fold_4/BRATS_174.nii.gz
+Hausdorff Distance for class (ET): 2.0
+Hausdorff Distance for class (TC): 3.4641016151377544
+Hausdorff Distance for class (WT): 2.23606797749979
+Dice Score for class (ET): 0.8743632234700678
+Dice Score for class (TC): 0.8552759609497789
+Dice Score for class (WT): 0.9428730390549241
+-------------------------------------------------------------------
+Subject 8/97,            BRATS_444, 
+Successfully save /home/ashmal/Courses/MedImgComputing/Assignment_2/TransBTS/inference/submission/fold_4/BRATS_444.nii.gz
+Hausdorff Distance for class (ET): 26.70205984563738
+Hausdorff Distance for class (TC): 3.4641016151377544
+Hausdorff Distance for class (WT): 3.7416573867739413
+Dice Score for class (ET): 0.7012928611571654
+Dice Score for class (TC): 0.8435242659439015
+Dice Score for class (WT): 0.863086130425436
+-------------------------------------------------------------------
+Subject 9/97,            BRATS_025, 
+Successfully save /home/ashmal/Courses/MedImgComputing/Assignment_2/TransBTS/inference/submission/fold_4/BRATS_025.nii.gz
+-------------------------------------------------------------------
+Subject 10/97,            BRATS_332, 
+Successfully save /home/ashmal/Courses/MedImgComputing/Assignment_2/TransBTS/inference/submission/fold_4/BRATS_332.nii.gz
+Hausdorff Distance for class (ET): 4.0
+Hausdorff Distance for class (TC): 3.0
+Hausdorff Distance for class (WT): 4.0
+Dice Score for class (ET): 0.7493063120463797
+Dice Score for class (TC): 0.8235115799684234
+Dice Score for class (WT): 0.8762047218199387
+-------------------------------------------------------------------
+Subject 11/97,            BRATS_101, 
+Successfully save /home/ashmal/Courses/MedImgComputing/Assignment_2/TransBTS/inference/submission/fold_4/BRATS_101.nii.gz
+Hausdorff Distance for class (ET): 65.80311540693056
+Hausdorff Distance for class (TC): 12.93052832877937
+Hausdorff Distance for class (WT): 11.987456293171826
+Dice Score for class (ET): 0.5817907064598993
+Dice Score for class (TC): 0.5306204763931555
+Dice Score for class (WT): 0.6648957163240637
+-------------------------------------------------------------------
+Subject 12/97,            BRATS_429, 
+Successfully save /home/ashmal/Courses/MedImgComputing/Assignment_2/TransBTS/inference/submission/fold_4/BRATS_429.nii.gz
+Hausdorff Distance for class (ET): 2.8284271247461903
+Hausdorff Distance for class (TC): 4.358898943540674
+Hausdorff Distance for class (WT): 5.0990195135927845
+Dice Score for class (ET): 0.8796949475688739
+Dice Score for class (TC): 0.880450043638212
+Dice Score for class (WT): 0.9050040776680407
+-------------------------------------------------------------------
+Subject 13/97,            BRATS_387, 
+Successfully save /home/ashmal/Courses/MedImgComputing/Assignment_2/TransBTS/inference/submission/fold_4/BRATS_387.nii.gz
+Hausdorff Distance for class (ET): 1.4142135623730951
+Hausdorff Distance for class (TC): 2.0
+Hausdorff Distance for class (WT): 2.23606797749979
+Dice Score for class (ET): 0.9361112070056192
+Dice Score for class (TC): 0.9112706727986739
+Dice Score for class (WT): 0.9388358641132113
+-------------------------------------------------------------------
+Subject 14/97,            BRATS_097, 
+Successfully save /home/ashmal/Courses/MedImgComputing/Assignment_2/TransBTS/inference/submission/fold_4/BRATS_097.nii.gz
+Hausdorff Distance for class (ET): 1.0
+Hausdorff Distance for class (TC): 2.449489742783178
+Hausdorff Distance for class (WT): 2.23606797749979
+Dice Score for class (ET): 0.9291469164984433
+Dice Score for class (TC): 0.8787078651685041
+Dice Score for class (WT): 0.9498047926763277
+-------------------------------------------------------------------
+Subject 15/97,            BRATS_046, 
+Successfully save /home/ashmal/Courses/MedImgComputing/Assignment_2/TransBTS/inference/submission/fold_4/BRATS_046.nii.gz
+Hausdorff Distance for class (ET): 2.0
+Hausdorff Distance for class (TC): 2.8284271247461903
+Hausdorff Distance for class (WT): 3.605551275463989
+Dice Score for class (ET): 0.916414849989146
+Dice Score for class (TC): 0.8625410189266651
+Dice Score for class (WT): 0.9200251017450825
+-------------------------------------------------------------------
+Subject 16/97,            BRATS_240, 
+Successfully save /home/ashmal/Courses/MedImgComputing/Assignment_2/TransBTS/inference/submission/fold_4/BRATS_240.nii.gz
+Hausdorff Distance for class (ET): 2.23606797749979
+Hausdorff Distance for class (TC): 3.7416573867739413
+Hausdorff Distance for class (WT): 3.7416573867739413
+Dice Score for class (ET): 0.9247279656078512
+Dice Score for class (TC): 0.8851429589382491
+Dice Score for class (WT): 0.9242929185605723
+-------------------------------------------------------------------
+Subject 17/97,            BRATS_186, 
+Successfully save /home/ashmal/Courses/MedImgComputing/Assignment_2/TransBTS/inference/submission/fold_4/BRATS_186.nii.gz
+Hausdorff Distance for class (ET): 22.08956654163939
+Hausdorff Distance for class (TC): 5.0
+Hausdorff Distance for class (WT): 6.0
+Dice Score for class (ET): 0.057525083611655356
+Dice Score for class (TC): 0.742618525392116
+Dice Score for class (WT): 0.8518903233251139
+-------------------------------------------------------------------
+Subject 18/97,            BRATS_363, 
+Successfully save /home/ashmal/Courses/MedImgComputing/Assignment_2/TransBTS/inference/submission/fold_4/BRATS_363.nii.gz
+Hausdorff Distance for class (ET): 1.4142135623730951
+Hausdorff Distance for class (TC): 21.42428528562855
+Hausdorff Distance for class (WT): 23.62202362203543
+Dice Score for class (ET): 0.8159099829907053
+Dice Score for class (TC): 0.7202821007427523
+Dice Score for class (WT): 0.7653874251020744
+-------------------------------------------------------------------
+Subject 19/97,            BRATS_008, 
+Successfully save /home/ashmal/Courses/MedImgComputing/Assignment_2/TransBTS/inference/submission/fold_4/BRATS_008.nii.gz
+Hausdorff Distance for class (ET): 2.23606797749979
+Hausdorff Distance for class (TC): 2.8284271247461903
+Hausdorff Distance for class (WT): 3.0
+Dice Score for class (ET): 0.871747674244954
+Dice Score for class (TC): 0.9024591695856097
+Dice Score for class (WT): 0.9336395763518459
+-------------------------------------------------------------------
+Subject 20/97,            BRATS_249, 
+Successfully save /home/ashmal/Courses/MedImgComputing/Assignment_2/TransBTS/inference/submission/fold_4/BRATS_249.nii.gz
+Hausdorff Distance for class (ET): 2.0
+Hausdorff Distance for class (TC): 3.605551275463989
+Hausdorff Distance for class (WT): 5.0
+Dice Score for class (ET): 0.9049065101677951
+Dice Score for class (TC): 0.9109818748664894
+Dice Score for class (WT): 0.9322884022852778
+-------------------------------------------------------------------
+Subject 21/97,            BRATS_298, 
+Successfully save /home/ashmal/Courses/MedImgComputing/Assignment_2/TransBTS/inference/submission/fold_4/BRATS_298.nii.gz
+Hausdorff Distance for class (ET): 1.7320508075688772
+Hausdorff Distance for class (TC): 1.7320508075688772
+Hausdorff Distance for class (WT): 2.8284271247461903
+Dice Score for class (ET): 0.8648755693442257
+Dice Score for class (TC): 0.9318561138439403
+Dice Score for class (WT): 0.9350414814592626
+-------------------------------------------------------------------
+Subject 22/97,            BRATS_467, 
+Successfully save /home/ashmal/Courses/MedImgComputing/Assignment_2/TransBTS/inference/submission/fold_4/BRATS_467.nii.gz
+Hausdorff Distance for class (ET): 6.48074069840786
+Hausdorff Distance for class (TC): 2.8284271247461903
+Hausdorff Distance for class (WT): 2.8284271247461903
+Dice Score for class (ET): 0.7431659249837693
+Dice Score for class (TC): 0.6208913495318281
+Dice Score for class (WT): 0.9161615850844224
+-------------------------------------------------------------------
+Subject 23/97,            BRATS_089, 
+Successfully save /home/ashmal/Courses/MedImgComputing/Assignment_2/TransBTS/inference/submission/fold_4/BRATS_089.nii.gz
+Hausdorff Distance for class (ET): 1.0
+Hausdorff Distance for class (TC): 3.7416573867739413
+Hausdorff Distance for class (WT): 3.0
+Dice Score for class (ET): 0.9636514522819978
+Dice Score for class (TC): 0.9139653807475596
+Dice Score for class (WT): 0.9388518241096921
+-------------------------------------------------------------------
+Subject 24/97,            BRATS_346, 
+Successfully save /home/ashmal/Courses/MedImgComputing/Assignment_2/TransBTS/inference/submission/fold_4/BRATS_346.nii.gz
+Hausdorff Distance for class (ET): 1.4142135623730951
+Hausdorff Distance for class (TC): 2.23606797749979
+Hausdorff Distance for class (WT): 2.23606797749979
+Dice Score for class (ET): 0.8506222202251446
+Dice Score for class (TC): 0.8746401165390538
+Dice Score for class (WT): 0.9023749388951338
+-------------------------------------------------------------------
+Subject 25/97,            BRATS_219, 
+Successfully save /home/ashmal/Courses/MedImgComputing/Assignment_2/TransBTS/inference/submission/fold_4/BRATS_219.nii.gz
+Hausdorff Distance for class (ET): 1.4142135623730951
+Hausdorff Distance for class (TC): 2.449489742783178
+Hausdorff Distance for class (WT): 3.3166247903554
+Dice Score for class (ET): 0.9099096430157148
+Dice Score for class (TC): 0.8581640524555889
+Dice Score for class (WT): 0.8976447997916609
+-------------------------------------------------------------------
+Subject 26/97,            BRATS_308, 
+Successfully save /home/ashmal/Courses/MedImgComputing/Assignment_2/TransBTS/inference/submission/fold_4/BRATS_308.nii.gz
+Hausdorff Distance for class (ET): 2.0
+Hausdorff Distance for class (TC): 2.8284271247461903
+Hausdorff Distance for class (WT): 3.1622776601683795
+Dice Score for class (ET): 0.8110177248895146
+Dice Score for class (TC): 0.8516497079070203
+Dice Score for class (WT): 0.8897983764417595
+-------------------------------------------------------------------
+Subject 27/97,            BRATS_281, 
+Successfully save /home/ashmal/Courses/MedImgComputing/Assignment_2/TransBTS/inference/submission/fold_4/BRATS_281.nii.gz
+Hausdorff Distance for class (ET): 3.0
+Hausdorff Distance for class (TC): 5.830951894845301
+Hausdorff Distance for class (WT): 6.782329983125268
+Dice Score for class (ET): 0.8872716407715369
+Dice Score for class (TC): 0.9004716417736265
+Dice Score for class (WT): 0.9146369758441943
+-------------------------------------------------------------------
+Subject 28/97,            BRATS_196, 
+Successfully save /home/ashmal/Courses/MedImgComputing/Assignment_2/TransBTS/inference/submission/fold_4/BRATS_196.nii.gz
+Hausdorff Distance for class (ET): 53.76802023508026
+Hausdorff Distance for class (TC): 5.477225575051661
+Hausdorff Distance for class (WT): 5.830951894845301
+Dice Score for class (ET): 0.4187416331990908
+Dice Score for class (TC): 0.9065503710201288
+Dice Score for class (WT): 0.938514732858215
+-------------------------------------------------------------------
+Subject 29/97,            BRATS_374, 
+Successfully save /home/ashmal/Courses/MedImgComputing/Assignment_2/TransBTS/inference/submission/fold_4/BRATS_374.nii.gz
+Hausdorff Distance for class (ET): 2.23606797749979
+Hausdorff Distance for class (TC): 2.449489742783178
+Hausdorff Distance for class (WT): 2.449489742783178
+Dice Score for class (ET): 0.8166542750923296
+Dice Score for class (TC): 0.8498858962621872
+Dice Score for class (WT): 0.8840367146100393
+-------------------------------------------------------------------
+Subject 30/97,            BRATS_405, 
+Successfully save /home/ashmal/Courses/MedImgComputing/Assignment_2/TransBTS/inference/submission/fold_4/BRATS_405.nii.gz
+Hausdorff Distance for class (ET): 1.4142135623730951
+Hausdorff Distance for class (TC): 2.449489742783178
+Hausdorff Distance for class (WT): 2.449489742783178
+Dice Score for class (ET): 0.8667021924479039
+Dice Score for class (TC): 0.8858604236036198
+Dice Score for class (WT): 0.9294584907487233
+-------------------------------------------------------------------
+Subject 31/97,            BRATS_479, 
+Successfully save /home/ashmal/Courses/MedImgComputing/Assignment_2/TransBTS/inference/submission/fold_4/BRATS_479.nii.gz
+Hausdorff Distance for class (ET): 1.4142135623730951
+Hausdorff Distance for class (TC): 2.23606797749979
+Hausdorff Distance for class (WT): 2.449489742783178
+Dice Score for class (ET): 0.9112007684916598
+Dice Score for class (TC): 0.9114500442085642
+Dice Score for class (WT): 0.9326091110079126
+-------------------------------------------------------------------
+Subject 32/97,            BRATS_198, 
+Successfully save /home/ashmal/Courses/MedImgComputing/Assignment_2/TransBTS/inference/submission/fold_4/BRATS_198.nii.gz
+Hausdorff Distance for class (ET): 14.798648586948742
+Hausdorff Distance for class (TC): 2.8284271247461903
+Hausdorff Distance for class (WT): 2.449489742783178
+Dice Score for class (ET): 0.5634465519768219
+Dice Score for class (TC): 0.771347235653815
+Dice Score for class (WT): 0.9486751138754379
+-------------------------------------------------------------------
+Subject 33/97,            BRATS_222, 
+Successfully save /home/ashmal/Courses/MedImgComputing/Assignment_2/TransBTS/inference/submission/fold_4/BRATS_222.nii.gz
+Hausdorff Distance for class (ET): 4.69041575982343
+Hausdorff Distance for class (TC): 4.123105625617661
+Hausdorff Distance for class (WT): 8.54400374531753
+Dice Score for class (ET): 0.7387046333629012
+Dice Score for class (TC): 0.863982039711798
+Dice Score for class (WT): 0.9072414029788655
+-------------------------------------------------------------------
+Subject 34/97,            BRATS_124, 
+Successfully save /home/ashmal/Courses/MedImgComputing/Assignment_2/TransBTS/inference/submission/fold_4/BRATS_124.nii.gz
+Hausdorff Distance for class (ET): 2.23606797749979
+Hausdorff Distance for class (TC): 3.0
+Hausdorff Distance for class (WT): 3.0
+Dice Score for class (ET): 0.7791284832614964
+Dice Score for class (TC): 0.8273125666231973
+Dice Score for class (WT): 0.9289110597029195
+-------------------------------------------------------------------
+Subject 35/97,            BRATS_248, 
+Successfully save /home/ashmal/Courses/MedImgComputing/Assignment_2/TransBTS/inference/submission/fold_4/BRATS_248.nii.gz
+Hausdorff Distance for class (ET): 1.4142135623730951
+Hausdorff Distance for class (TC): 8.12403840463596
+Hausdorff Distance for class (WT): 11.575836902790225
+Dice Score for class (ET): 0.9182705159045315
+Dice Score for class (TC): 0.7158367579124241
+Dice Score for class (WT): 0.8109915506346603
+-------------------------------------------------------------------
+Subject 36/97,            BRATS_414, 
+Successfully save /home/ashmal/Courses/MedImgComputing/Assignment_2/TransBTS/inference/submission/fold_4/BRATS_414.nii.gz
+Hausdorff Distance for class (ET): 5.0990195135927845
+Hausdorff Distance for class (TC): 10.488088481701515
+Hausdorff Distance for class (WT): 12.041594578792296
+Dice Score for class (ET): 0.8310864269095443
+Dice Score for class (TC): 0.711393620785493
+Dice Score for class (WT): 0.7451057243527659
+-------------------------------------------------------------------
+Subject 37/97,            BRATS_246, 
+Successfully save /home/ashmal/Courses/MedImgComputing/Assignment_2/TransBTS/inference/submission/fold_4/BRATS_246.nii.gz
+Hausdorff Distance for class (ET): 3.5418989283170808
+Hausdorff Distance for class (TC): 11.40175425099138
+Hausdorff Distance for class (WT): 13.74772708486752
+Dice Score for class (ET): 0.8042804570981966
+Dice Score for class (TC): 0.691929037484027
+Dice Score for class (WT): 0.8246759785375645
+-------------------------------------------------------------------
+Subject 38/97,            BRATS_009, 
+Successfully save /home/ashmal/Courses/MedImgComputing/Assignment_2/TransBTS/inference/submission/fold_4/BRATS_009.nii.gz
+Hausdorff Distance for class (ET): 2.449489742783178
+Hausdorff Distance for class (TC): 3.0
+Hausdorff Distance for class (WT): 4.0
+Dice Score for class (ET): 0.8656634460756906
+Dice Score for class (TC): 0.887912363138531
+Dice Score for class (WT): 0.9256154977201725
+-------------------------------------------------------------------
+Subject 39/97,            BRATS_241, 
+Successfully save /home/ashmal/Courses/MedImgComputing/Assignment_2/TransBTS/inference/submission/fold_4/BRATS_241.nii.gz
+Hausdorff Distance for class (ET): 4.47213595499958
+Hausdorff Distance for class (TC): 10.04987562112089
+Hausdorff Distance for class (WT): 13.341664064126334
+Dice Score for class (ET): 0.7299130502188952
+Dice Score for class (TC): 0.7219082054836354
+Dice Score for class (WT): 0.8170533457371078
+-------------------------------------------------------------------
+Subject 40/97,            BRATS_413, 
+Successfully save /home/ashmal/Courses/MedImgComputing/Assignment_2/TransBTS/inference/submission/fold_4/BRATS_413.nii.gz
+Hausdorff Distance for class (ET): 1.4142135623730951
+Hausdorff Distance for class (TC): 2.0
+Hausdorff Distance for class (WT): 2.0
+Dice Score for class (ET): 0.8497221863278851
+Dice Score for class (TC): 0.9102037002428035
+Dice Score for class (WT): 0.9179310768473313
+-------------------------------------------------------------------
+Subject 41/97,            BRATS_381, 
+Successfully save /home/ashmal/Courses/MedImgComputing/Assignment_2/TransBTS/inference/submission/fold_4/BRATS_381.nii.gz
+Hausdorff Distance for class (ET): 34.73038013122192
+Hausdorff Distance for class (TC): 40.49444338533946
+Hausdorff Distance for class (WT): 41.12177038990418
+Dice Score for class (ET): 0.0
+Dice Score for class (TC): 0.0
+Dice Score for class (WT): 0.0
+-------------------------------------------------------------------
+Subject 42/97,            BRATS_426, 
+Successfully save /home/ashmal/Courses/MedImgComputing/Assignment_2/TransBTS/inference/submission/fold_4/BRATS_426.nii.gz
+Hausdorff Distance for class (ET): 2.8284271247461903
+Hausdorff Distance for class (TC): 2.23606797749979
+Hausdorff Distance for class (WT): 2.23606797749979
+Dice Score for class (ET): 0.8926000685530627
+Dice Score for class (TC): 0.934413003676607
+Dice Score for class (WT): 0.9513713833714886
+-------------------------------------------------------------------
+Subject 43/97,            BRATS_386, 
+Successfully save /home/ashmal/Courses/MedImgComputing/Assignment_2/TransBTS/inference/submission/fold_4/BRATS_386.nii.gz
+Hausdorff Distance for class (ET): 1.4142135623730951
+Hausdorff Distance for class (TC): 2.23606797749979
+Hausdorff Distance for class (WT): 2.8284271247461903
+Dice Score for class (ET): 0.8482682629021567
+Dice Score for class (TC): 0.8714296225442666
+Dice Score for class (WT): 0.9089044438814979
+-------------------------------------------------------------------
+Subject 44/97,            BRATS_032, 
+Successfully save /home/ashmal/Courses/MedImgComputing/Assignment_2/TransBTS/inference/submission/fold_4/BRATS_032.nii.gz
+Hausdorff Distance for class (ET): 27.748873851023216
+Hausdorff Distance for class (TC): 6.4031242374328485
+Hausdorff Distance for class (WT): 5.0
+Dice Score for class (ET): 0.5955708449791474
+Dice Score for class (TC): 0.7803451772292263
+Dice Score for class (WT): 0.9123658908163478
+-------------------------------------------------------------------
+Subject 45/97,            BRATS_098, 
+Successfully save /home/ashmal/Courses/MedImgComputing/Assignment_2/TransBTS/inference/submission/fold_4/BRATS_098.nii.gz
+Hausdorff Distance for class (ET): 1.0
+Hausdorff Distance for class (TC): 4.898979485566356
+Hausdorff Distance for class (WT): 4.0
+Dice Score for class (ET): 0.9392707406933873
+Dice Score for class (TC): 0.8128958803224825
+Dice Score for class (WT): 0.9304275336429123
+-------------------------------------------------------------------
+Subject 46/97,            BRATS_120, 
+Successfully save /home/ashmal/Courses/MedImgComputing/Assignment_2/TransBTS/inference/submission/fold_4/BRATS_120.nii.gz
+Hausdorff Distance for class (ET): 3.7416573867739413
+Hausdorff Distance for class (TC): 3.0
+Hausdorff Distance for class (WT): 5.0990195135927845
+Dice Score for class (ET): 0.6530670880611219
+Dice Score for class (TC): 0.7301921416232918
+Dice Score for class (WT): 0.8040202812037822
+-------------------------------------------------------------------
+Subject 47/97,            BRATS_465, 
+Successfully save /home/ashmal/Courses/MedImgComputing/Assignment_2/TransBTS/inference/submission/fold_4/BRATS_465.nii.gz
+Hausdorff Distance for class (ET): 1.4142135623730951
+Hausdorff Distance for class (TC): 2.449489742783178
+Hausdorff Distance for class (WT): 2.8284271247461903
+Dice Score for class (ET): 0.900418913080063
+Dice Score for class (TC): 0.8751342110787346
+Dice Score for class (WT): 0.9331025641025242
+-------------------------------------------------------------------
+Subject 48/97,            BRATS_004, 
+Successfully save /home/ashmal/Courses/MedImgComputing/Assignment_2/TransBTS/inference/submission/fold_4/BRATS_004.nii.gz
+Hausdorff Distance for class (ET): 3.0
+Hausdorff Distance for class (TC): 3.1622776601683795
+Hausdorff Distance for class (WT): 3.0
+Dice Score for class (ET): 0.7831747937930085
+Dice Score for class (TC): 0.7030647825288399
+Dice Score for class (WT): 0.9369730094349823
+-------------------------------------------------------------------
+Subject 49/97,            BRATS_313, 
+Successfully save /home/ashmal/Courses/MedImgComputing/Assignment_2/TransBTS/inference/submission/fold_4/BRATS_313.nii.gz
+Hausdorff Distance for class (ET): 1.4142135623730951
+Hausdorff Distance for class (TC): 4.123105625617661
+Hausdorff Distance for class (WT): 5.445004306280622
+Dice Score for class (ET): 0.7962693911980145
+Dice Score for class (TC): 0.7726063625319783
+Dice Score for class (WT): 0.8866650414430904
+-------------------------------------------------------------------
+Subject 50/97,            BRATS_184, 
+Successfully save /home/ashmal/Courses/MedImgComputing/Assignment_2/TransBTS/inference/submission/fold_4/BRATS_184.nii.gz
+Hausdorff Distance for class (ET): 9.520996352386938
+Hausdorff Distance for class (TC): 10.04987562112089
+Hausdorff Distance for class (WT): 10.099504938362077
+Dice Score for class (ET): 0.3709740007746567
+Dice Score for class (TC): 0.5719481700385007
+Dice Score for class (WT): 0.7830972994666241
+-------------------------------------------------------------------
+Subject 51/97,            BRATS_361, 
+Successfully save /home/ashmal/Courses/MedImgComputing/Assignment_2/TransBTS/inference/submission/fold_4/BRATS_361.nii.gz
+Hausdorff Distance for class (ET): 1.4142135623730951
+Hausdorff Distance for class (TC): 2.23606797749979
+Hausdorff Distance for class (WT): 2.23606797749979
+Dice Score for class (ET): 0.9068048005540053
+Dice Score for class (TC): 0.9187489788979198
+Dice Score for class (WT): 0.9401754449009203
+-------------------------------------------------------------------
+Subject 52/97,            BRATS_043, 
+Successfully save /home/ashmal/Courses/MedImgComputing/Assignment_2/TransBTS/inference/submission/fold_4/BRATS_043.nii.gz
+Hausdorff Distance for class (ET): 1.4142135623730951
+Hausdorff Distance for class (TC): 2.23606797749979
+Hausdorff Distance for class (WT): 2.23606797749979
+Dice Score for class (ET): 0.9038620404786741
+Dice Score for class (TC): 0.8862884328621904
+Dice Score for class (WT): 0.9033174367392564
+-------------------------------------------------------------------
+Subject 53/97,            BRATS_270, 
+Successfully save /home/ashmal/Courses/MedImgComputing/Assignment_2/TransBTS/inference/submission/fold_4/BRATS_270.nii.gz
+Hausdorff Distance for class (ET): 1.4142135623730951
+Hausdorff Distance for class (TC): 13.92838827718412
+Hausdorff Distance for class (WT): 15.427248620541512
+Dice Score for class (ET): 0.8249999999985873
+Dice Score for class (TC): 0.5868743932534958
+Dice Score for class (WT): 0.7483892230369327
+-------------------------------------------------------------------
+Subject 54/97,            BRATS_459, 
+Successfully save /home/ashmal/Courses/MedImgComputing/Assignment_2/TransBTS/inference/submission/fold_4/BRATS_459.nii.gz
+Hausdorff Distance for class (ET): 69.13030946042366
+Hausdorff Distance for class (TC): 26.40265077112394
+Hausdorff Distance for class (WT): 27.147743920996454
+Dice Score for class (ET): 0.22651933701568067
+Dice Score for class (TC): 0.7394235807857679
+Dice Score for class (WT): 0.7617467840214076
+-------------------------------------------------------------------
+Subject 55/97,            BRATS_382, 
+Successfully save /home/ashmal/Courses/MedImgComputing/Assignment_2/TransBTS/inference/submission/fold_4/BRATS_382.nii.gz
+Hausdorff Distance for class (ET): 2.8284271247461903
+Hausdorff Distance for class (TC): 6.708203932499369
+Hausdorff Distance for class (WT): 7.3484692283495345
+Dice Score for class (ET): 0.6836230805650519
+Dice Score for class (TC): 0.6855785482616862
+Dice Score for class (WT): 0.7357959795485235
+-------------------------------------------------------------------
+Subject 56/97,            BRATS_321, 
+Successfully save /home/ashmal/Courses/MedImgComputing/Assignment_2/TransBTS/inference/submission/fold_4/BRATS_321.nii.gz
+Hausdorff Distance for class (ET): 1.7320508075688772
+Hausdorff Distance for class (TC): 6.082762530298219
+Hausdorff Distance for class (WT): 8.18535277187245
+Dice Score for class (ET): 0.8212788755473129
+Dice Score for class (TC): 0.7083149679794194
+Dice Score for class (WT): 0.7555351136918529
+-------------------------------------------------------------------
+Subject 57/97,            BRATS_036, 
+Successfully save /home/ashmal/Courses/MedImgComputing/Assignment_2/TransBTS/inference/submission/fold_4/BRATS_036.nii.gz
+Hausdorff Distance for class (ET): 2.0
+Hausdorff Distance for class (TC): 6.164414002968976
+Hausdorff Distance for class (WT): 3.1622776601683795
+Dice Score for class (ET): 0.8730578512393087
+Dice Score for class (TC): 0.7158893332173826
+Dice Score for class (WT): 0.94001031825905
+-------------------------------------------------------------------
+Subject 58/97,            BRATS_457, 
+Successfully save /home/ashmal/Courses/MedImgComputing/Assignment_2/TransBTS/inference/submission/fold_4/BRATS_457.nii.gz
+Hausdorff Distance for class (ET): 3.0
+Hausdorff Distance for class (TC): 11.704699910719626
+Hausdorff Distance for class (WT): 13.638181696985855
+Dice Score for class (ET): 0.7455110497224697
+Dice Score for class (TC): 0.8474010201602594
+Dice Score for class (WT): 0.8605870963487294
+-------------------------------------------------------------------
+Subject 59/97,            BRATS_031, 
+Successfully save /home/ashmal/Courses/MedImgComputing/Assignment_2/TransBTS/inference/submission/fold_4/BRATS_031.nii.gz
+Hausdorff Distance for class (ET): 6.708203932499369
+Hausdorff Distance for class (TC): 3.605551275463989
+Hausdorff Distance for class (WT): 5.385164807134504
+Dice Score for class (ET): 0.6789467469590985
+Dice Score for class (TC): 0.7193664012361359
+Dice Score for class (WT): 0.8833557498317278
+-------------------------------------------------------------------
+Subject 60/97,            BRATS_441, 
+Successfully save /home/ashmal/Courses/MedImgComputing/Assignment_2/TransBTS/inference/submission/fold_4/BRATS_441.nii.gz
+Hausdorff Distance for class (ET): 30.517207336833536
+Hausdorff Distance for class (TC): 2.449489742783178
+Hausdorff Distance for class (WT): 3.0
+Dice Score for class (ET): 0.7787068579881014
+Dice Score for class (TC): 0.9288804890374694
+Dice Score for class (WT): 0.9347511260998513
+-------------------------------------------------------------------
+Subject 61/97,            BRATS_330, 
+Successfully save /home/ashmal/Courses/MedImgComputing/Assignment_2/TransBTS/inference/submission/fold_4/BRATS_330.nii.gz
+Hausdorff Distance for class (ET): 2.23606797749979
+Hausdorff Distance for class (TC): 2.23606797749979
+Hausdorff Distance for class (WT): 2.23606797749979
+Dice Score for class (ET): 0.7772223429680751
+Dice Score for class (TC): 0.8555659689677338
+Dice Score for class (WT): 0.8793751235907721
+-------------------------------------------------------------------
+Subject 62/97,            BRATS_171, 
+Successfully save /home/ashmal/Courses/MedImgComputing/Assignment_2/TransBTS/inference/submission/fold_4/BRATS_171.nii.gz
+Hausdorff Distance for class (ET): 1.0
+Hausdorff Distance for class (TC): 2.23606797749979
+Hausdorff Distance for class (WT): 2.449489742783178
+Dice Score for class (ET): 0.8542903399869015
+Dice Score for class (TC): 0.6954330708658288
+Dice Score for class (WT): 0.9190000254314695
+-------------------------------------------------------------------
+Subject 63/97,            BRATS_434, 
+Successfully save /home/ashmal/Courses/MedImgComputing/Assignment_2/TransBTS/inference/submission/fold_4/BRATS_434.nii.gz
+Hausdorff Distance for class (ET): 3.1622776601683795
+Hausdorff Distance for class (TC): 4.123105625617661
+Hausdorff Distance for class (WT): 4.69041575982343
+Dice Score for class (ET): 0.8095750512657484
+Dice Score for class (TC): 0.8165885510554804
+Dice Score for class (WT): 0.8727072359818379
+-------------------------------------------------------------------
+Subject 64/97,            BRATS_393, 
+Successfully save /home/ashmal/Courses/MedImgComputing/Assignment_2/TransBTS/inference/submission/fold_4/BRATS_393.nii.gz
+Hausdorff Distance for class (ET): 1.7320508075688772
+Hausdorff Distance for class (TC): 2.0
+Hausdorff Distance for class (WT): 1.7320508075688772
+Dice Score for class (ET): 0.9102174560618246
+Dice Score for class (TC): 0.942219903482424
+Dice Score for class (WT): 0.953071983065178
+-------------------------------------------------------------------
+Subject 65/97,            BRATS_083, 
+Successfully save /home/ashmal/Courses/MedImgComputing/Assignment_2/TransBTS/inference/submission/fold_4/BRATS_083.nii.gz
+Hausdorff Distance for class (ET): 1.4142135623730951
+Hausdorff Distance for class (TC): 3.1622776601683795
+Hausdorff Distance for class (WT): 4.123105625617661
+Dice Score for class (ET): 0.8825919905420118
+Dice Score for class (TC): 0.8251330543067406
+Dice Score for class (WT): 0.875105044804296
+-------------------------------------------------------------------
+Subject 66/97,            BRATS_305, 
+Successfully save /home/ashmal/Courses/MedImgComputing/Assignment_2/TransBTS/inference/submission/fold_4/BRATS_305.nii.gz
+Hausdorff Distance for class (ET): 3.0
+Hausdorff Distance for class (TC): 4.242640687119285
+Hausdorff Distance for class (WT): 4.58257569495584
+Dice Score for class (ET): 0.7413725745534956
+Dice Score for class (TC): 0.8910024836305326
+Dice Score for class (WT): 0.9205020176700869
+-------------------------------------------------------------------
+Subject 67/97,            BRATS_474, 
+Successfully save /home/ashmal/Courses/MedImgComputing/Assignment_2/TransBTS/inference/submission/fold_4/BRATS_474.nii.gz
+Hausdorff Distance for class (ET): 4.123105625617661
+Hausdorff Distance for class (TC): 4.0
+Hausdorff Distance for class (WT): 2.23606797749979
+Dice Score for class (ET): 0.8059329111648673
+Dice Score for class (TC): 0.8882575604280922
+Dice Score for class (WT): 0.9552995863238135
+-------------------------------------------------------------------
+Subject 68/97,            BRATS_015, 
+Successfully save /home/ashmal/Courses/MedImgComputing/Assignment_2/TransBTS/inference/submission/fold_4/BRATS_015.nii.gz
+Hausdorff Distance for class (ET): 1.4142135623730951
+Hausdorff Distance for class (TC): 3.0
+Hausdorff Distance for class (WT): 3.3166247903554
+Dice Score for class (ET): 0.9364806726537325
+Dice Score for class (TC): 0.8975761742080445
+Dice Score for class (WT): 0.9293589599416965
+-------------------------------------------------------------------
+Subject 69/97,            BRATS_203, 
+Successfully save /home/ashmal/Courses/MedImgComputing/Assignment_2/TransBTS/inference/submission/fold_4/BRATS_203.nii.gz
+Hausdorff Distance for class (ET): 5.7618404961993885
+Hausdorff Distance for class (TC): 2.8284271247461903
+Hausdorff Distance for class (WT): 3.0
+Dice Score for class (ET): 0.7283878766169457
+Dice Score for class (TC): 0.886065012477612
+Dice Score for class (WT): 0.929986146543186
+-------------------------------------------------------------------
+Subject 70/97,            BRATS_168, 
+Successfully save /home/ashmal/Courses/MedImgComputing/Assignment_2/TransBTS/inference/submission/fold_4/BRATS_168.nii.gz
+Hausdorff Distance for class (ET): 13.362365326812368
+Hausdorff Distance for class (TC): 9.899494936611665
+Hausdorff Distance for class (WT): 10.816653826391969
+Dice Score for class (ET): 0.7718001368914829
+Dice Score for class (TC): 0.7821721288561513
+Dice Score for class (WT): 0.8031441275914806
+-------------------------------------------------------------------
+Subject 71/97,            BRATS_451, 
+Successfully save /home/ashmal/Courses/MedImgComputing/Assignment_2/TransBTS/inference/submission/fold_4/BRATS_451.nii.gz
+Hausdorff Distance for class (ET): 1.4142135623730951
+Hausdorff Distance for class (TC): 1.4142135623730951
+Hausdorff Distance for class (WT): 1.4142135623730951
+Dice Score for class (ET): 0.9349084046667291
+Dice Score for class (TC): 0.9454062340316535
+Dice Score for class (WT): 0.9578351969684478
+-------------------------------------------------------------------
+Subject 72/97,            BRATS_320, 
+Successfully save /home/ashmal/Courses/MedImgComputing/Assignment_2/TransBTS/inference/submission/fold_4/BRATS_320.nii.gz
+Hausdorff Distance for class (ET): 4.123105625617661
+Hausdorff Distance for class (TC): 3.0
+Hausdorff Distance for class (WT): 3.0
+Dice Score for class (ET): 0.7198372329601791
+Dice Score for class (TC): 0.8974201766708464
+Dice Score for class (WT): 0.9314894584240876
+-------------------------------------------------------------------
+Subject 73/97,            BRATS_037, 
+Successfully save /home/ashmal/Courses/MedImgComputing/Assignment_2/TransBTS/inference/submission/fold_4/BRATS_037.nii.gz
+Hausdorff Distance for class (ET): 1.4142135623730951
+Hausdorff Distance for class (TC): 2.23606797749979
+Hausdorff Distance for class (WT): 2.23606797749979
+Dice Score for class (ET): 0.856557976312076
+Dice Score for class (TC): 0.8650736563470433
+Dice Score for class (WT): 0.9238262945828428
+-------------------------------------------------------------------
+Subject 74/97,            BRATS_456, 
+Successfully save /home/ashmal/Courses/MedImgComputing/Assignment_2/TransBTS/inference/submission/fold_4/BRATS_456.nii.gz
+Hausdorff Distance for class (ET): 1.4142135623730951
+Hausdorff Distance for class (TC): 2.449489742783178
+Hausdorff Distance for class (WT): 2.0
+Dice Score for class (ET): 0.9185840334359651
+Dice Score for class (TC): 0.9405041951390163
+Dice Score for class (WT): 0.9528671191556766
+-------------------------------------------------------------------
+Subject 75/97,            BRATS_204, 
+Successfully save /home/ashmal/Courses/MedImgComputing/Assignment_2/TransBTS/inference/submission/fold_4/BRATS_204.nii.gz
+Hausdorff Distance for class (ET): 4.358898943540674
+Hausdorff Distance for class (TC): 2.449489742783178
+Hausdorff Distance for class (WT): 2.449489742783178
+Dice Score for class (ET): 0.7679987950595523
+Dice Score for class (TC): 0.8669813178354187
+Dice Score for class (WT): 0.9285206061492499
+-------------------------------------------------------------------
+Subject 76/97,            BRATS_094, 
+Successfully save /home/ashmal/Courses/MedImgComputing/Assignment_2/TransBTS/inference/submission/fold_4/BRATS_094.nii.gz
+Hausdorff Distance for class (ET): 2.8284271247461903
+Hausdorff Distance for class (TC): 3.4641016151377544
+Hausdorff Distance for class (WT): 3.1622776601683795
+Dice Score for class (ET): 0.8369081479002144
+Dice Score for class (TC): 0.7877397282057681
+Dice Score for class (WT): 0.9252512303703668
+-------------------------------------------------------------------
+Subject 77/97,            BRATS_423, 
+Successfully save /home/ashmal/Courses/MedImgComputing/Assignment_2/TransBTS/inference/submission/fold_4/BRATS_423.nii.gz
+Hausdorff Distance for class (ET): 3.0
+Hausdorff Distance for class (TC): 3.605551275463989
+Hausdorff Distance for class (WT): 4.242640687119285
+Dice Score for class (ET): 0.8607453985719427
+Dice Score for class (TC): 0.8526569578657957
+Dice Score for class (WT): 0.8988611962869067
+-------------------------------------------------------------------
+Subject 78/97,            BRATS_166, 
+Successfully save /home/ashmal/Courses/MedImgComputing/Assignment_2/TransBTS/inference/submission/fold_4/BRATS_166.nii.gz
+Hausdorff Distance for class (ET): 1.4142135623730951
+Hausdorff Distance for class (TC): 3.1622776601683795
+Hausdorff Distance for class (WT): 2.0
+Dice Score for class (ET): 0.9230503199030504
+Dice Score for class (TC): 0.90375613947339
+Dice Score for class (WT): 0.9541693324802221
+-------------------------------------------------------------------
+Subject 79/97,            BRATS_271, 
+Successfully save /home/ashmal/Courses/MedImgComputing/Assignment_2/TransBTS/inference/submission/fold_4/BRATS_271.nii.gz
+Hausdorff Distance for class (ET): 1.4142135623730951
+Hausdorff Distance for class (TC): 4.0
+Hausdorff Distance for class (WT): 4.47213595499958
+Dice Score for class (ET): 0.9451730944782242
+Dice Score for class (TC): 0.8916691009750896
+Dice Score for class (WT): 0.9000901355548132
+-------------------------------------------------------------------
+Subject 80/97,            BRATS_238, 
+Successfully save /home/ashmal/Courses/MedImgComputing/Assignment_2/TransBTS/inference/submission/fold_4/BRATS_238.nii.gz
+Hausdorff Distance for class (ET): 2.0
+Hausdorff Distance for class (TC): 3.3166247903554
+Hausdorff Distance for class (WT): 1.4142135623730951
+Dice Score for class (ET): 0.8556446637864658
+Dice Score for class (TC): 0.8266163721789337
+Dice Score for class (WT): 0.9314365810739521
+-------------------------------------------------------------------
+Subject 81/97,            BRATS_416, 
+Successfully save /home/ashmal/Courses/MedImgComputing/Assignment_2/TransBTS/inference/submission/fold_4/BRATS_416.nii.gz
+Hausdorff Distance for class (ET): 2.23606797749979
+Hausdorff Distance for class (TC): 3.3166247903554
+Hausdorff Distance for class (WT): 2.8284271247461903
+Dice Score for class (ET): 0.7289145052826811
+Dice Score for class (TC): 0.8009890044220747
+Dice Score for class (WT): 0.9382167851270811
+-------------------------------------------------------------------
+Subject 82/97,            BRATS_182, 
+Successfully save /home/ashmal/Courses/MedImgComputing/Assignment_2/TransBTS/inference/submission/fold_4/BRATS_182.nii.gz
+Hausdorff Distance for class (ET): 2.23606797749979
+Hausdorff Distance for class (TC): 2.8284271247461903
+Hausdorff Distance for class (WT): 2.449489742783178
+Dice Score for class (ET): 0.8822254745129072
+Dice Score for class (TC): 0.8901932165074674
+Dice Score for class (WT): 0.947711795295405
+-------------------------------------------------------------------
+Subject 83/97,            BRATS_292, 
+Successfully save /home/ashmal/Courses/MedImgComputing/Assignment_2/TransBTS/inference/submission/fold_4/BRATS_292.nii.gz
+Hausdorff Distance for class (ET): 53.16013544000805
+Hausdorff Distance for class (TC): 11.357816691600547
+Hausdorff Distance for class (WT): 13.74772708486752
+Dice Score for class (ET): 0.3913348034763546
+Dice Score for class (TC): 0.7624821573833606
+Dice Score for class (WT): 0.8041848811732482
+-------------------------------------------------------------------
+Subject 84/97,            BRATS_367, 
+Successfully save /home/ashmal/Courses/MedImgComputing/Assignment_2/TransBTS/inference/submission/fold_4/BRATS_367.nii.gz
+Hausdorff Distance for class (ET): 1.4142135623730951
+Hausdorff Distance for class (TC): 2.23606797749979
+Hausdorff Distance for class (WT): 3.1622776601683795
+Dice Score for class (ET): 0.786177105831098
+Dice Score for class (TC): 0.8472538979013946
+Dice Score for class (WT): 0.8944868391289308
+-------------------------------------------------------------------
+Subject 85/97,            BRATS_002, 
+Successfully save /home/ashmal/Courses/MedImgComputing/Assignment_2/TransBTS/inference/submission/fold_4/BRATS_002.nii.gz
+Hausdorff Distance for class (ET): 1.4142135623730951
+Hausdorff Distance for class (TC): 3.0
+Hausdorff Distance for class (WT): 3.0
+Dice Score for class (ET): 0.8796658835807363
+Dice Score for class (TC): 0.8952543756303838
+Dice Score for class (WT): 0.9133402057200646
+-------------------------------------------------------------------
+Subject 86/97,            BRATS_236, 
+Successfully save /home/ashmal/Courses/MedImgComputing/Assignment_2/TransBTS/inference/submission/fold_4/BRATS_236.nii.gz
+Hausdorff Distance for class (ET): 5.385164807134504
+Hausdorff Distance for class (TC): 3.1622776601683795
+Hausdorff Distance for class (WT): 4.123105625617661
+Dice Score for class (ET): 0.6972918050723559
+Dice Score for class (TC): 0.8446304149075656
+Dice Score for class (WT): 0.9010230633261567
+-------------------------------------------------------------------
+Subject 87/97,            BRATS_418, 
+Successfully save /home/ashmal/Courses/MedImgComputing/Assignment_2/TransBTS/inference/submission/fold_4/BRATS_418.nii.gz
+Hausdorff Distance for class (ET): 34.597687784012386
+Hausdorff Distance for class (TC): 15.529000869736556
+Hausdorff Distance for class (WT): 20.01498129672899
+Dice Score for class (ET): 0.7199621943052337
+Dice Score for class (TC): 0.8349796064090148
+Dice Score for class (WT): 0.8788304867457013
+-------------------------------------------------------------------
+Subject 88/97,            BRATS_005, 
+Successfully save /home/ashmal/Courses/MedImgComputing/Assignment_2/TransBTS/inference/submission/fold_4/BRATS_005.nii.gz
+Hausdorff Distance for class (ET): 7.874007874011811
+Hausdorff Distance for class (TC): 5.0990195135927845
+Hausdorff Distance for class (WT): 6.0
+Dice Score for class (ET): 0.692901286119695
+Dice Score for class (TC): 0.7716875178459193
+Dice Score for class (WT): 0.848264846812777
+-------------------------------------------------------------------
+Subject 89/97,            BRATS_013, 
+Successfully save /home/ashmal/Courses/MedImgComputing/Assignment_2/TransBTS/inference/submission/fold_4/BRATS_013.nii.gz
+Hausdorff Distance for class (ET): 1.4142135623730951
+Hausdorff Distance for class (TC): 2.0
+Hausdorff Distance for class (WT): 1.7320508075688772
+Dice Score for class (ET): 0.9144511149218326
+Dice Score for class (TC): 0.9035549437197734
+Dice Score for class (WT): 0.9230224599768229
+-------------------------------------------------------------------
+Subject 90/97,            BRATS_137, 
+Successfully save /home/ashmal/Courses/MedImgComputing/Assignment_2/TransBTS/inference/submission/fold_4/BRATS_137.nii.gz
+Hausdorff Distance for class (ET): 1.4142135623730951
+Hausdorff Distance for class (TC): 4.47213595499958
+Hausdorff Distance for class (WT): 3.605551275463989
+Dice Score for class (ET): 0.8875808288038654
+Dice Score for class (TC): 0.7805873447241106
+Dice Score for class (WT): 0.8988836842144123
+-------------------------------------------------------------------
+Subject 91/97,            BRATS_371, 
+Successfully save /home/ashmal/Courses/MedImgComputing/Assignment_2/TransBTS/inference/submission/fold_4/BRATS_371.nii.gz
+Hausdorff Distance for class (ET): 1.0
+Hausdorff Distance for class (TC): 2.0
+Hausdorff Distance for class (WT): 2.0
+Dice Score for class (ET): 0.8836337244460604
+Dice Score for class (TC): 0.9067236853246563
+Dice Score for class (WT): 0.9237598425195942
+-------------------------------------------------------------------
+Subject 92/97,            BRATS_229, 
+Successfully save /home/ashmal/Courses/MedImgComputing/Assignment_2/TransBTS/inference/submission/fold_4/BRATS_229.nii.gz
+Hausdorff Distance for class (ET): 1.4142135623730951
+Hausdorff Distance for class (TC): 2.8284271247461903
+Hausdorff Distance for class (WT): 3.7416573867739413
+Dice Score for class (ET): 0.8990868649027374
+Dice Score for class (TC): 0.8514005157005734
+Dice Score for class (WT): 0.9156597686881908
+-------------------------------------------------------------------
+Subject 93/97,            BRATS_260, 
+Successfully save /home/ashmal/Courses/MedImgComputing/Assignment_2/TransBTS/inference/submission/fold_4/BRATS_260.nii.gz
+Hausdorff Distance for class (ET): 1.4142135623730951
+Hausdorff Distance for class (TC): 4.47213595499958
+Hausdorff Distance for class (WT): 2.449489742783178
+Dice Score for class (ET): 0.9001645639053414
+Dice Score for class (TC): 0.9190628219381614
+Dice Score for class (WT): 0.9406234872688091
+-------------------------------------------------------------------
+Subject 94/97,            BRATS_028, 
+Successfully save /home/ashmal/Courses/MedImgComputing/Assignment_2/TransBTS/inference/submission/fold_4/BRATS_028.nii.gz
+Hausdorff Distance for class (ET): 2.449489742783178
+Hausdorff Distance for class (TC): 4.123105625617661
+Hausdorff Distance for class (WT): 3.605551275463989
+Dice Score for class (ET): 0.7914997774802052
+Dice Score for class (TC): 0.4769368181527681
+Dice Score for class (WT): 0.8829522913295138
+-------------------------------------------------------------------
+Subject 95/97,            BRATS_267, 
+Successfully save /home/ashmal/Courses/MedImgComputing/Assignment_2/TransBTS/inference/submission/fold_4/BRATS_267.nii.gz
+Hausdorff Distance for class (ET): 1.4142135623730951
+Hausdorff Distance for class (TC): 3.4641016151377544
+Hausdorff Distance for class (WT): 2.23606797749979
+Dice Score for class (ET): 0.9270537196192584
+Dice Score for class (TC): 0.9082045518403408
+Dice Score for class (WT): 0.9434980106737476
+-------------------------------------------------------------------
+Subject 96/97,            BRATS_343, 
+Successfully save /home/ashmal/Courses/MedImgComputing/Assignment_2/TransBTS/inference/submission/fold_4/BRATS_343.nii.gz
+Hausdorff Distance for class (ET): 3.0
+Hausdorff Distance for class (TC): 2.449489742783178
+Hausdorff Distance for class (WT): 2.23606797749979
+Dice Score for class (ET): 0.860251919206335
+Dice Score for class (TC): 0.9118538390838293
+Dice Score for class (WT): 0.9191918572190538
+-------------------------------------------------------------------
+Subject 97/97,            BRATS_336, 
+Successfully save /home/ashmal/Courses/MedImgComputing/Assignment_2/TransBTS/inference/submission/fold_4/BRATS_336.nii.gz
+Hausdorff Distance for class (ET): 1.4142135623730951
+Hausdorff Distance for class (TC): 1.4142135623730951
+Hausdorff Distance for class (WT): 2.0
+Dice Score for class (ET): 0.8074363464904197
+Dice Score for class (TC): 0.8926026278671876
+Dice Score for class (WT): 0.9362070481303764
+
+
+================ FOLD fold_4
+
+Hausdorff Distance for class (ET): 7.33994049512739
+Hausdorff Distance for class (TC): 5.087078237052422
+Hausdorff Distance for class (WT): 5.498327465562862
+Dice Score for class (ET): 0.7894979700785785
+Dice Score for Tumor Core (TC): 0.8208488024236554
+Dice Score for Whole Tumor (WT): 0.8855662495285935
+0.30 minutes!
