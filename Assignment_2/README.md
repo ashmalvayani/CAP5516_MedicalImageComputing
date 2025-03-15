@@ -25,7 +25,7 @@ TransBTS/data/
 ```
 
 ## Dataset Processing
-Since we have the original files in nii.gz format, first convert these files to the pickle files using the following command:
+2. Since we have the original files in nii.gz format, first convert these files to the pickle files using the following command:
 ```Shell
 cd TransBTS/data
 python preprocess.py
@@ -42,10 +42,37 @@ python k_fold.py
 
 
 ## Training
-3. Run the code
+4. Run the following codes for different training folds in the jobs folder:
 
 ```shell
 # I am running the code by setting up the code using slurm scripts, to run the code, run the following command:
 
-sbatch train.slurm
+cd jobs
+conda activate assignment
+
+sbatch train1.slurm
+sbatch train2.slurm
+sbatch train3.slurm
+sbatch train4.slurm
+sbatch train5.slurm
+
+# the logs will be saved in "outs/" folder.
+```
+
+## Prediction
+5. Run the following codes for different evaluation folds in the jobs folder:
+
+```shell
+# I am running the code by setting up the code using slurm scripts, to run the code, run the following command:
+
+cd jobs
+conda activate assignment
+
+sbatch test1.slurm
+sbatch test2.slurm
+sbatch test3.slurm
+sbatch test4.slurm
+sbatch test5.slurm
+
+# the logs will be saved in "pred_outs/" folder.
 ```
