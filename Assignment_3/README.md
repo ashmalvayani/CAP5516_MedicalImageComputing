@@ -1,6 +1,6 @@
-<img width="704" alt="image" src="https://github.com/user-attachments/assets/0b5f117b-efaa-44a8-ae5b-2b73102c952c" />## Installation:
+## Installation:
 
-1. Run the following commands to install the environment for installing the code.
+1. Run the following commands to install the environment for installing the code. I am using the [finetune-SAM](https://github.com/mazurowski-lab/finetune-SAM) repository.
 
 ```shell
 # Create the environment named 'assignment'
