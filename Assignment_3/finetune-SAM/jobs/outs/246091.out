@@ -1,0 +1,150 @@
+CUDA_VISIBLE_DEVICES=
+Sun Apr 13 01:47:36 2025       
++-----------------------------------------------------------------------------------------+
+| NVIDIA-SMI 565.57.01              Driver Version: 565.57.01      CUDA Version: 12.7     |
+|-----------------------------------------+------------------------+----------------------+
+| GPU  Name                 Persistence-M | Bus-Id          Disp.A | Volatile Uncorr. ECC |
+| Fan  Temp   Perf          Pwr:Usage/Cap |           Memory-Usage | GPU-Util  Compute M. |
+|                                         |                        |               MIG M. |
+|=========================================+========================+======================|
+|   0  NVIDIA A100 80GB PCIe          Off |   00000000:98:00.0 Off |                    0 |
+| N/A   29C    P0             42W /  300W |       1MiB /  81920MiB |      0%      Default |
+|                                         |                        |             Disabled |
++-----------------------------------------+------------------------+----------------------+
+                                                                                         
++-----------------------------------------------------------------------------------------+
+| Processes:                                                                              |
+|  GPU   GI   CI        PID   Type   Process name                              GPU Memory |
+|        ID   ID                                                               Usage      |
+|=========================================================================================|
+|  No running processes found                                                             |
++-----------------------------------------------------------------------------------------+
+train dataset: NuInsSeg
+combine_all
+Filtered data list to 532 entries.
+Filtered data list to 133 entries.
+Number of training samples: 532
+Number of validation samples: 133
+if update encoder: True
+if image encoder lora: True
+if mask decoder lora: True
+Total trainable parameters: 705,679
+Eval Epoch num 0 | val loss 0.5524835139513016 | dsc 0.7785770297050476 
+
+largest DSC now: 0.7785770297050476
+Eval Epoch num 2 | val loss 0.3099618149655206 | dsc 0.847432553768158 
+
+largest DSC now: 0.847432553768158
+Eval Epoch num 4 | val loss 0.2622967149530138 | dsc 0.8670898079872131 
+
+largest DSC now: 0.8670898079872131
+Eval Epoch num 6 | val loss 0.2487943023443222 | dsc 0.8734391331672668 
+
+largest DSC now: 0.8734391331672668
+Eval Epoch num 8 | val loss 0.24676788598299026 | dsc 0.8737181425094604 
+
+largest DSC now: 0.8737181425094604
+Eval Epoch num 10 | val loss 0.23153587643589293 | dsc 0.8750564455986023 
+
+largest DSC now: 0.8750564455986023
+Eval Epoch num 12 | val loss 0.25029500467436655 | dsc 0.8729473352432251 
+
+Eval Epoch num 14 | val loss 0.24196699793849671 | dsc 0.8752835392951965 
+
+largest DSC now: 0.8752835392951965
+Eval Epoch num 16 | val loss 0.2291481654558863 | dsc 0.8751432299613953 
+
+Eval Epoch num 18 | val loss 0.2326358280011586 | dsc 0.8786365389823914 
+
+largest DSC now: 0.8786365389823914
+Eval Epoch num 20 | val loss 0.23028589359351567 | dsc 0.8805249929428101 
+
+largest DSC now: 0.8805249929428101
+Eval Epoch num 22 | val loss 0.23546195349523 | dsc 0.8788172602653503 
+
+Eval Epoch num 24 | val loss 0.23668779964957917 | dsc 0.8794116377830505 
+
+Eval Epoch num 26 | val loss 0.23009284159966878 | dsc 0.8814487457275391 
+
+largest DSC now: 0.8814487457275391
+Eval Epoch num 28 | val loss 0.22137234998600824 | dsc 0.8765853643417358 
+
+Eval Epoch num 30 | val loss 0.22364733687468938 | dsc 0.8835458755493164 
+
+largest DSC now: 0.8835458755493164
+Eval Epoch num 32 | val loss 0.22048760205507278 | dsc 0.883640468120575 
+
+largest DSC now: 0.883640468120575
+Eval Epoch num 34 | val loss 0.2195432484149933 | dsc 0.8841809630393982 
+
+largest DSC now: 0.8841809630393982
+Eval Epoch num 36 | val loss 0.23094224716935838 | dsc 0.881442129611969 
+
+Eval Epoch num 38 | val loss 0.21645567566156387 | dsc 0.8827753067016602 
+
+Eval Epoch num 40 | val loss 0.22275864971535547 | dsc 0.8821640014648438 
+
+Eval Epoch num 42 | val loss 0.23338235382522857 | dsc 0.8814437985420227 
+
+Eval Epoch num 44 | val loss 0.2169888892344066 | dsc 0.8843045830726624 
+
+largest DSC now: 0.8843045830726624
+Eval Epoch num 46 | val loss 0.22366041583674295 | dsc 0.8841224908828735 
+
+Eval Epoch num 48 | val loss 0.2139596183385168 | dsc 0.8841779828071594 
+
+Eval Epoch num 50 | val loss 0.21301196089812688 | dsc 0.8856014609336853 
+
+largest DSC now: 0.8856014609336853
+Eval Epoch num 52 | val loss 0.21598590271813528 | dsc 0.8852299451828003 
+
+Eval Epoch num 54 | val loss 0.21626018307038716 | dsc 0.8855064511299133 
+
+Eval Epoch num 56 | val loss 0.21779481960194452 | dsc 0.8848066329956055 
+
+Eval Epoch num 58 | val loss 0.22114227818591253 | dsc 0.8851889967918396 
+
+Eval Epoch num 60 | val loss 0.21436786438737596 | dsc 0.8815218806266785 
+
+Eval Epoch num 62 | val loss 0.2178807673709733 | dsc 0.8845325112342834 
+
+Eval Epoch num 64 | val loss 0.2308024572474616 | dsc 0.8822576403617859 
+
+Eval Epoch num 66 | val loss 0.22402228627886092 | dsc 0.8828445076942444 
+
+Eval Epoch num 68 | val loss 0.21487648572240556 | dsc 0.8858013153076172 
+
+largest DSC now: 0.8858013153076172
+Eval Epoch num 70 | val loss 0.220530737723623 | dsc 0.8867494463920593 
+
+largest DSC now: 0.8867494463920593
+Eval Epoch num 72 | val loss 0.22166090139320918 | dsc 0.8838327527046204 
+
+Eval Epoch num 74 | val loss 0.21087770376886641 | dsc 0.8858846426010132 
+
+Eval Epoch num 76 | val loss 0.21754915160792215 | dsc 0.8872547745704651 
+
+largest DSC now: 0.8872547745704651
+Eval Epoch num 78 | val loss 0.2265636229089328 | dsc 0.8834173083305359 
+
+Eval Epoch num 80 | val loss 0.21219250027622497 | dsc 0.8865669369697571 
+
+Eval Epoch num 82 | val loss 0.21310195752552577 | dsc 0.8842576742172241 
+
+Eval Epoch num 84 | val loss 0.2097899094223976 | dsc 0.8845053911209106 
+
+Eval Epoch num 86 | val loss 0.21634127306086676 | dsc 0.8855718970298767 
+
+Eval Epoch num 88 | val loss 0.21141211475644792 | dsc 0.8838562965393066 
+
+Eval Epoch num 90 | val loss 0.23259903490543365 | dsc 0.8805202841758728 
+
+Eval Epoch num 92 | val loss 0.22609941980668477 | dsc 0.882998526096344 
+
+Eval Epoch num 94 | val loss 0.21882285390581405 | dsc 0.8854116797447205 
+
+Eval Epoch num 96 | val loss 0.20907069529805863 | dsc 0.8869771361351013 
+
+Eval Epoch num 98 | val loss 0.21875920359577453 | dsc 0.8858548998832703 
+
+Training finished###########
