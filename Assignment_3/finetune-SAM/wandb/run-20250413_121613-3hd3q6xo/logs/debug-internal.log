@@ -1,0 +1,16 @@
+{"time":"2025-04-13T12:16:13.451191884-04:00","level":"INFO","msg":"stream: starting","core version":"0.19.9","symlink path":"/home/ashmal/Courses/MedImgComputing/Assignment_3/finetune-SAM/wandb/run-20250413_121613-3hd3q6xo/logs/debug-core.log"}
+{"time":"2025-04-13T12:16:17.314673074-04:00","level":"INFO","msg":"created new stream","id":"3hd3q6xo"}
+{"time":"2025-04-13T12:16:17.314814755-04:00","level":"INFO","msg":"stream: started","id":"3hd3q6xo"}
+{"time":"2025-04-13T12:16:17.314886885-04:00","level":"INFO","msg":"sender: started","stream_id":"3hd3q6xo"}
+{"time":"2025-04-13T12:16:17.314871295-04:00","level":"INFO","msg":"writer: Do: started","stream_id":"3hd3q6xo"}
+{"time":"2025-04-13T12:16:17.314912705-04:00","level":"INFO","msg":"handler: started","stream_id":"3hd3q6xo"}
+{"time":"2025-04-13T12:16:17.424998387-04:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-13T15:34:54.024755941-04:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-13T15:34:54.025014102-04:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-13T15:34:54.563215307-04:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-13T15:34:54.657012882-04:00","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2025-04-13T15:34:54.685318224-04:00","level":"INFO","msg":"stream: closing","id":"3hd3q6xo"}
+{"time":"2025-04-13T15:34:54.685339964-04:00","level":"INFO","msg":"handler: closed","stream_id":"3hd3q6xo"}
+{"time":"2025-04-13T15:34:54.685348414-04:00","level":"INFO","msg":"writer: Close: closed","stream_id":"3hd3q6xo"}
+{"time":"2025-04-13T15:34:54.685388004-04:00","level":"INFO","msg":"sender: closed","stream_id":"3hd3q6xo"}
+{"time":"2025-04-13T15:34:54.685897045-04:00","level":"INFO","msg":"stream: closed","id":"3hd3q6xo"}

@@ -1,0 +1,108 @@
+train dataset: NuInsSeg
+combine_all
+Filtered data list to 532 entries.
+Filtered data list to 133 entries.
+/home/ashmal/anaconda3/envs/medical3/lib/python3.10/site-packages/torch/utils/data/dataloader.py:558: UserWarning: This DataLoader will create 16 worker processes in total. Our suggested max number of worker in current system is 12, which is smaller than what this DataLoader is going to create. Please be aware that excessive worker creation might get DataLoader running slow or even freeze, lower the worker number to avoid potential slowness/freeze if necessary.
+  warnings.warn(_create_warning_msg(
+Number of training samples: 532
+Number of validation samples: 133
+if update encoder: True
+if image encoder lora: True
+if mask decoder lora: True
+Total trainable parameters: 705,679
+image_encoder.blocks.0.attn.qkv.linear_a_q.weight: 3072 parameters
+image_encoder.blocks.0.attn.qkv.linear_b_q.weight: 3072 parameters
+image_encoder.blocks.0.attn.qkv.linear_a_v.weight: 3072 parameters
+image_encoder.blocks.0.attn.qkv.linear_b_v.weight: 3072 parameters
+image_encoder.blocks.1.attn.qkv.linear_a_q.weight: 3072 parameters
+image_encoder.blocks.1.attn.qkv.linear_b_q.weight: 3072 parameters
+image_encoder.blocks.1.attn.qkv.linear_a_v.weight: 3072 parameters
+image_encoder.blocks.1.attn.qkv.linear_b_v.weight: 3072 parameters
+image_encoder.blocks.10.attn.qkv.linear_a_q.weight: 3072 parameters
+image_encoder.blocks.10.attn.qkv.linear_b_q.weight: 3072 parameters
+image_encoder.blocks.10.attn.qkv.linear_a_v.weight: 3072 parameters
+image_encoder.blocks.10.attn.qkv.linear_b_v.weight: 3072 parameters
+image_encoder.blocks.11.attn.qkv.linear_a_q.weight: 3072 parameters
+image_encoder.blocks.11.attn.qkv.linear_b_q.weight: 3072 parameters
+image_encoder.blocks.11.attn.qkv.linear_a_v.weight: 3072 parameters
+image_encoder.blocks.11.attn.qkv.linear_b_v.weight: 3072 parameters
+prompt_encoder.point_embeddings.0.weight: 256 parameters
+prompt_encoder.point_embeddings.1.weight: 256 parameters
+prompt_encoder.point_embeddings.2.weight: 256 parameters
+prompt_encoder.point_embeddings.3.weight: 256 parameters
+prompt_encoder.not_a_point_embed.weight: 256 parameters
+prompt_encoder.mask_downscaling.0.weight: 16 parameters
+prompt_encoder.mask_downscaling.0.bias: 4 parameters
+prompt_encoder.mask_downscaling.1.weight: 4 parameters
+prompt_encoder.mask_downscaling.1.bias: 4 parameters
+prompt_encoder.mask_downscaling.3.weight: 256 parameters
+prompt_encoder.mask_downscaling.3.bias: 16 parameters
+prompt_encoder.mask_downscaling.4.weight: 16 parameters
+prompt_encoder.mask_downscaling.4.bias: 16 parameters
+prompt_encoder.mask_downscaling.6.weight: 4096 parameters
+prompt_encoder.mask_downscaling.6.bias: 256 parameters
+prompt_encoder.no_mask_embed.weight: 256 parameters
+mask_decoder.transformer.layers.0.self_attn.q_proj.w_a.weight: 1024 parameters
+mask_decoder.transformer.layers.0.self_attn.q_proj.w_b.weight: 1024 parameters
+mask_decoder.transformer.layers.0.self_attn.v_proj.w_a.weight: 1024 parameters
+mask_decoder.transformer.layers.0.self_attn.v_proj.w_b.weight: 1024 parameters
+mask_decoder.transformer.layers.0.cross_attn_token_to_image.q_proj.w_a.weight: 1024 parameters
+mask_decoder.transformer.layers.0.cross_attn_token_to_image.q_proj.w_b.weight: 512 parameters
+mask_decoder.transformer.layers.0.cross_attn_token_to_image.v_proj.w_a.weight: 1024 parameters
+mask_decoder.transformer.layers.0.cross_attn_token_to_image.v_proj.w_b.weight: 512 parameters
+mask_decoder.transformer.layers.0.cross_attn_image_to_token.q_proj.w_a.weight: 1024 parameters
+mask_decoder.transformer.layers.0.cross_attn_image_to_token.q_proj.w_b.weight: 512 parameters
+mask_decoder.transformer.layers.0.cross_attn_image_to_token.v_proj.w_a.weight: 1024 parameters
+mask_decoder.transformer.layers.0.cross_attn_image_to_token.v_proj.w_b.weight: 512 parameters
+mask_decoder.transformer.layers.1.self_attn.q_proj.w_a.weight: 1024 parameters
+mask_decoder.transformer.layers.1.self_attn.q_proj.w_b.weight: 1024 parameters
+mask_decoder.transformer.layers.1.self_attn.v_proj.w_a.weight: 1024 parameters
+mask_decoder.transformer.layers.1.self_attn.v_proj.w_b.weight: 1024 parameters
+mask_decoder.transformer.layers.1.cross_attn_token_to_image.q_proj.w_a.weight: 1024 parameters
+mask_decoder.transformer.layers.1.cross_attn_token_to_image.q_proj.w_b.weight: 512 parameters
+mask_decoder.transformer.layers.1.cross_attn_token_to_image.v_proj.w_a.weight: 1024 parameters
+mask_decoder.transformer.layers.1.cross_attn_token_to_image.v_proj.w_b.weight: 512 parameters
+mask_decoder.transformer.layers.1.cross_attn_image_to_token.q_proj.w_a.weight: 1024 parameters
+mask_decoder.transformer.layers.1.cross_attn_image_to_token.q_proj.w_b.weight: 512 parameters
+mask_decoder.transformer.layers.1.cross_attn_image_to_token.v_proj.w_a.weight: 1024 parameters
+mask_decoder.transformer.layers.1.cross_attn_image_to_token.v_proj.w_b.weight: 512 parameters
+mask_decoder.transformer.final_attn_token_to_image.q_proj.w_a.weight: 1024 parameters
+mask_decoder.transformer.final_attn_token_to_image.q_proj.w_b.weight: 512 parameters
+mask_decoder.transformer.final_attn_token_to_image.v_proj.w_a.weight: 1024 parameters
+mask_decoder.transformer.final_attn_token_to_image.v_proj.w_b.weight: 512 parameters
+mask_decoder.iou_token.weight: 256 parameters
+mask_decoder.mask_tokens.weight: 768 parameters
+mask_decoder.output_upscaling.0.weight: 65536 parameters
+mask_decoder.output_upscaling.0.bias: 64 parameters
+mask_decoder.output_upscaling.1.weight: 64 parameters
+mask_decoder.output_upscaling.1.bias: 64 parameters
+mask_decoder.output_upscaling.3.weight: 8192 parameters
+mask_decoder.output_upscaling.3.bias: 32 parameters
+mask_decoder.output_hypernetworks_mlps.0.layers.0.weight: 65536 parameters
+mask_decoder.output_hypernetworks_mlps.0.layers.0.bias: 256 parameters
+mask_decoder.output_hypernetworks_mlps.0.layers.1.weight: 65536 parameters
+mask_decoder.output_hypernetworks_mlps.0.layers.1.bias: 256 parameters
+mask_decoder.output_hypernetworks_mlps.0.layers.2.weight: 8192 parameters
+mask_decoder.output_hypernetworks_mlps.0.layers.2.bias: 32 parameters
+mask_decoder.output_hypernetworks_mlps.1.layers.0.weight: 65536 parameters
+mask_decoder.output_hypernetworks_mlps.1.layers.0.bias: 256 parameters
+mask_decoder.output_hypernetworks_mlps.1.layers.1.weight: 65536 parameters
+mask_decoder.output_hypernetworks_mlps.1.layers.1.bias: 256 parameters
+mask_decoder.output_hypernetworks_mlps.1.layers.2.weight: 8192 parameters
+mask_decoder.output_hypernetworks_mlps.1.layers.2.bias: 32 parameters
+mask_decoder.output_hypernetworks_mlps.2.layers.0.weight: 65536 parameters
+mask_decoder.output_hypernetworks_mlps.2.layers.0.bias: 256 parameters
+mask_decoder.output_hypernetworks_mlps.2.layers.1.weight: 65536 parameters
+mask_decoder.output_hypernetworks_mlps.2.layers.1.bias: 256 parameters
+mask_decoder.output_hypernetworks_mlps.2.layers.2.weight: 8192 parameters
+mask_decoder.output_hypernetworks_mlps.2.layers.2.bias: 32 parameters
+mask_decoder.iou_prediction_head.layers.0.weight: 65536 parameters
+mask_decoder.iou_prediction_head.layers.0.bias: 256 parameters
+mask_decoder.iou_prediction_head.layers.1.weight: 65536 parameters
+mask_decoder.iou_prediction_head.layers.1.bias: 256 parameters
+mask_decoder.iou_prediction_head.layers.2.weight: 768 parameters
+mask_decoder.iou_prediction_head.layers.2.bias: 3 parameters
+Image Encoder parameters : 49152
+Prompt Encoder parameters : 6220
+Mask Decoder parameters : 650307
+Total parameters : 705679

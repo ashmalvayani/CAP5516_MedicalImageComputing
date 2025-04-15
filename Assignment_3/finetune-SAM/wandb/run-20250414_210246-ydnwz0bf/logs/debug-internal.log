@@ -1,0 +1,15 @@
+{"time":"2025-04-14T21:02:46.168116979-04:00","level":"INFO","msg":"stream: starting","core version":"0.19.9","symlink path":"/home/ashmal/Courses/MedImgComputing/Assignment_3/finetune-SAM/wandb/run-20250414_210246-ydnwz0bf/logs/debug-core.log"}
+{"time":"2025-04-14T21:02:46.368381314-04:00","level":"INFO","msg":"created new stream","id":"ydnwz0bf"}
+{"time":"2025-04-14T21:02:46.368436934-04:00","level":"INFO","msg":"stream: started","id":"ydnwz0bf"}
+{"time":"2025-04-14T21:02:46.368483515-04:00","level":"INFO","msg":"writer: Do: started","stream_id":"ydnwz0bf"}
+{"time":"2025-04-14T21:02:46.368553485-04:00","level":"INFO","msg":"handler: started","stream_id":"ydnwz0bf"}
+{"time":"2025-04-14T21:02:46.368601175-04:00","level":"INFO","msg":"sender: started","stream_id":"ydnwz0bf"}
+{"time":"2025-04-14T21:02:46.490035237-04:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-14T21:02:50.830785487-04:00","level":"INFO","msg":"stream: closing","id":"ydnwz0bf"}
+{"time":"2025-04-14T21:02:50.830884397-04:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-14T21:02:50.830942788-04:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-14T21:02:51.358016873-04:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-14T21:02:51.466270981-04:00","level":"INFO","msg":"handler: closed","stream_id":"ydnwz0bf"}
+{"time":"2025-04-14T21:02:51.466310871-04:00","level":"INFO","msg":"writer: Close: closed","stream_id":"ydnwz0bf"}
+{"time":"2025-04-14T21:02:51.466320741-04:00","level":"INFO","msg":"sender: closed","stream_id":"ydnwz0bf"}
+{"time":"2025-04-14T21:02:51.468668007-04:00","level":"INFO","msg":"stream: closed","id":"ydnwz0bf"}

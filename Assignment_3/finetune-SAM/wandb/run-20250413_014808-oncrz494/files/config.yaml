@@ -1,0 +1,169 @@
+_wandb:
+    value:
+        cli_version: 0.19.9
+        m: []
+        python_version: 3.10.16
+        t:
+            "1":
+                - 1
+                - 11
+                - 41
+                - 48
+                - 49
+                - 55
+                - 63
+                - 71
+            "2":
+                - 1
+                - 11
+                - 41
+                - 48
+                - 49
+                - 55
+                - 63
+                - 71
+            "3":
+                - 2
+                - 13
+                - 16
+                - 23
+                - 55
+            "4": 3.10.16
+            "5": 0.19.9
+            "6": 4.51.0
+            "8":
+                - 5
+            "12": 0.19.9
+            "13": linux-x86_64
+arch:
+    value: vit_b
+b:
+    value: 10
+base_weights:
+    value: 0
+baseline:
+    value: unet
+chunk:
+    value: 96
+dataset:
+    value: isic
+dataset_name:
+    value: NuInsSeg
+decoder_adapt_depth:
+    value: 2
+depth:
+    value: 64
+devices:
+    value:
+        - 0
+        - 1
+dim:
+    value: 512
+dir_checkpoint:
+    value: NuInsSeg_Model_Outputs/fold_0
+distributed:
+    value: none
+encoder_adapter_depths:
+    value:
+        - 0
+        - 1
+        - 10
+        - 11
+encoder_lora_layer:
+    value:
+        - 0
+        - 1
+        - 10
+        - 11
+epoch_ini:
+    value: 1
+epochs:
+    value: 500
+evl_chunk:
+    value: null
+finetune_type:
+    value: lora
+gpu:
+    value: true
+gpu_device:
+    value: 0
+gpu_fractions:
+    value:
+        - 0.5
+        - 0.5
+heads:
+    value: 16
+if_decoder_lora_layer:
+    value: true
+if_encoder_adapter:
+    value: false
+if_encoder_lora_layer:
+    value: true
+if_mask_decoder_adapter:
+    value: true
+if_split_encoder_gpus:
+    value: false
+if_update_encoder:
+    value: true
+if_warmup:
+    value: true
+image_size:
+    value: 1024
+img_folder:
+    value: /home/ashmal/Courses/MedImgComputing/Assignment_3/finetune-SAM/datasets
+imp_lr:
+    value: 0.0003
+lr:
+    value: 0.001
+mask_folder:
+    value: /home/ashmal/Courses/MedImgComputing/Assignment_3/finetune-SAM/datasets
+mlp_dim:
+    value: 1024
+net:
+    value: sam
+normalize_type:
+    value: sam
+num_cls:
+    value: 2
+num_sample:
+    value: 4
+out_size:
+    value: 256
+patch_size:
+    value: 2
+pretrain:
+    value: false
+reverse:
+    value: false
+roi_size:
+    value: 96
+s:
+    value: true
+sam_ckpt:
+    value: sam_vit_b_01ec64.pth
+sim_gpu:
+    value: 0
+sim_weights:
+    value: 0
+targets:
+    value: combine_all
+thd:
+    value: false
+train_img_list:
+    value: /home/ashmal/Courses/MedImgComputing/Assignment_3/finetune-SAM/datasets/NuInsSeg/a_full_set_5fold/final_files/train_fold_0.csv
+type:
+    value: map
+uinch:
+    value: 1
+val_freq:
+    value: 100
+val_img_list:
+    value: /home/ashmal/Courses/MedImgComputing/Assignment_3/finetune-SAM/datasets/NuInsSeg/a_full_set_5fold/final_files/val_fold_0.csv
+vis:
+    value: null
+w:
+    value: 4
+warmup_period:
+    value: 200
+weights:
+    value: 0

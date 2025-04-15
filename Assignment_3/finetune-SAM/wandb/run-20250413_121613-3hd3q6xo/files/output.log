@@ -1,0 +1,441 @@
+train dataset: NuInsSeg
+combine_all
+Filtered data list to 532 entries.
+Filtered data list to 133 entries.
+/home/ashmal/anaconda3/envs/medical3/lib/python3.10/site-packages/torch/utils/data/dataloader.py:558: UserWarning: This DataLoader will create 16 worker processes in total. Our suggested max number of worker in current system is 8, which is smaller than what this DataLoader is going to create. Please be aware that excessive worker creation might get DataLoader running slow or even freeze, lower the worker number to avoid potential slowness/freeze if necessary.
+  warnings.warn(_create_warning_msg(
+Number of training samples: 532
+Number of validation samples: 133
+if update encoder: True
+if image encoder lora: True
+if mask decoder lora: True
+Total trainable parameters: 705,679
+100%|██████████| 54/54 [02:04<00:00,  2.31s/it]
+Epoch num 0| train loss 1.1510570678446028 /it]
+100%|██████████| 14/14 [00:17<00:00,  1.26s/it]
+Epoch num 0| train loss 1.1510570678446028 t/s]
+Eval Epoch num 0 | val loss 0.4808865466288158 | dsc 0.7746342420578003
+
+largest DSC now: 0.7746342420578003
+100%|██████████| 54/54 [02:01<00:00,  2.25s/it]3s/it]
+Epoch num 1| train loss 0.417983615288028 s/it]
+Epoch num 1| train loss 0.417983615288028 142.53s/it] 
+100%|██████████| 54/54 [02:02<00:00,  2.27s/it]4s/it]
+Epoch num 2| train loss 0.3400259365638097 /it]
+100%|██████████| 14/14 [00:17<00:00,  1.28s/it]4s/it]
+Epoch num 2| train loss 0.3400259365638097 /it]
+Eval Epoch num 2 | val loss 0.3917940855026245 | dsc 0.8166866898536682
+
+largest DSC now: 0.8166866898536682
+100%|██████████| 54/54 [02:01<00:00,  2.25s/it]7s/it]
+Epoch num 3| train loss 0.2957133634222878 /it]
+Epoch num 3| train loss 0.2957133634222878 34.97s/it]
+100%|██████████| 54/54 [02:01<00:00,  2.24s/it]0s/it]
+Epoch num 4| train loss 0.27608275165160495 it]
+100%|██████████| 14/14 [00:15<00:00,  1.09s/it]0s/it]
+Epoch num 4| train loss 0.27608275165160495 /s]
+Eval Epoch num 4 | val loss 0.2756702197449548 | dsc 0.8609046339988708
+
+largest DSC now: 0.8609046339988708
+100%|██████████| 54/54 [02:03<00:00,  2.29s/it]6s/it]
+Epoch num 5| train loss 0.2699464678212448 /it]
+Epoch num 5| train loss 0.2699464678212448 32.16s/it] 
+100%|██████████| 54/54 [02:02<00:00,  2.27s/it]6s/it]
+Epoch num 6| train loss 0.2579823337771274 /it]
+100%|██████████| 14/14 [00:15<00:00,  1.13s/it]6s/it]
+Epoch num 6| train loss 0.2579823337771274 t/s]
+Eval Epoch num 6 | val loss 0.24468205124139786 | dsc 0.8692930936813354
+
+largest DSC now: 0.8692930936813354
+100%|██████████| 54/54 [02:06<00:00,  2.33s/it]6s/it]
+Epoch num 7| train loss 0.25647684517833924 it]
+Epoch num 7| train loss 0.25647684517833924 2.36s/it]
+100%|██████████| 54/54 [02:02<00:00,  2.28s/it]5s/it]
+Epoch num 8| train loss 0.2501052979517866 /it]
+100%|██████████| 14/14 [00:15<00:00,  1.13s/it]5s/it] 
+Epoch num 8| train loss 0.2501052979517866 t/s]
+Eval Epoch num 8 | val loss 0.2760964940701212 | dsc 0.8619478344917297
+100%|██████████| 54/54 [02:03<00:00,  2.29s/it]5s/it]
+Epoch num 9| train loss 0.24658462046473115 it]
+Epoch num 9| train loss 0.24658462046473115 2.95s/it]
+100%|██████████| 54/54 [01:59<00:00,  2.22s/it]09s/it]
+Epoch num 10| train loss 0.2410318716256707 it]
+100%|██████████| 14/14 [00:15<00:00,  1.12s/it]09s/it]
+Epoch num 10| train loss 0.2410318716256707 /s]
+
+Eval Epoch num 10 | val loss 0.23463524665151322 | dsc 0.8779266476631165
+
+largest DSC now: 0.8779266476631165
+100%|██████████| 54/54 [02:00<00:00,  2.23s/it]92s/it]
+Epoch num 11| train loss 0.2380625851176403 it]
+Epoch num 11| train loss 0.2380625851176403 31.92s/it]
+100%|██████████| 54/54 [02:03<00:00,  2.28s/it]44s/it]
+Epoch num 12| train loss 0.23073574983411366 t]
+100%|██████████| 14/14 [00:15<00:00,  1.09s/it]44s/it]
+Epoch num 12| train loss 0.23073574983411366 s]
+Eval Epoch num 12 | val loss 0.24229318542139872 | dsc 0.8784245252609253
+
+largest DSC now: 0.8784245252609253
+100%|██████████| 54/54 [02:00<00:00,  2.23s/it]60s/it]
+Epoch num 13| train loss 0.2346262059829853 it]
+Epoch num 13| train loss 0.2346262059829853 31.60s/it] 
+100%|██████████| 54/54 [02:03<00:00,  2.28s/it]20s/it]
+Epoch num 14| train loss 0.23448845826917225 t]
+100%|██████████| 14/14 [00:17<00:00,  1.27s/it]20s/it]
+Epoch num 14| train loss 0.23448845826917225 s]
+Eval Epoch num 14 | val loss 0.23703232726880483 | dsc 0.8804483413696289
+
+largest DSC now: 0.8804483413696289
+100%|██████████| 54/54 [02:02<00:00,  2.27s/it]22s/it]
+Epoch num 15| train loss 0.23118297507365546 t]
+Epoch num 15| train loss 0.23118297507365546 2.22s/it]
+100%|██████████| 54/54 [02:02<00:00,  2.26s/it]33s/it]
+Epoch num 16| train loss 0.2299004136412232 it]
+100%|██████████| 14/14 [00:16<00:00,  1.20s/it]33s/it] 
+Epoch num 16| train loss 0.2299004136412232 /s]
+Eval Epoch num 16 | val loss 0.2235590432371412 | dsc 0.8842011094093323
+
+largest DSC now: 0.8842011094093323
+100%|██████████| 54/54 [02:00<00:00,  2.24s/it]37s/it]
+Epoch num 17| train loss 0.22765170865588719 t]
+Epoch num 17| train loss 0.22765170865588719 2.37s/it]
+100%|██████████| 54/54 [02:02<00:00,  2.28s/it]89s/it]
+Epoch num 18| train loss 0.22173728048801422 t]
+100%|██████████| 14/14 [00:16<00:00,  1.15s/it]89s/it]
+Epoch num 18| train loss 0.22173728048801422 s]
+Eval Epoch num 18 | val loss 0.21758928894996643 | dsc 0.8855971097946167
+
+largest DSC now: 0.8855971097946167
+100%|██████████| 54/54 [02:02<00:00,  2.28s/it]04s/it]
+Epoch num 19| train loss 0.22377807315852907 t]
+Epoch num 19| train loss 0.22377807315852907 2.04s/it]
+100%|██████████| 54/54 [02:02<00:00,  2.27s/it]30s/it]
+Epoch num 20| train loss 0.22365250107314852 t]
+100%|██████████| 14/14 [00:17<00:00,  1.24s/it]30s/it]
+Epoch num 20| train loss 0.22365250107314852 s]
+Eval Epoch num 20 | val loss 0.21392481348344258 | dsc 0.887944757938385
+
+largest DSC now: 0.887944757938385
+100%|██████████| 54/54 [01:59<00:00,  2.21s/it]52s/it]
+Epoch num 21| train loss 0.22449976923289122 t]
+Epoch num 21| train loss 0.22449976923289122 2.52s/it]
+100%|██████████| 54/54 [02:01<00:00,  2.26s/it]60s/it]
+Epoch num 22| train loss 0.22397490038915915 t]
+100%|██████████| 14/14 [00:15<00:00,  1.12s/it]60s/it]
+Epoch num 22| train loss 0.22397490038915915 s]
+Eval Epoch num 22 | val loss 0.21136752090283803 | dsc 0.8838938474655151
+100%|██████████| 54/54 [02:01<00:00,  2.25s/it]25s/it]
+Epoch num 23| train loss 0.22253515847303248 t]
+Epoch num 23| train loss 0.22253515847303248 1.25s/it]
+100%|██████████| 54/54 [02:03<00:00,  2.30s/it]41s/it]
+Epoch num 24| train loss 0.22053539835744435 t]
+100%|██████████| 14/14 [00:15<00:00,  1.14s/it]41s/it]
+Epoch num 24| train loss 0.22053539835744435 s]
+
+Eval Epoch num 24 | val loss 0.20772276712315424 | dsc 0.8871532678604126
+100%|██████████| 54/54 [02:02<00:00,  2.27s/it]89s/it]
+Epoch num 25| train loss 0.2187510527394436 it]
+Epoch num 25| train loss 0.2187510527394436 31.89s/it] 
+100%|██████████| 54/54 [02:06<00:00,  2.34s/it]17s/it]
+Epoch num 26| train loss 0.21765146404504776 t]
+100%|██████████| 14/14 [00:15<00:00,  1.12s/it]17s/it]
+Epoch num 26| train loss 0.21765146404504776 s]
+
+Eval Epoch num 26 | val loss 0.21002248568194254 | dsc 0.8892813324928284
+
+largest DSC now: 0.8892813324928284
+100%|██████████| 54/54 [02:08<00:00,  2.38s/it]12s/it]
+Epoch num 27| train loss 0.21958482458635611 t]
+Epoch num 27| train loss 0.21958482458635611 133.12s/it]
+100%|██████████| 54/54 [02:01<00:00,  2.24s/it]1.81s/it]
+Epoch num 28| train loss 0.21741195740523162 t]
+100%|██████████| 14/14 [00:14<00:00,  1.05s/it]1.81s/it]
+Epoch num 28| train loss 0.21741195740523162 s]
+Eval Epoch num 28 | val loss 0.2129496516925948 | dsc 0.8892360329627991
+100%|██████████| 54/54 [02:00<00:00,  2.24s/it]3.03s/it]
+Epoch num 29| train loss 0.2177300693260299 it]
+Epoch num 29| train loss 0.2177300693260299  133.03s/it] 
+100%|██████████| 54/54 [02:04<00:00,  2.31s/it]9.38s/it]
+Epoch num 30| train loss 0.21953201431919028 t]
+100%|██████████| 14/14 [00:17<00:00,  1.23s/it]9.38s/it]
+Epoch num 30| train loss 0.21953201431919028 s]
+
+Eval Epoch num 30 | val loss 0.20656075860772813 | dsc 0.8883641958236694
+100%|██████████| 54/54 [02:02<00:00,  2.27s/it]3.24s/it]
+Epoch num 31| train loss 0.2201323718936355 it]
+Epoch num 31| train loss 0.2201323718936355  133.24s/it] 
+100%|██████████| 54/54 [02:01<00:00,  2.26s/it]0.09s/it]
+Epoch num 32| train loss 0.21518286841887016 t]
+100%|██████████| 14/14 [00:16<00:00,  1.15s/it]0.09s/it]
+Epoch num 32| train loss 0.21518286841887016 s]
+
+Eval Epoch num 32 | val loss 0.23340232563870295 | dsc 0.8841264843940735
+100%|██████████| 54/54 [02:02<00:00,  2.27s/it]2.47s/it]
+Epoch num 33| train loss 0.21393077103076158 t]
+Epoch num 33| train loss 0.21393077103076158 132.47s/it]
+100%|██████████| 54/54 [02:01<00:00,  2.25s/it]9.53s/it]
+Epoch num 34| train loss 0.20922042650205117 t]
+100%|██████████| 14/14 [00:15<00:00,  1.11s/it]9.53s/it]
+Epoch num 34| train loss 0.20922042650205117 s]
+
+Eval Epoch num 34 | val loss 0.21148759978158133 | dsc 0.88921719789505
+100%|██████████| 54/54 [02:01<00:00,  2.25s/it]1.76s/it]
+Epoch num 35| train loss 0.21598935844721617 t]
+Epoch num 35| train loss 0.21598935844721617 131.76s/it]
+100%|██████████| 54/54 [02:03<00:00,  2.28s/it]8.76s/it]
+Epoch num 36| train loss 0.21695305545020988 t]
+100%|██████████| 14/14 [00:14<00:00,  1.05s/it]8.76s/it]
+Epoch num 36| train loss 0.21695305545020988 s]
+
+Eval Epoch num 36 | val loss 0.22767719732863562 | dsc 0.8859491944313049
+100%|██████████| 54/54 [02:01<00:00,  2.25s/it]1.53s/it]
+Epoch num 37| train loss 0.21345958306833548 t]
+Epoch num 37| train loss 0.21345958306833548 131.53s/it]
+100%|██████████| 54/54 [02:00<00:00,  2.24s/it]8.59s/it]
+Epoch num 38| train loss 0.21238694878088105 t]
+100%|██████████| 14/14 [00:15<00:00,  1.10s/it]8.59s/it]
+Epoch num 38| train loss 0.21238694878088105 s]
+
+Eval Epoch num 38 | val loss 0.2384322030203683 | dsc 0.8831184506416321
+100%|██████████| 54/54 [02:02<00:00,  2.27s/it]0.93s/it]
+Epoch num 39| train loss 0.2130258654554685 it]
+Epoch num 39| train loss 0.2130258654554685  130.93s/it] 
+100%|██████████| 54/54 [02:04<00:00,  2.31s/it]8.46s/it]
+Epoch num 40| train loss 0.20959932384667573 t]
+100%|██████████| 14/14 [00:15<00:00,  1.08s/it]8.46s/it]
+Epoch num 40| train loss 0.20959932384667573 s]
+
+Eval Epoch num 40 | val loss 0.2092183062008449 | dsc 0.8912152051925659
+
+largest DSC now: 0.8912152051925659
+100%|██████████| 54/54 [02:01<00:00,  2.26s/it]2.05s/it]
+Epoch num 41| train loss 0.2070453296656962 it]
+Epoch num 41| train loss 0.2070453296656962  132.05s/it] 
+100%|██████████| 54/54 [02:04<00:00,  2.31s/it]8.98s/it]
+Epoch num 42| train loss 0.21137373052813388 t]
+100%|██████████| 14/14 [00:17<00:00,  1.24s/it]8.98s/it]
+Epoch num 42| train loss 0.21137373052813388 s]
+Eval Epoch num 42 | val loss 0.2066258585878781 | dsc 0.8908761739730835
+100%|██████████| 54/54 [02:03<00:00,  2.28s/it]2.92s/it]
+Epoch num 43| train loss 0.21305463131931093 t]
+Epoch num 43| train loss 0.21305463131931093 132.92s/it]
+100%|██████████| 54/54 [02:01<00:00,  2.25s/it]9.98s/it]
+Epoch num 44| train loss 0.2111637079053455 it]
+100%|██████████| 14/14 [00:17<00:00,  1.27s/it]9.98s/it] 
+Epoch num 44| train loss 0.2111637079053455 /s]
+
+Eval Epoch num 44 | val loss 0.20216670313051768 | dsc 0.893447995185852
+
+largest DSC now: 0.893447995185852
+100%|██████████| 54/54 [02:02<00:00,  2.26s/it]2.82s/it]
+Epoch num 45| train loss 0.21115872622640044 t]
+Epoch num 45| train loss 0.21115872622640044 132.82s/it]
+100%|██████████| 54/54 [02:02<00:00,  2.27s/it]9.65s/it]
+Epoch num 46| train loss 0.20927211890618005 t]
+100%|██████████| 14/14 [00:17<00:00,  1.28s/it]9.65s/it]
+Epoch num 46| train loss 0.20927211890618005 t]
+Eval Epoch num 46 | val loss 0.2004570865205356 | dsc 0.8914850354194641
+100%|██████████| 54/54 [02:01<00:00,  2.24s/it]2.91s/it]
+Epoch num 47| train loss 0.2166907122289693 it]
+Epoch num 47| train loss 0.2166907122289693  132.91s/it] 
+100%|██████████| 54/54 [02:00<00:00,  2.23s/it]9.37s/it]
+Epoch num 48| train loss 0.2138827696994499 it]
+100%|██████████| 14/14 [00:16<00:00,  1.18s/it]9.37s/it]
+Epoch num 48| train loss 0.2138827696994499 /s]
+
+Eval Epoch num 48 | val loss 0.20225856559617178 | dsc 0.8933640122413635
+100%|██████████| 54/54 [02:03<00:00,  2.28s/it]1.63s/it]
+Epoch num 49| train loss 0.2125691658368817 it]
+Epoch num 49| train loss 0.2125691658368817  131.63s/it]
+100%|██████████| 54/54 [02:02<00:00,  2.26s/it]9.09s/it]
+Epoch num 50| train loss 0.21077010752978148 t]
+100%|██████████| 14/14 [00:14<00:00,  1.04s/it]9.09s/it]
+Epoch num 50| train loss 0.21077010752978148 s]
+
+Eval Epoch num 50 | val loss 0.22840465285948344 | dsc 0.8860515356063843
+100%|██████████| 54/54 [02:02<00:00,  2.27s/it]1.33s/it]
+Epoch num 51| train loss 0.2135736533889064 it]
+Epoch num 51| train loss 0.2135736533889064  131.33s/it] 
+100%|██████████| 54/54 [02:03<00:00,  2.28s/it]8.72s/it]
+Epoch num 52| train loss 0.2079752109668873 it]
+100%|██████████| 14/14 [00:15<00:00,  1.09s/it]8.72s/it]
+Epoch num 52| train loss 0.2079752109668873 /s]
+
+Eval Epoch num 52 | val loss 0.21736903595072882 | dsc 0.8888387084007263
+100%|██████████| 54/54 [02:01<00:00,  2.25s/it]1.68s/it]
+Epoch num 53| train loss 0.20984880957338545 t]
+Epoch num 53| train loss 0.20984880957338545 131.68s/it]
+100%|██████████| 54/54 [02:02<00:00,  2.27s/it]8.60s/it]
+Epoch num 54| train loss 0.20865980342582421 t]
+100%|██████████| 14/14 [00:16<00:00,  1.17s/it]8.60s/it]
+Epoch num 54| train loss 0.20865980342582421 s]
+
+Eval Epoch num 54 | val loss 0.20267267950943538 | dsc 0.8938146829605103
+
+largest DSC now: 0.8938146829605103
+100%|██████████| 54/54 [02:03<00:00,  2.29s/it]1.77s/it]
+Epoch num 55| train loss 0.20632704347372055 t]
+Epoch num 55| train loss 0.20632704347372055 131.77s/it]
+100%|██████████| 54/54 [02:02<00:00,  2.26s/it]9.42s/it]
+Epoch num 56| train loss 0.20500388658708996 t]
+100%|██████████| 14/14 [00:17<00:00,  1.24s/it]9.42s/it]
+Epoch num 56| train loss 0.20500388658708996 s]
+Eval Epoch num 56 | val loss 0.20120709815195628 | dsc 0.8934506177902222
+100%|██████████| 54/54 [02:03<00:00,  2.29s/it]2.41s/it]
+Epoch num 57| train loss 0.20594886911136132 t]
+Epoch num 57| train loss 0.20594886911136132 132.41s/it]
+100%|██████████| 54/54 [02:02<00:00,  2.28s/it]9.73s/it]
+Epoch num 58| train loss 0.20232764189993893 t]
+100%|██████████| 14/14 [00:15<00:00,  1.10s/it]9.73s/it]
+Epoch num 58| train loss 0.20232764189993893 s]
+
+Eval Epoch num 58 | val loss 0.20174717051642282 | dsc 0.8873464465141296
+100%|██████████| 54/54 [02:02<00:00,  2.27s/it]2.30s/it]
+Epoch num 59| train loss 0.20757729532542052 t]
+Epoch num 59| train loss 0.20757729532542052 132.30s/it]
+100%|██████████| 54/54 [02:02<00:00,  2.27s/it]9.36s/it]
+Epoch num 60| train loss 0.21025713505568328 t]
+100%|██████████| 14/14 [00:16<00:00,  1.15s/it]9.36s/it]
+Epoch num 60| train loss 0.21025713505568328 s]
+
+Eval Epoch num 60 | val loss 0.2006174549460411 | dsc 0.8938442468643188
+
+largest DSC now: 0.8938442468643188
+100%|██████████| 54/54 [02:04<00:00,  2.31s/it]2.34s/it]
+Epoch num 61| train loss 0.20743382004676042 t]
+Epoch num 61| train loss 0.20743382004676042 132.34s/it]
+100%|██████████| 54/54 [02:02<00:00,  2.28s/it]0.01s/it]
+Epoch num 62| train loss 0.2051699144972695 it]
+100%|██████████| 14/14 [00:15<00:00,  1.10s/it]0.01s/it] 
+Epoch num 62| train loss 0.2051699144972695 /s]
+Eval Epoch num 62 | val loss 0.19985230905669077 | dsc 0.8937078714370728
+100%|██████████| 54/54 [02:06<00:00,  2.34s/it]2.50s/it]
+Epoch num 63| train loss 0.20585684754230357 t]
+Epoch num 63| train loss 0.20585684754230357 132.50s/it]
+100%|██████████| 54/54 [02:00<00:00,  2.23s/it]0.73s/it]
+Epoch num 64| train loss 0.20908129905109052 t]
+100%|██████████| 14/14 [00:16<00:00,  1.21s/it]0.73s/it]
+Epoch num 64| train loss 0.20908129905109052 s]
+
+Eval Epoch num 64 | val loss 0.19540276804140636 | dsc 0.8917554020881653
+100%|██████████| 54/54 [02:01<00:00,  2.25s/it]2.81s/it]
+Epoch num 65| train loss 0.2058063640638634 it]
+Epoch num 65| train loss 0.2058063640638634  132.81s/it] 
+100%|██████████| 54/54 [02:01<00:00,  2.25s/it]9.46s/it]
+Epoch num 66| train loss 0.20300435771544775 t]
+100%|██████████| 14/14 [00:17<00:00,  1.27s/it]9.46s/it]
+Epoch num 66| train loss 0.20300435771544775 s]
+
+Eval Epoch num 66 | val loss 0.21579567981617792 | dsc 0.8908213376998901
+100%|██████████| 54/54 [02:01<00:00,  2.25s/it]2.42s/it]
+Epoch num 67| train loss 0.20798832936971276 t]
+Epoch num 67| train loss 0.20798832936971276 132.42s/it]
+100%|██████████| 54/54 [02:01<00:00,  2.25s/it]9.07s/it]
+Epoch num 68| train loss 0.20290947208801904 t]
+100%|██████████| 14/14 [00:17<00:00,  1.24s/it]9.07s/it]
+Epoch num 68| train loss 0.20290947208801904 s]
+
+Eval Epoch num 68 | val loss 0.19719481468200684 | dsc 0.8946695923805237
+
+largest DSC now: 0.8946695923805237
+100%|██████████| 54/54 [02:02<00:00,  2.26s/it]2.10s/it]
+Epoch num 69| train loss 0.20909326827084576 t]
+Epoch num 69| train loss 0.20909326827084576 132.10s/it]
+100%|██████████| 54/54 [02:02<00:00,  2.26s/it]9.09s/it]
+Epoch num 70| train loss 0.20972739987903172 t]
+100%|██████████| 14/14 [00:15<00:00,  1.13s/it]9.09s/it]
+Epoch num 70| train loss 0.20972739987903172 s]
+Eval Epoch num 70 | val loss 0.19885932867016112 | dsc 0.8929851651191711
+100%|██████████| 54/54 [02:03<00:00,  2.29s/it]1.77s/it]
+Epoch num 71| train loss 0.20846020485515948 t]
+Epoch num 71| train loss 0.20846020485515948 131.77s/it]
+100%|██████████| 54/54 [02:05<00:00,  2.33s/it]9.29s/it]
+Epoch num 72| train loss 0.20106548346855022 t]
+100%|██████████| 14/14 [00:17<00:00,  1.27s/it]9.29s/it]
+Epoch num 72| train loss 0.20106548346855022 s]
+
+Eval Epoch num 72 | val loss 0.2072030838046755 | dsc 0.8916211724281311
+100%|██████████| 54/54 [02:05<00:00,  2.32s/it]3.60s/it]
+Epoch num 73| train loss 0.20174715585178798 t]
+Epoch num 73| train loss 0.20174715585178798 133.60s/it]
+100%|██████████| 54/54 [02:03<00:00,  2.28s/it]1.05s/it]
+Epoch num 74| train loss 0.20130107331055183 t]
+100%|██████████| 14/14 [00:16<00:00,  1.17s/it]1.05s/it]
+Epoch num 74| train loss 0.20130107331055183 s]
+
+Eval Epoch num 74 | val loss 0.1955447867512703 | dsc 0.8920183181762695
+100%|██████████| 54/54 [02:03<00:00,  2.29s/it]3.65s/it]
+Epoch num 75| train loss 0.2029426230324639 it]
+Epoch num 75| train loss 0.2029426230324639  133.65s/it] 
+100%|██████████| 54/54 [02:03<00:00,  2.28s/it]0.62s/it]
+Epoch num 76| train loss 0.2004138590009124 it]
+100%|██████████| 14/14 [00:15<00:00,  1.09s/it]0.62s/it]
+Epoch num 76| train loss 0.2004138590009124 /s]
+
+Eval Epoch num 76 | val loss 0.19404286678348268 | dsc 0.8930877447128296
+100%|██████████| 54/54 [02:01<00:00,  2.24s/it]3.01s/it]
+Epoch num 77| train loss 0.20401339481274286 t]
+Epoch num 77| train loss 0.20401339481274286 133.01s/it]
+100%|██████████| 54/54 [02:04<00:00,  2.31s/it]9.46s/it]
+Epoch num 78| train loss 0.20386306831130274 t]
+100%|██████████| 14/14 [00:15<00:00,  1.13s/it]9.46s/it]
+Epoch num 78| train loss 0.20386306831130274 s]
+
+Eval Epoch num 78 | val loss 0.19601523131132126 | dsc 0.8921133875846863
+100%|██████████| 54/54 [02:02<00:00,  2.27s/it]2.73s/it]
+Epoch num 79| train loss 0.20195387331423936 t]
+Epoch num 79| train loss 0.20195387331423936 132.73s/it]
+100%|██████████| 54/54 [02:01<00:00,  2.25s/it]9.75s/it]
+Epoch num 80| train loss 0.20512855715221828 t]
+100%|██████████| 14/14 [00:14<00:00,  1.03s/it]9.75s/it]
+Epoch num 80| train loss 0.20512855715221828 s]
+
+Eval Epoch num 80 | val loss 0.20217380140508925 | dsc 0.8924364447593689
+100%|██████████| 54/54 [02:02<00:00,  2.26s/it]1.66s/it]
+Epoch num 81| train loss 0.2006140732102924 it]
+Epoch num 81| train loss 0.2006140732102924  131.66s/it] 
+100%|██████████| 54/54 [02:03<00:00,  2.28s/it]8.85s/it]
+Epoch num 82| train loss 0.203366384462074 /it]
+100%|██████████| 14/14 [00:20<00:00,  1.47s/it]8.85s/it] 
+Epoch num 82| train loss 0.203366384462074 t/s]
+
+Eval Epoch num 82 | val loss 0.19324333540030889 | dsc 0.889724850654602
+100%|██████████| 54/54 [02:05<00:00,  2.32s/it]3.33s/it]
+Epoch num 83| train loss 0.20170208094296632 t]
+Epoch num 83| train loss 0.20170208094296632 133.33s/it]
+100%|██████████| 54/54 [02:03<00:00,  2.29s/it]0.95s/it]
+Epoch num 84| train loss 0.2020865590484054 it]
+100%|██████████| 14/14 [00:17<00:00,  1.23s/it]0.95s/it] 
+Epoch num 84| train loss 0.2020865590484054 /s]
+
+Eval Epoch num 84 | val loss 0.19163801946810313 | dsc 0.8928393721580505
+100%|██████████| 54/54 [02:03<00:00,  2.28s/it]3.87s/it]
+Epoch num 85| train loss 0.2027377638000029 it]
+Epoch num 85| train loss 0.2027377638000029  133.87s/it]
+100%|██████████| 54/54 [02:00<00:00,  2.24s/it]0.61s/it]
+Epoch num 86| train loss 0.20646952754921383 t]
+100%|██████████| 14/14 [00:14<00:00,  1.02s/it]0.61s/it]
+Epoch num 86| train loss 0.20646952754921383 s]
+
+Eval Epoch num 86 | val loss 0.2008321253316743 | dsc 0.8939355611801147
+100%|██████████| 54/54 [02:01<00:00,  2.24s/it]1.95s/it]
+Epoch num 87| train loss 0.20361616959174475 t]
+Epoch num 87| train loss 0.20361616959174475 131.95s/it]
+100%|██████████| 54/54 [02:00<00:00,  2.22s/it]8.73s/it]
+Epoch num 88| train loss 0.1997552122230883 it]
+100%|██████████| 14/14 [00:15<00:00,  1.08s/it]8.73s/it] 
+Epoch num 88| train loss 0.1997552122230883 /s]
+
+Eval Epoch num 88 | val loss 0.1998715368764741 | dsc 0.8941007256507874
+100%|██████████| 54/54 [02:02<00:00,  2.27s/it]0.68s/it]
+Epoch num 89| train loss 0.199168068115358 /it]
+Epoch num 89| train loss 0.199168068115358 , 130.68s/it] 
+100%|██████████| 54/54 [02:02<00:00,  2.26s/it]8.31s/it]
+Epoch num 90| train loss 0.19920215590132606 t]
+100%|██████████| 14/14 [00:15<00:00,  1.09s/it]8.31s/it]
+Epoch num 90| train loss 0.19920215590132606 s]
+
+Eval Epoch num 90 | val loss 0.19780140849096434 | dsc 0.8944007754325867
+
+Training finished###########
+:  18%|█▊        | 90/500 [3:18:34<15:04:38, 132.39s/it]

@@ -1,0 +1,17 @@
+{"time":"2025-04-13T01:48:08.393797085-04:00","level":"INFO","msg":"stream: starting","core version":"0.19.9","symlink path":"/home/ashmal/Courses/MedImgComputing/Assignment_3/finetune-SAM/wandb/run-20250413_014808-oncrz494/logs/debug-core.log"}
+{"time":"2025-04-13T01:48:08.727383242-04:00","level":"INFO","msg":"created new stream","id":"oncrz494"}
+{"time":"2025-04-13T01:48:08.727520159-04:00","level":"INFO","msg":"stream: started","id":"oncrz494"}
+{"time":"2025-04-13T01:48:08.72772058-04:00","level":"INFO","msg":"writer: Do: started","stream_id":"oncrz494"}
+{"time":"2025-04-13T01:48:08.727788584-04:00","level":"INFO","msg":"handler: started","stream_id":"oncrz494"}
+{"time":"2025-04-13T01:48:08.727844365-04:00","level":"INFO","msg":"sender: started","stream_id":"oncrz494"}
+{"time":"2025-04-13T01:48:08.891594119-04:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-13T03:37:24.263960493-04:00","level":"INFO","msg":"api: retrying HTTP error","status":502,"url":"https://api.wandb.ai/files/ashmalanis08/SAM-Finetune-CrossVal-lora/oncrz494/file_stream","body":"\n<html><head>\n<meta http-equiv=\"content-type\" content=\"text/html;charset=utf-8\">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n"}
+{"time":"2025-04-13T05:36:28.643710003-04:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-13T05:36:28.644032626-04:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-13T05:36:29.175811213-04:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-13T05:36:29.295538297-04:00","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2025-04-13T05:36:29.337199383-04:00","level":"INFO","msg":"stream: closing","id":"oncrz494"}
+{"time":"2025-04-13T05:36:29.337248804-04:00","level":"INFO","msg":"handler: closed","stream_id":"oncrz494"}
+{"time":"2025-04-13T05:36:29.337264636-04:00","level":"INFO","msg":"writer: Close: closed","stream_id":"oncrz494"}
+{"time":"2025-04-13T05:36:29.33730944-04:00","level":"INFO","msg":"sender: closed","stream_id":"oncrz494"}
+{"time":"2025-04-13T05:36:29.338696621-04:00","level":"INFO","msg":"stream: closed","id":"oncrz494"}

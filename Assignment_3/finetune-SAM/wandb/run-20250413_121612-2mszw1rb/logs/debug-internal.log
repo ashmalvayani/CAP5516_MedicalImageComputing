@@ -1,0 +1,18 @@
+{"time":"2025-04-13T12:16:12.215064591-04:00","level":"INFO","msg":"stream: starting","core version":"0.19.9","symlink path":"/home/ashmal/Courses/MedImgComputing/Assignment_3/finetune-SAM/wandb/run-20250413_121612-2mszw1rb/logs/debug-core.log"}
+{"time":"2025-04-13T12:16:13.525222971-04:00","level":"INFO","msg":"created new stream","id":"2mszw1rb"}
+{"time":"2025-04-13T12:16:13.525288181-04:00","level":"INFO","msg":"stream: started","id":"2mszw1rb"}
+{"time":"2025-04-13T12:16:13.525332961-04:00","level":"INFO","msg":"writer: Do: started","stream_id":"2mszw1rb"}
+{"time":"2025-04-13T12:16:13.525350281-04:00","level":"INFO","msg":"handler: started","stream_id":"2mszw1rb"}
+{"time":"2025-04-13T12:16:13.525395481-04:00","level":"INFO","msg":"sender: started","stream_id":"2mszw1rb"}
+{"time":"2025-04-13T12:16:13.670425296-04:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-13T15:57:39.080085631-04:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/ashmalanis08/SAM-Finetune-CrossVal-lora/2mszw1rb/file_stream\": dial tcp: lookup api.wandb.ai on 127.0.0.53:53: read udp 127.0.0.1:56153->127.0.0.53:53: i/o timeout"}
+{"time":"2025-04-13T15:57:59.572063883-04:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": net/http: request canceled (Client.Timeout exceeded while awaiting headers)"}
+{"time":"2025-04-13T16:25:06.414921884-04:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-13T16:25:06.415106924-04:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-13T16:25:06.94724528-04:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-13T16:25:07.065804357-04:00","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2025-04-13T16:25:07.074947907-04:00","level":"INFO","msg":"stream: closing","id":"2mszw1rb"}
+{"time":"2025-04-13T16:25:07.074975317-04:00","level":"INFO","msg":"handler: closed","stream_id":"2mszw1rb"}
+{"time":"2025-04-13T16:25:07.074984577-04:00","level":"INFO","msg":"writer: Close: closed","stream_id":"2mszw1rb"}
+{"time":"2025-04-13T16:25:07.074993247-04:00","level":"INFO","msg":"sender: closed","stream_id":"2mszw1rb"}
+{"time":"2025-04-13T16:25:07.075618509-04:00","level":"INFO","msg":"stream: closed","id":"2mszw1rb"}
