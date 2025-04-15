@@ -74,7 +74,7 @@ sbatch job4.slurm
 # the logs will be saved in "outs/" folder.
 ```
 
-Model output weights can be accessed [here](https://ucf-my.sharepoint.com/:f:/g/personal/as193218_ucf_edu/Eo_F83UAr6JAsjq2DiyV-OsBZ9hIlBGTIYPrImXtj0YIMw?e=rxZPl3).
+Model output weights can be accessed [here](https://ucf-my.sharepoint.com/:f:/g/personal/as193218_ucf_edu/Eo_F83UAr6JAsjq2DiyV-OsBZ9hIlBGTIYPrImXtj0YIMw?e=rxZPl3). (PS: You need to have a UCF account to access the outputs.)
 
 ## Prediction
 5. Run the following code for evaluation by making following changes in the val_singlegpu_demo.sh:
@@ -91,3 +91,4 @@ bash val_singlegpu_demo.sh
 
 # the outputs will be saved in the "NuInsSeg_Testing/" folder.
 ```
+Please check the folder here for [outputs](https://ucf-my.sharepoint.com/:f:/g/personal/as193218_ucf_edu/Ej3Vnx7no0tOuWXW6yWH9MMBIMMrwPSIB3mC044dgKrHpQ?e=IOb6UZ). (PS: You need to have a UCF account to access the outputs.)
