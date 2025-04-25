@@ -1,0 +1,1183 @@
+dataset_name,path,image,question,answer,type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(0).jpg,image(0).jpg,Does this MRI image show a tumor?,The image does not show a tumor.,tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(1).jpg,image(1).jpg,Is a tumor present in the scan provided?,The image does not show a tumor.,tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(2).jpg,image(2).jpg,Does this MRI image show a tumor?,No tumor can be seen.,tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(3).jpg,image(3).jpg,Does this MRI image show a tumor?,No tumor can be seen.,tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(4).jpg,image(4).jpg,Can you detect any tumor in this image?,No indication of tumor.,tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(5).jpg,image(5).jpg,Can you detect any tumor in this image?,The image is tumor-free.,tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(6).jpg,image(6).jpg,Does this MRI image show a tumor?,No tumor is detected here.,tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(7).jpg,image(7).jpg,Is a tumor present in the scan provided?,"No, there is no tumor present.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(8).jpg,image(8).jpg,Can you detect any tumor in this image?,"No, there is no tumor present.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(9).jpg,image(9).jpg,Is there any abnormal growth in this MRI?,There’s no abnormality in the image.,tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(10).jpg,image(10).jpg,Can a tumor be observed in the image?,No growth is present.,tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(11).jpg,image(11).jpg,Is there a tumor visible in this scan?,There’s no abnormality in the image.,tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(12).jpg,image(12).jpg,Can a tumor be observed in the image?,There’s no abnormality in the image.,tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(13).jpg,image(13).jpg,Does this MRI image show a tumor?,No tumor can be seen.,tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(14).jpg,image(14).jpg,Is there any abnormal growth in this MRI?,The image does not show a tumor.,tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(15).jpg,image(15).jpg,Is there any abnormal growth in this MRI?,"No, there is no tumor present.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(16).jpg,image(16).jpg,Is there any abnormal growth in this MRI?,The scan appears normal.,tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(17).jpg,image(17).jpg,Is there a tumor visible in this scan?,There’s no abnormality in the image.,tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(18).jpg,image(18).jpg,Does this brain image contain a tumor?,No tumor can be seen.,tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(19).jpg,image(19).jpg,Does this brain image contain a tumor?,No tumor is detected here.,tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(20).jpg,image(20).jpg,Can a tumor be observed in the image?,The scan appears normal.,tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(21).jpg,image(21).jpg,Is this an example of a tumorous brain scan?,The image does not show a tumor.,tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(22).jpg,image(22).jpg,Can a tumor be observed in the image?,No growth is present.,tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(23).jpg,image(23).jpg,Does this brain image contain a tumor?,No tumor is detected here.,tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(24).jpg,image(24).jpg,Is there any abnormal growth in this MRI?,The scan appears normal.,tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(25).jpg,image(25).jpg,Does this MRI image show a tumor?,No tumor can be seen.,tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(26).jpg,image(26).jpg,Does this MRI image show a tumor?,The image does not show a tumor.,tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(27).jpg,image(27).jpg,Does this MRI show signs of a tumor?,No growth is present.,tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(28).jpg,image(28).jpg,Does this MRI show signs of a tumor?,"No, there is no tumor present.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(29).jpg,image(29).jpg,Can you detect any tumor in this image?,The scan appears normal.,tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(30).jpg,image(30).jpg,Can a tumor be observed in the image?,The image is tumor-free.,tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(31).jpg,image(31).jpg,Does this brain image contain a tumor?,No growth is present.,tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(32).jpg,image(32).jpg,Does this MRI image show a tumor?,No tumor can be seen.,tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(33).jpg,image(33).jpg,Does this MRI image show a tumor?,The image does not show a tumor.,tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(34).jpg,image(34).jpg,Can a tumor be observed in the image?,No indication of tumor.,tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(35).jpg,image(35).jpg,Is the scan indicating the presence of a tumor?,There’s no abnormality in the image.,tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(36).jpg,image(36).jpg,Does this MRI show signs of a tumor?,Tumor not found in this image.,tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(37).jpg,image(37).jpg,Is there a tumor visible in this scan?,The image is tumor-free.,tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(38).jpg,image(38).jpg,Is the scan indicating the presence of a tumor?,The image does not show a tumor.,tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(39).jpg,image(39).jpg,Is there any abnormal growth in this MRI?,No growth is present.,tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(40).jpg,image(40).jpg,Is there any abnormal growth in this MRI?,"No, there is no tumor present.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(41).jpg,image(41).jpg,Is this an example of a tumorous brain scan?,No tumor is detected here.,tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(42).jpg,image(42).jpg,Does this brain image contain a tumor?,The image does not show a tumor.,tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(43).jpg,image(43).jpg,Is this an example of a tumorous brain scan?,The image is tumor-free.,tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(44).jpg,image(44).jpg,Is a tumor present in the scan provided?,The image does not show a tumor.,tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(45).jpg,image(45).jpg,Does this MRI image show a tumor?,The image does not show a tumor.,tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(46).jpg,image(46).jpg,Can you detect any tumor in this image?,No tumor is detected here.,tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(47).jpg,image(47).jpg,Can you detect any tumor in this image?,No tumor is detected here.,tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(48).jpg,image(48).jpg,Can a tumor be observed in the image?,The image does not show a tumor.,tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(49).jpg,image(49).jpg,Is this an example of a tumorous brain scan?,Tumor not found in this image.,tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(50).jpg,image(50).jpg,Does this MRI image show a tumor?,Tumor not found in this image.,tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(51).jpg,image(51).jpg,Is a tumor present in the scan provided?,There’s no abnormality in the image.,tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(52).jpg,image(52).jpg,Is a tumor present in the scan provided?,No tumor is detected here.,tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(53).jpg,image(53).jpg,Is there a tumor visible in this scan?,There’s no abnormality in the image.,tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(54).jpg,image(54).jpg,Is there any abnormal growth in this MRI?,No tumor can be seen.,tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(55).jpg,image(55).jpg,Is this an example of a tumorous brain scan?,No tumor is detected here.,tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(56).jpg,image(56).jpg,Is the scan indicating the presence of a tumor?,No tumor can be seen.,tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(57).jpg,image(57).jpg,Does this MRI image show a tumor?,The scan appears normal.,tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(58).jpg,image(58).jpg,Is there any abnormal growth in this MRI?,No indication of tumor.,tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(59).jpg,image(59).jpg,Is there any abnormal growth in this MRI?,No tumor can be seen.,tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(60).jpg,image(60).jpg,Does this MRI image show a tumor?,Tumor not found in this image.,tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(61).jpg,image(61).jpg,Is there a tumor visible in this scan?,No tumor can be seen.,tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(62).jpg,image(62).jpg,Can you detect any tumor in this image?,No tumor is detected here.,tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(63).jpg,image(63).jpg,Can a tumor be observed in the image?,No tumor is detected here.,tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(64).jpg,image(64).jpg,Can you detect any tumor in this image?,There’s no abnormality in the image.,tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(65).jpg,image(65).jpg,Is a tumor present in the scan provided?,The image is tumor-free.,tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(66).jpg,image(66).jpg,Is this an example of a tumorous brain scan?,There’s no abnormality in the image.,tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(67).jpg,image(67).jpg,Is there any abnormal growth in this MRI?,"No, there is no tumor present.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(68).jpg,image(68).jpg,Is there any abnormal growth in this MRI?,Tumor not found in this image.,tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(69).jpg,image(69).jpg,Is there a tumor visible in this scan?,Tumor not found in this image.,tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(70).jpg,image(70).jpg,Does this brain image contain a tumor?,The scan appears normal.,tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(71).jpg,image(71).jpg,Is the scan indicating the presence of a tumor?,Tumor not found in this image.,tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(72).jpg,image(72).jpg,Is there a tumor visible in this scan?,"No, there is no tumor present.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(73).jpg,image(73).jpg,Is there any abnormal growth in this MRI?,No tumor is detected here.,tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(74).jpg,image(74).jpg,Does this MRI show signs of a tumor?,No growth is present.,tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(75).jpg,image(75).jpg,Is there a tumor visible in this scan?,No tumor can be seen.,tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(76).jpg,image(76).jpg,Does this MRI image show a tumor?,No tumor is detected here.,tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(77).jpg,image(77).jpg,Is a tumor present in the scan provided?,No growth is present.,tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(78).jpg,image(78).jpg,Does this MRI show signs of a tumor?,No tumor is detected here.,tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(79).jpg,image(79).jpg,Does this MRI show signs of a tumor?,There’s no abnormality in the image.,tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(80).jpg,image(80).jpg,Is a tumor present in the scan provided?,No tumor is detected here.,tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(81).jpg,image(81).jpg,Is there any abnormal growth in this MRI?,There’s no abnormality in the image.,tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(82).jpg,image(82).jpg,Can a tumor be observed in the image?,No tumor is detected here.,tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(83).jpg,image(83).jpg,Is a tumor present in the scan provided?,The scan appears normal.,tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(84).jpg,image(84).jpg,Can a tumor be observed in the image?,The scan appears normal.,tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(85).jpg,image(85).jpg,Is this an example of a tumorous brain scan?,"No, there is no tumor present.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(86).jpg,image(86).jpg,Can a tumor be observed in the image?,No tumor can be seen.,tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(87).jpg,image(87).jpg,Is there any abnormal growth in this MRI?,The image does not show a tumor.,tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(88).jpg,image(88).jpg,Can you detect any tumor in this image?,No indication of tumor.,tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(89).jpg,image(89).jpg,Is the scan indicating the presence of a tumor?,"No, there is no tumor present.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(90).jpg,image(90).jpg,Is there any abnormal growth in this MRI?,The scan appears normal.,tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(91).jpg,image(91).jpg,Does this brain image contain a tumor?,Tumor not found in this image.,tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(92).jpg,image(92).jpg,Is there a tumor visible in this scan?,The image does not show a tumor.,tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(93).jpg,image(93).jpg,Is the scan indicating the presence of a tumor?,No indication of tumor.,tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(94).jpg,image(94).jpg,Is there a tumor visible in this scan?,No growth is present.,tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(95).jpg,image(95).jpg,Does this brain image contain a tumor?,The image does not show a tumor.,tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(96).jpg,image(96).jpg,Can a tumor be observed in the image?,The image is tumor-free.,tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(97).jpg,image(97).jpg,Does this MRI image show a tumor?,The scan appears normal.,tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(98).jpg,image(98).jpg,Is there a tumor visible in this scan?,No indication of tumor.,tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(99).jpg,image(99).jpg,Can you detect any tumor in this image?,The image is tumor-free.,tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(100).jpg,image(100).jpg,Is the scan indicating the presence of a tumor?,No indication of tumor.,tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(101).jpg,image(101).jpg,Can a tumor be observed in the image?,"No, there is no tumor present.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(102).jpg,image(102).jpg,Is there any abnormal growth in this MRI?,No tumor is detected here.,tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(103).jpg,image(103).jpg,Does this brain image contain a tumor?,No tumor is detected here.,tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(104).jpg,image(104).jpg,Does this brain image contain a tumor?,No indication of tumor.,tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(0).jpg,image(0).jpg,Is there a tumor visible in this scan?,"Yes, abnormal tissue is seen.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(1).jpg,image(1).jpg,Can a tumor be observed in the image?,"Yes, a tumor is present.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(2).jpg,image(2).jpg,Is the scan indicating the presence of a tumor?,"Confirmed, tumor is present.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(3).jpg,image(3).jpg,Is there any abnormal growth in this MRI?,"Yes, abnormal tissue is seen.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(4).jpg,image(4).jpg,Does this MRI image show a tumor?,A tumor can be seen clearly.,tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(5).jpg,image(5).jpg,Is the scan indicating the presence of a tumor?,A tumor is visible in the image.,tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(6).jpg,image(6).jpg,Is there a tumor visible in this scan?,A tumor is visible in the image.,tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(7).jpg,image(7).jpg,Can a tumor be observed in the image?,"Yes, this is a positive case for tumor.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(8).jpg,image(8).jpg,Can you detect any tumor in this image?,"Confirmed, tumor is present.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(9).jpg,image(9).jpg,Does this brain image contain a tumor?,"Confirmed, tumor is present.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(10).jpg,image(10).jpg,Is there a tumor visible in this scan?,"Yes, this is a positive case for tumor.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(11).jpg,image(11).jpg,Does this MRI show signs of a tumor?,"Yes, it looks like there is a tumor.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(12).jpg,image(12).jpg,Does this MRI show signs of a tumor?,"Yes, it looks like there is a tumor.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(13).jpg,image(13).jpg,Is this an example of a tumorous brain scan?,"Yes, tumor identified.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(14).jpg,image(14).jpg,Is the scan indicating the presence of a tumor?,"Indeed, the scan shows a tumor.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(15).jpg,image(15).jpg,Does this MRI image show a tumor?,A tumor is visible in the image.,tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(16).jpg,image(16).jpg,Does this brain image contain a tumor?,"Yes, tumor identified.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(17).jpg,image(17).jpg,Is there any abnormal growth in this MRI?,"Yes, this is a positive case for tumor.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(18).jpg,image(18).jpg,Does this MRI show signs of a tumor?,"Yes, this is a positive case for tumor.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(19).jpg,image(19).jpg,Does this brain image contain a tumor?,"Yes, tumor identified.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(20).jpg,image(20).jpg,Is the scan indicating the presence of a tumor?,"Indeed, the scan shows a tumor.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(21).jpg,image(21).jpg,Can you detect any tumor in this image?,"Yes, abnormal tissue is seen.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(22).jpg,image(22).jpg,Is there any abnormal growth in this MRI?,"Yes, a tumor is present.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(23).jpg,image(23).jpg,Can you detect any tumor in this image?,"Confirmed, tumor is present.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(24).jpg,image(24).jpg,Is the scan indicating the presence of a tumor?,"Confirmed, tumor is present.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(25).jpg,image(25).jpg,Is there a tumor visible in this scan?,"Confirmed, tumor is present.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(26).jpg,image(26).jpg,Does this brain image contain a tumor?,"Confirmed, tumor is present.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(27).jpg,image(27).jpg,Is the scan indicating the presence of a tumor?,"Yes, it looks like there is a tumor.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(28).jpg,image(28).jpg,Is this an example of a tumorous brain scan?,"Confirmed, tumor is present.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(29).jpg,image(29).jpg,Is the scan indicating the presence of a tumor?,"Yes, this is a positive case for tumor.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(30).jpg,image(30).jpg,Is there a tumor visible in this scan?,"Yes, this is a positive case for tumor.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(31).jpg,image(31).jpg,Does this brain image contain a tumor?,A tumor can be seen clearly.,tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(32).jpg,image(32).jpg,Does this MRI image show a tumor?,"Yes, it looks like there is a tumor.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(33).jpg,image(33).jpg,Is there any abnormal growth in this MRI?,"Yes, abnormal tissue is seen.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(34).jpg,image(34).jpg,Can a tumor be observed in the image?,"Yes, a tumor is present.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(35).jpg,image(35).jpg,Is there any abnormal growth in this MRI?,A tumor is visible in the image.,tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(36).jpg,image(36).jpg,Is there a tumor visible in this scan?,"Indeed, the scan shows a tumor.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(37).jpg,image(37).jpg,Can you detect any tumor in this image?,"Yes, it looks like there is a tumor.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(38).jpg,image(38).jpg,Is there a tumor visible in this scan?,"Confirmed, tumor is present.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(39).jpg,image(39).jpg,Can you detect any tumor in this image?,"Yes, abnormal tissue is seen.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(40).jpg,image(40).jpg,Is there any abnormal growth in this MRI?,"Yes, it looks like there is a tumor.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(41).jpg,image(41).jpg,Can a tumor be observed in the image?,A tumor can be seen clearly.,tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(42).jpg,image(42).jpg,Is this an example of a tumorous brain scan?,"Yes, abnormal tissue is seen.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(43).jpg,image(43).jpg,Can you detect any tumor in this image?,"Confirmed, tumor is present.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(44).jpg,image(44).jpg,Does this MRI show signs of a tumor?,"Yes, a tumor is present.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(45).jpg,image(45).jpg,Is the scan indicating the presence of a tumor?,"Yes, tumor identified.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(46).jpg,image(46).jpg,Is this an example of a tumorous brain scan?,"Yes, abnormal tissue is seen.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(47).jpg,image(47).jpg,Is this an example of a tumorous brain scan?,"Certainly, a tumor exists.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(48).jpg,image(48).jpg,Does this brain image contain a tumor?,"Yes, tumor identified.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(49).jpg,image(49).jpg,Can a tumor be observed in the image?,"Certainly, a tumor exists.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(50).jpg,image(50).jpg,Is this an example of a tumorous brain scan?,"Confirmed, tumor is present.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(51).jpg,image(51).jpg,Does this MRI image show a tumor?,"Yes, it looks like there is a tumor.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(52).jpg,image(52).jpg,Does this brain image contain a tumor?,"Yes, abnormal tissue is seen.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(53).jpg,image(53).jpg,Can a tumor be observed in the image?,"Yes, a tumor is present.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(54).jpg,image(54).jpg,Is a tumor present in the scan provided?,"Yes, a tumor is present.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(55).jpg,image(55).jpg,Is there any abnormal growth in this MRI?,"Yes, a tumor is present.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(56).jpg,image(56).jpg,Can you detect any tumor in this image?,"Yes, it looks like there is a tumor.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(57).jpg,image(57).jpg,Does this brain image contain a tumor?,"Yes, this is a positive case for tumor.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(58).jpg,image(58).jpg,Is a tumor present in the scan provided?,"Yes, it looks like there is a tumor.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(59).jpg,image(59).jpg,Can you detect any tumor in this image?,"Yes, tumor identified.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(60).jpg,image(60).jpg,Does this MRI show signs of a tumor?,"Certainly, a tumor exists.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(61).jpg,image(61).jpg,Is a tumor present in the scan provided?,"Yes, abnormal tissue is seen.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(62).jpg,image(62).jpg,Does this MRI show signs of a tumor?,A tumor can be seen clearly.,tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(63).jpg,image(63).jpg,Is this an example of a tumorous brain scan?,A tumor is visible in the image.,tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(64).jpg,image(64).jpg,Is there a tumor visible in this scan?,"Yes, tumor identified.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(65).jpg,image(65).jpg,Is a tumor present in the scan provided?,"Yes, abnormal tissue is seen.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(66).jpg,image(66).jpg,Is there a tumor visible in this scan?,"Yes, it looks like there is a tumor.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(67).jpg,image(67).jpg,Is there any abnormal growth in this MRI?,A tumor is visible in the image.,tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(68).jpg,image(68).jpg,Does this MRI show signs of a tumor?,"Confirmed, tumor is present.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(69).jpg,image(69).jpg,Is the scan indicating the presence of a tumor?,"Indeed, the scan shows a tumor.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(70).jpg,image(70).jpg,Is a tumor present in the scan provided?,"Yes, abnormal tissue is seen.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(71).jpg,image(71).jpg,Does this MRI image show a tumor?,"Yes, this is a positive case for tumor.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(72).jpg,image(72).jpg,Is there any abnormal growth in this MRI?,"Certainly, a tumor exists.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(73).jpg,image(73).jpg,Is a tumor present in the scan provided?,A tumor can be seen clearly.,tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(74).jpg,image(74).jpg,Is there any abnormal growth in this MRI?,A tumor can be seen clearly.,tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(75).jpg,image(75).jpg,Is a tumor present in the scan provided?,A tumor is visible in the image.,tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(76).jpg,image(76).jpg,Is this an example of a tumorous brain scan?,A tumor can be seen clearly.,tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(77).jpg,image(77).jpg,Is the scan indicating the presence of a tumor?,A tumor is visible in the image.,tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(78).jpg,image(78).jpg,Does this brain image contain a tumor?,A tumor is visible in the image.,tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(79).jpg,image(79).jpg,Is there any abnormal growth in this MRI?,"Indeed, the scan shows a tumor.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(80).jpg,image(80).jpg,Is there any abnormal growth in this MRI?,"Yes, it looks like there is a tumor.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(81).jpg,image(81).jpg,Can you detect any tumor in this image?,"Yes, abnormal tissue is seen.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(82).jpg,image(82).jpg,Can you detect any tumor in this image?,"Yes, abnormal tissue is seen.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(83).jpg,image(83).jpg,Does this MRI image show a tumor?,"Certainly, a tumor exists.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(84).jpg,image(84).jpg,Is there a tumor visible in this scan?,A tumor is visible in the image.,tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(85).jpg,image(85).jpg,Is there any abnormal growth in this MRI?,"Yes, this is a positive case for tumor.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(86).jpg,image(86).jpg,Is there a tumor visible in this scan?,"Yes, it looks like there is a tumor.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(87).jpg,image(87).jpg,Is this an example of a tumorous brain scan?,"Yes, it looks like there is a tumor.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(88).jpg,image(88).jpg,Is there a tumor visible in this scan?,"Yes, it looks like there is a tumor.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(89).jpg,image(89).jpg,Is there a tumor visible in this scan?,A tumor is visible in the image.,tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(90).jpg,image(90).jpg,Is the scan indicating the presence of a tumor?,"Yes, tumor identified.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(91).jpg,image(91).jpg,Does this MRI show signs of a tumor?,"Yes, abnormal tissue is seen.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(92).jpg,image(92).jpg,Is the scan indicating the presence of a tumor?,"Yes, abnormal tissue is seen.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(93).jpg,image(93).jpg,Can you detect any tumor in this image?,"Yes, abnormal tissue is seen.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(94).jpg,image(94).jpg,Does this brain image contain a tumor?,"Yes, a tumor is present.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(95).jpg,image(95).jpg,Is this an example of a tumorous brain scan?,"Indeed, the scan shows a tumor.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(97).jpg,image(97).jpg,Does this MRI show signs of a tumor?,A tumor is visible in the image.,tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(98).jpg,image(98).jpg,Is there a tumor visible in this scan?,"Confirmed, tumor is present.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(99).jpg,image(99).jpg,Does this MRI show signs of a tumor?,"Yes, it looks like there is a tumor.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(100).jpg,image(100).jpg,Does this MRI show signs of a tumor?,"Yes, a tumor is present.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(0).jpg,image(0).jpg,Does this MRI show signs of a tumor?,"Yes, tumor identified.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(1).jpg,image(1).jpg,Is there a tumor visible in this scan?,"Yes, tumor identified.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(2).jpg,image(2).jpg,Can you detect any tumor in this image?,A tumor is visible in the image.,tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(3).jpg,image(3).jpg,Is this an example of a tumorous brain scan?,"Yes, abnormal tissue is seen.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(4).jpg,image(4).jpg,Can you detect any tumor in this image?,"Certainly, a tumor exists.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(5).jpg,image(5).jpg,Is this an example of a tumorous brain scan?,"Yes, tumor identified.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(6).jpg,image(6).jpg,Is there a tumor visible in this scan?,"Yes, this is a positive case for tumor.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(7).jpg,image(7).jpg,Is a tumor present in the scan provided?,"Yes, abnormal tissue is seen.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(8).jpg,image(8).jpg,Is a tumor present in the scan provided?,"Certainly, a tumor exists.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(9).jpg,image(9).jpg,Is a tumor present in the scan provided?,"Yes, tumor identified.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(10).jpg,image(10).jpg,Does this brain image contain a tumor?,"Indeed, the scan shows a tumor.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(11).jpg,image(11).jpg,Is there any abnormal growth in this MRI?,A tumor is visible in the image.,tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(12).jpg,image(12).jpg,Does this brain image contain a tumor?,A tumor is visible in the image.,tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(13).jpg,image(13).jpg,Is there a tumor visible in this scan?,"Confirmed, tumor is present.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(14).jpg,image(14).jpg,Does this MRI image show a tumor?,"Indeed, the scan shows a tumor.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(15).jpg,image(15).jpg,Does this brain image contain a tumor?,"Confirmed, tumor is present.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(16).jpg,image(16).jpg,Is the scan indicating the presence of a tumor?,A tumor can be seen clearly.,tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(17).jpg,image(17).jpg,Does this MRI show signs of a tumor?,"Confirmed, tumor is present.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(18).jpg,image(18).jpg,Can you detect any tumor in this image?,"Certainly, a tumor exists.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(19).jpg,image(19).jpg,Is a tumor present in the scan provided?,A tumor is visible in the image.,tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(20).jpg,image(20).jpg,Is this an example of a tumorous brain scan?,"Certainly, a tumor exists.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(21).jpg,image(21).jpg,Does this brain image contain a tumor?,"Yes, it looks like there is a tumor.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(22).jpg,image(22).jpg,Does this MRI show signs of a tumor?,A tumor can be seen clearly.,tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(23).jpg,image(23).jpg,Is a tumor present in the scan provided?,A tumor is visible in the image.,tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(24).jpg,image(24).jpg,Is the scan indicating the presence of a tumor?,"Certainly, a tumor exists.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(25).jpg,image(25).jpg,Does this MRI show signs of a tumor?,"Indeed, the scan shows a tumor.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(26).jpg,image(26).jpg,Can you detect any tumor in this image?,"Indeed, the scan shows a tumor.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(27).jpg,image(27).jpg,Does this MRI image show a tumor?,"Yes, tumor identified.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(28).jpg,image(28).jpg,Is a tumor present in the scan provided?,"Yes, tumor identified.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(29).jpg,image(29).jpg,Is the scan indicating the presence of a tumor?,"Certainly, a tumor exists.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(30).jpg,image(30).jpg,Does this MRI show signs of a tumor?,"Yes, abnormal tissue is seen.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(31).jpg,image(31).jpg,Is there any abnormal growth in this MRI?,"Yes, this is a positive case for tumor.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(32).jpg,image(32).jpg,Is there any abnormal growth in this MRI?,"Yes, this is a positive case for tumor.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(33).jpg,image(33).jpg,Is the scan indicating the presence of a tumor?,A tumor is visible in the image.,tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(34).jpg,image(34).jpg,Is there a tumor visible in this scan?,"Confirmed, tumor is present.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(35).jpg,image(35).jpg,Can you detect any tumor in this image?,A tumor can be seen clearly.,tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(36).jpg,image(36).jpg,Can a tumor be observed in the image?,"Yes, abnormal tissue is seen.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(37).jpg,image(37).jpg,Is there any abnormal growth in this MRI?,"Yes, abnormal tissue is seen.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(38).jpg,image(38).jpg,Can you detect any tumor in this image?,"Certainly, a tumor exists.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(39).jpg,image(39).jpg,Can a tumor be observed in the image?,"Yes, abnormal tissue is seen.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(40).jpg,image(40).jpg,Is there any abnormal growth in this MRI?,"Confirmed, tumor is present.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(41).jpg,image(41).jpg,Does this brain image contain a tumor?,"Confirmed, tumor is present.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(42).jpg,image(42).jpg,Can you detect any tumor in this image?,"Confirmed, tumor is present.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(43).jpg,image(43).jpg,Does this MRI show signs of a tumor?,"Yes, abnormal tissue is seen.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(44).jpg,image(44).jpg,Is there any abnormal growth in this MRI?,"Yes, abnormal tissue is seen.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(45).jpg,image(45).jpg,Does this MRI show signs of a tumor?,"Yes, this is a positive case for tumor.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(46).jpg,image(46).jpg,Is a tumor present in the scan provided?,"Yes, abnormal tissue is seen.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(47).jpg,image(47).jpg,Is this an example of a tumorous brain scan?,"Yes, this is a positive case for tumor.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(48).jpg,image(48).jpg,Does this MRI image show a tumor?,"Yes, it looks like there is a tumor.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(49).jpg,image(49).jpg,Does this MRI image show a tumor?,"Yes, this is a positive case for tumor.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(50).jpg,image(50).jpg,Is the scan indicating the presence of a tumor?,"Confirmed, tumor is present.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(51).jpg,image(51).jpg,Is there a tumor visible in this scan?,"Indeed, the scan shows a tumor.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(52).jpg,image(52).jpg,Is there a tumor visible in this scan?,"Yes, tumor identified.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(53).jpg,image(53).jpg,Can a tumor be observed in the image?,A tumor is visible in the image.,tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(54).jpg,image(54).jpg,Can you detect any tumor in this image?,"Confirmed, tumor is present.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(55).jpg,image(55).jpg,Does this brain image contain a tumor?,"Indeed, the scan shows a tumor.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(56).jpg,image(56).jpg,Can a tumor be observed in the image?,"Certainly, a tumor exists.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(57).jpg,image(57).jpg,Is there a tumor visible in this scan?,"Yes, this is a positive case for tumor.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(58).jpg,image(58).jpg,Does this brain image contain a tumor?,"Yes, abnormal tissue is seen.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(59).jpg,image(59).jpg,Is there a tumor visible in this scan?,"Yes, it looks like there is a tumor.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(60).jpg,image(60).jpg,Does this MRI image show a tumor?,"Yes, this is a positive case for tumor.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(61).jpg,image(61).jpg,Can a tumor be observed in the image?,"Yes, abnormal tissue is seen.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(62).jpg,image(62).jpg,Does this MRI image show a tumor?,"Confirmed, tumor is present.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(63).jpg,image(63).jpg,Is there a tumor visible in this scan?,"Yes, tumor identified.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(64).jpg,image(64).jpg,Does this MRI image show a tumor?,"Yes, a tumor is present.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(65).jpg,image(65).jpg,Is there any abnormal growth in this MRI?,"Yes, abnormal tissue is seen.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(66).jpg,image(66).jpg,Is there a tumor visible in this scan?,"Yes, tumor identified.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(67).jpg,image(67).jpg,Is there any abnormal growth in this MRI?,"Yes, a tumor is present.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(68).jpg,image(68).jpg,Is there a tumor visible in this scan?,A tumor can be seen clearly.,tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(69).jpg,image(69).jpg,Does this MRI show signs of a tumor?,A tumor can be seen clearly.,tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(70).jpg,image(70).jpg,Is this an example of a tumorous brain scan?,"Yes, it looks like there is a tumor.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(71).jpg,image(71).jpg,Is there a tumor visible in this scan?,"Yes, abnormal tissue is seen.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(72).jpg,image(72).jpg,Is the scan indicating the presence of a tumor?,A tumor is visible in the image.,tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(73).jpg,image(73).jpg,Is there any abnormal growth in this MRI?,"Yes, abnormal tissue is seen.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(74).jpg,image(74).jpg,Is the scan indicating the presence of a tumor?,"Yes, a tumor is present.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(75).jpg,image(75).jpg,Is the scan indicating the presence of a tumor?,"Confirmed, tumor is present.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(76).jpg,image(76).jpg,Can you detect any tumor in this image?,"Yes, this is a positive case for tumor.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(77).jpg,image(77).jpg,Is the scan indicating the presence of a tumor?,"Yes, tumor identified.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(78).jpg,image(78).jpg,Is a tumor present in the scan provided?,A tumor can be seen clearly.,tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(79).jpg,image(79).jpg,Is this an example of a tumorous brain scan?,"Yes, this is a positive case for tumor.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(80).jpg,image(80).jpg,Is there a tumor visible in this scan?,A tumor is visible in the image.,tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(81).jpg,image(81).jpg,Is there a tumor visible in this scan?,"Yes, tumor identified.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(82).jpg,image(82).jpg,Can a tumor be observed in the image?,"Certainly, a tumor exists.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(83).jpg,image(83).jpg,Is the scan indicating the presence of a tumor?,"Yes, this is a positive case for tumor.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(84).jpg,image(84).jpg,Is there any abnormal growth in this MRI?,"Certainly, a tumor exists.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(85).jpg,image(85).jpg,Does this MRI show signs of a tumor?,"Yes, abnormal tissue is seen.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(86).jpg,image(86).jpg,Does this MRI image show a tumor?,"Yes, tumor identified.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(87).jpg,image(87).jpg,Is a tumor present in the scan provided?,"Yes, tumor identified.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(88).jpg,image(88).jpg,Is there any abnormal growth in this MRI?,"Confirmed, tumor is present.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(89).jpg,image(89).jpg,Is there any abnormal growth in this MRI?,"Yes, it looks like there is a tumor.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(90).jpg,image(90).jpg,Is there any abnormal growth in this MRI?,"Yes, abnormal tissue is seen.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(91).jpg,image(91).jpg,Is the scan indicating the presence of a tumor?,"Yes, this is a positive case for tumor.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(92).jpg,image(92).jpg,Is this an example of a tumorous brain scan?,A tumor can be seen clearly.,tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(93).jpg,image(93).jpg,Is the scan indicating the presence of a tumor?,"Certainly, a tumor exists.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(94).jpg,image(94).jpg,Is there any abnormal growth in this MRI?,"Yes, this is a positive case for tumor.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(95).jpg,image(95).jpg,Is a tumor present in the scan provided?,A tumor can be seen clearly.,tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(96).jpg,image(96).jpg,Is the scan indicating the presence of a tumor?,"Yes, it looks like there is a tumor.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(97).jpg,image(97).jpg,Can you detect any tumor in this image?,"Yes, it looks like there is a tumor.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(98).jpg,image(98).jpg,Does this MRI image show a tumor?,"Yes, a tumor is present.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(99).jpg,image(99).jpg,Is this an example of a tumorous brain scan?,"Yes, it looks like there is a tumor.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(100).jpg,image(100).jpg,Does this brain image contain a tumor?,A tumor can be seen clearly.,tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(102).jpg,image(102).jpg,Is the scan indicating the presence of a tumor?,"Indeed, the scan shows a tumor.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(106).jpg,image(106).jpg,Is this an example of a tumorous brain scan?,"Confirmed, tumor is present.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(107).jpg,image(107).jpg,Can you detect any tumor in this image?,"Confirmed, tumor is present.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(109).jpg,image(109).jpg,Is there a tumor visible in this scan?,"Yes, it looks like there is a tumor.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(112).jpg,image(112).jpg,Is the scan indicating the presence of a tumor?,"Yes, abnormal tissue is seen.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(113).jpg,image(113).jpg,Can a tumor be observed in the image?,"Yes, tumor identified.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(118).jpg,image(118).jpg,Is this an example of a tumorous brain scan?,"Indeed, the scan shows a tumor.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(120).jpg,image(120).jpg,Is there a tumor visible in this scan?,A tumor is visible in the image.,tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(121).jpg,image(121).jpg,Does this MRI image show a tumor?,A tumor is visible in the image.,tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(123).jpg,image(123).jpg,Does this MRI image show a tumor?,"Yes, this is a positive case for tumor.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(124).jpg,image(124).jpg,Can a tumor be observed in the image?,"Yes, this is a positive case for tumor.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(125).jpg,image(125).jpg,Does this MRI image show a tumor?,"Certainly, a tumor exists.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(126).jpg,image(126).jpg,Is a tumor present in the scan provided?,"Yes, it looks like there is a tumor.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(127).jpg,image(127).jpg,Can a tumor be observed in the image?,"Yes, a tumor is present.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(0).jpg,image(0).jpg,Does this MRI show signs of a tumor?,"Yes, tumor identified.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(1).jpg,image(1).jpg,Can you detect any tumor in this image?,"Yes, abnormal tissue is seen.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(2).jpg,image(2).jpg,Is the scan indicating the presence of a tumor?,A tumor is visible in the image.,tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(3).jpg,image(3).jpg,Is this an example of a tumorous brain scan?,"Indeed, the scan shows a tumor.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(5).jpg,image(5).jpg,Does this MRI show signs of a tumor?,"Yes, this is a positive case for tumor.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(6).jpg,image(6).jpg,Is a tumor present in the scan provided?,"Yes, a tumor is present.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(7).jpg,image(7).jpg,Does this brain image contain a tumor?,"Yes, this is a positive case for tumor.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(8).jpg,image(8).jpg,Does this MRI show signs of a tumor?,"Yes, abnormal tissue is seen.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(10).jpg,image(10).jpg,Does this brain image contain a tumor?,"Confirmed, tumor is present.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(11).jpg,image(11).jpg,Is there a tumor visible in this scan?,"Indeed, the scan shows a tumor.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(13).jpg,image(13).jpg,Does this MRI image show a tumor?,"Yes, this is a positive case for tumor.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(15).jpg,image(15).jpg,Does this MRI image show a tumor?,"Yes, a tumor is present.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(18).jpg,image(18).jpg,Is the scan indicating the presence of a tumor?,"Confirmed, tumor is present.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(19).jpg,image(19).jpg,Can you detect any tumor in this image?,"Confirmed, tumor is present.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(20).jpg,image(20).jpg,Does this MRI show signs of a tumor?,"Yes, a tumor is present.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(21).jpg,image(21).jpg,Is the scan indicating the presence of a tumor?,"Confirmed, tumor is present.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(22).jpg,image(22).jpg,Can you detect any tumor in this image?,"Yes, abnormal tissue is seen.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(23).jpg,image(23).jpg,Can a tumor be observed in the image?,A tumor is visible in the image.,tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(27).jpg,image(27).jpg,Is there any abnormal growth in this MRI?,"Yes, it looks like there is a tumor.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(28).jpg,image(28).jpg,Is there a tumor visible in this scan?,A tumor is visible in the image.,tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(30).jpg,image(30).jpg,Is this an example of a tumorous brain scan?,"Yes, tumor identified.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(31).jpg,image(31).jpg,Is the scan indicating the presence of a tumor?,"Confirmed, tumor is present.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(34).jpg,image(34).jpg,Does this MRI image show a tumor?,A tumor is visible in the image.,tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(35).jpg,image(35).jpg,Can a tumor be observed in the image?,"Indeed, the scan shows a tumor.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(36).jpg,image(36).jpg,Is a tumor present in the scan provided?,"Yes, this is a positive case for tumor.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(37).jpg,image(37).jpg,Can you detect any tumor in this image?,"Yes, it looks like there is a tumor.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(38).jpg,image(38).jpg,Does this MRI image show a tumor?,"Yes, it looks like there is a tumor.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(41).jpg,image(41).jpg,Is the scan indicating the presence of a tumor?,A tumor is visible in the image.,tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(42).jpg,image(42).jpg,Does this MRI show signs of a tumor?,"Yes, it looks like there is a tumor.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(43).jpg,image(43).jpg,Is this an example of a tumorous brain scan?,"Yes, a tumor is present.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(44).jpg,image(44).jpg,Is there any abnormal growth in this MRI?,"Yes, tumor identified.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(45).jpg,image(45).jpg,Does this MRI image show a tumor?,"Indeed, the scan shows a tumor.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(46).jpg,image(46).jpg,Is there any abnormal growth in this MRI?,"Confirmed, tumor is present.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(47).jpg,image(47).jpg,Does this brain image contain a tumor?,A tumor can be seen clearly.,tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(48).jpg,image(48).jpg,Is the scan indicating the presence of a tumor?,"Yes, abnormal tissue is seen.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(49).jpg,image(49).jpg,Is a tumor present in the scan provided?,A tumor is visible in the image.,tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(51).jpg,image(51).jpg,Can a tumor be observed in the image?,"Yes, a tumor is present.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(52).jpg,image(52).jpg,Is there a tumor visible in this scan?,"Yes, this is a positive case for tumor.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(53).jpg,image(53).jpg,Does this MRI image show a tumor?,"Yes, it looks like there is a tumor.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(54).jpg,image(54).jpg,Can you detect any tumor in this image?,"Yes, abnormal tissue is seen.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(55).jpg,image(55).jpg,Is this an example of a tumorous brain scan?,"Confirmed, tumor is present.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(56).jpg,image(56).jpg,Is the scan indicating the presence of a tumor?,"Yes, this is a positive case for tumor.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(57).jpg,image(57).jpg,Does this brain image contain a tumor?,"Yes, abnormal tissue is seen.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(60).jpg,image(60).jpg,Is there a tumor visible in this scan?,"Yes, it looks like there is a tumor.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(61).jpg,image(61).jpg,Is a tumor present in the scan provided?,"Yes, it looks like there is a tumor.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(63).jpg,image(63).jpg,Does this MRI show signs of a tumor?,"Indeed, the scan shows a tumor.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(64).jpg,image(64).jpg,Does this MRI show signs of a tumor?,"Yes, this is a positive case for tumor.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(65).jpg,image(65).jpg,Is this an example of a tumorous brain scan?,"Yes, tumor identified.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(66).jpg,image(66).jpg,Is there any abnormal growth in this MRI?,"Indeed, the scan shows a tumor.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(67).jpg,image(67).jpg,Can a tumor be observed in the image?,"Yes, abnormal tissue is seen.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(68).jpg,image(68).jpg,Does this MRI show signs of a tumor?,"Indeed, the scan shows a tumor.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(69).jpg,image(69).jpg,Is this an example of a tumorous brain scan?,"Confirmed, tumor is present.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(70).jpg,image(70).jpg,Is there any abnormal growth in this MRI?,"Certainly, a tumor exists.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(73).jpg,image(73).jpg,Does this brain image contain a tumor?,"Yes, a tumor is present.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(76).jpg,image(76).jpg,Is this an example of a tumorous brain scan?,"Yes, it looks like there is a tumor.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(77).jpg,image(77).jpg,Can you detect any tumor in this image?,"Yes, abnormal tissue is seen.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(78).jpg,image(78).jpg,Can you detect any tumor in this image?,"Yes, abnormal tissue is seen.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(79).jpg,image(79).jpg,Can you detect any tumor in this image?,"Yes, abnormal tissue is seen.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(81).jpg,image(81).jpg,Is there any abnormal growth in this MRI?,"Yes, tumor identified.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(82).jpg,image(82).jpg,Can a tumor be observed in the image?,A tumor is visible in the image.,tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(85).jpg,image(85).jpg,Can a tumor be observed in the image?,"Indeed, the scan shows a tumor.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(86).jpg,image(86).jpg,Does this MRI image show a tumor?,"Yes, it looks like there is a tumor.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(87).jpg,image(87).jpg,Can a tumor be observed in the image?,A tumor is visible in the image.,tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(88).jpg,image(88).jpg,Does this MRI show signs of a tumor?,"Yes, a tumor is present.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(89).jpg,image(89).jpg,Is this an example of a tumorous brain scan?,"Yes, tumor identified.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(90).jpg,image(90).jpg,Can a tumor be observed in the image?,A tumor is visible in the image.,tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(91).jpg,image(91).jpg,Is the scan indicating the presence of a tumor?,"Yes, a tumor is present.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(92).jpg,image(92).jpg,Is the scan indicating the presence of a tumor?,"Yes, a tumor is present.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(93).jpg,image(93).jpg,Is this an example of a tumorous brain scan?,A tumor can be seen clearly.,tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(94).jpg,image(94).jpg,Does this brain image contain a tumor?,"Yes, tumor identified.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(95).jpg,image(95).jpg,Can a tumor be observed in the image?,"Yes, abnormal tissue is seen.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(96).jpg,image(96).jpg,Can you detect any tumor in this image?,A tumor is visible in the image.,tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(97).jpg,image(97).jpg,Is the scan indicating the presence of a tumor?,"Yes, a tumor is present.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(98).jpg,image(98).jpg,Is a tumor present in the scan provided?,"Yes, this is a positive case for tumor.",tumor_presense
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(0).jpg,image(0).jpg,Can you tell the type of tumor shown?,No tumor present.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(1).jpg,image(1).jpg,What specific tumor is present here?,No tumor present.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(2).jpg,image(2).jpg,Which tumor type does this image show?,No tumor present.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(3).jpg,image(3).jpg,What kind of tumor is present in the image?,No tumor present.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(4).jpg,image(4).jpg,What specific tumor is present here?,No tumor present.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(5).jpg,image(5).jpg,Specify the tumor type visible here.,No tumor present.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(6).jpg,image(6).jpg,What is the detected tumor type?,No tumor present.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(7).jpg,image(7).jpg,What is the detected tumor type?,No tumor present.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(8).jpg,image(8).jpg,What tumor subtype is this?,No tumor present.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(9).jpg,image(9).jpg,What tumor subtype is this?,No tumor present.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(10).jpg,image(10).jpg,Can you tell the type of tumor shown?,No tumor present.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(11).jpg,image(11).jpg,Identify the tumor type in this scan.,No tumor present.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(12).jpg,image(12).jpg,What tumor subtype is this?,No tumor present.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(13).jpg,image(13).jpg,What is the classification of this tumor?,No tumor present.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(14).jpg,image(14).jpg,Which tumor type does this image show?,No tumor present.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(15).jpg,image(15).jpg,Which tumor type does this image show?,No tumor present.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(16).jpg,image(16).jpg,What specific tumor is present here?,No tumor present.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(17).jpg,image(17).jpg,Specify the tumor type visible here.,No tumor present.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(18).jpg,image(18).jpg,Identify the tumor type in this scan.,No tumor present.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(19).jpg,image(19).jpg,Can you tell the type of tumor shown?,No tumor present.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(20).jpg,image(20).jpg,Can you tell the type of tumor shown?,No tumor present.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(21).jpg,image(21).jpg,What is the detected tumor type?,No tumor present.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(22).jpg,image(22).jpg,What specific tumor is present here?,No tumor present.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(23).jpg,image(23).jpg,Which tumor type does this image show?,No tumor present.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(24).jpg,image(24).jpg,What is the classification of this tumor?,No tumor present.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(25).jpg,image(25).jpg,Which tumor type does this image show?,No tumor present.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(26).jpg,image(26).jpg,What is the detected tumor type?,No tumor present.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(27).jpg,image(27).jpg,What is the detected tumor type?,No tumor present.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(28).jpg,image(28).jpg,What is the detected tumor type?,No tumor present.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(29).jpg,image(29).jpg,What is the classification of this tumor?,No tumor present.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(30).jpg,image(30).jpg,What tumor subtype is this?,No tumor present.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(31).jpg,image(31).jpg,What is the classification of this tumor?,No tumor present.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(32).jpg,image(32).jpg,What tumor subtype is this?,No tumor present.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(33).jpg,image(33).jpg,Specify the tumor type visible here.,No tumor present.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(34).jpg,image(34).jpg,Which tumor type does this image show?,No tumor present.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(35).jpg,image(35).jpg,Which tumor type does this image show?,No tumor present.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(36).jpg,image(36).jpg,Can you tell the type of tumor shown?,No tumor present.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(37).jpg,image(37).jpg,What is the classification of this tumor?,No tumor present.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(38).jpg,image(38).jpg,Which tumor type does this image show?,No tumor present.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(39).jpg,image(39).jpg,Specify the tumor type visible here.,No tumor present.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(40).jpg,image(40).jpg,Which tumor type does this image show?,No tumor present.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(41).jpg,image(41).jpg,What is the detected tumor type?,No tumor present.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(42).jpg,image(42).jpg,What is the classification of this tumor?,No tumor present.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(43).jpg,image(43).jpg,What specific tumor is present here?,No tumor present.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(44).jpg,image(44).jpg,What does the scan indicate as tumor type?,No tumor present.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(45).jpg,image(45).jpg,What is the detected tumor type?,No tumor present.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(46).jpg,image(46).jpg,What tumor subtype is this?,No tumor present.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(47).jpg,image(47).jpg,What is the classification of this tumor?,No tumor present.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(48).jpg,image(48).jpg,What is the detected tumor type?,No tumor present.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(49).jpg,image(49).jpg,Specify the tumor type visible here.,No tumor present.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(50).jpg,image(50).jpg,Specify the tumor type visible here.,No tumor present.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(51).jpg,image(51).jpg,Specify the tumor type visible here.,No tumor present.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(52).jpg,image(52).jpg,What is the classification of this tumor?,No tumor present.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(53).jpg,image(53).jpg,What does the scan indicate as tumor type?,No tumor present.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(54).jpg,image(54).jpg,What specific tumor is present here?,No tumor present.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(55).jpg,image(55).jpg,What kind of tumor is present in the image?,No tumor present.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(56).jpg,image(56).jpg,What tumor subtype is this?,No tumor present.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(57).jpg,image(57).jpg,What is the detected tumor type?,No tumor present.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(58).jpg,image(58).jpg,Identify the tumor type in this scan.,No tumor present.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(59).jpg,image(59).jpg,What is the detected tumor type?,No tumor present.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(60).jpg,image(60).jpg,What is the detected tumor type?,No tumor present.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(61).jpg,image(61).jpg,What is the detected tumor type?,No tumor present.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(62).jpg,image(62).jpg,Which tumor type does this image show?,No tumor present.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(63).jpg,image(63).jpg,What is the classification of this tumor?,No tumor present.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(64).jpg,image(64).jpg,What is the detected tumor type?,No tumor present.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(65).jpg,image(65).jpg,Which tumor type does this image show?,No tumor present.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(66).jpg,image(66).jpg,Can you tell the type of tumor shown?,No tumor present.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(67).jpg,image(67).jpg,What kind of tumor is present in the image?,No tumor present.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(68).jpg,image(68).jpg,Can you tell the type of tumor shown?,No tumor present.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(69).jpg,image(69).jpg,What is the classification of this tumor?,No tumor present.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(70).jpg,image(70).jpg,What tumor subtype is this?,No tumor present.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(71).jpg,image(71).jpg,Which tumor type does this image show?,No tumor present.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(72).jpg,image(72).jpg,What is the detected tumor type?,No tumor present.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(73).jpg,image(73).jpg,Which tumor type does this image show?,No tumor present.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(74).jpg,image(74).jpg,What kind of tumor is present in the image?,No tumor present.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(75).jpg,image(75).jpg,Specify the tumor type visible here.,No tumor present.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(76).jpg,image(76).jpg,Specify the tumor type visible here.,No tumor present.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(77).jpg,image(77).jpg,Which tumor type does this image show?,No tumor present.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(78).jpg,image(78).jpg,What does the scan indicate as tumor type?,No tumor present.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(79).jpg,image(79).jpg,What is the classification of this tumor?,No tumor present.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(80).jpg,image(80).jpg,What is the detected tumor type?,No tumor present.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(81).jpg,image(81).jpg,Which tumor type does this image show?,No tumor present.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(82).jpg,image(82).jpg,What specific tumor is present here?,No tumor present.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(83).jpg,image(83).jpg,Can you tell the type of tumor shown?,No tumor present.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(84).jpg,image(84).jpg,What is the classification of this tumor?,No tumor present.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(85).jpg,image(85).jpg,What is the classification of this tumor?,No tumor present.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(86).jpg,image(86).jpg,Specify the tumor type visible here.,No tumor present.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(87).jpg,image(87).jpg,What specific tumor is present here?,No tumor present.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(88).jpg,image(88).jpg,What specific tumor is present here?,No tumor present.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(89).jpg,image(89).jpg,What specific tumor is present here?,No tumor present.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(90).jpg,image(90).jpg,What is the classification of this tumor?,No tumor present.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(91).jpg,image(91).jpg,Identify the tumor type in this scan.,No tumor present.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(92).jpg,image(92).jpg,What is the detected tumor type?,No tumor present.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(93).jpg,image(93).jpg,What is the classification of this tumor?,No tumor present.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(94).jpg,image(94).jpg,What does the scan indicate as tumor type?,No tumor present.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(95).jpg,image(95).jpg,What is the classification of this tumor?,No tumor present.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(96).jpg,image(96).jpg,What kind of tumor is present in the image?,No tumor present.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(97).jpg,image(97).jpg,What is the detected tumor type?,No tumor present.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(98).jpg,image(98).jpg,What kind of tumor is present in the image?,No tumor present.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(99).jpg,image(99).jpg,What tumor subtype is this?,No tumor present.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(100).jpg,image(100).jpg,Identify the tumor type in this scan.,No tumor present.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(101).jpg,image(101).jpg,What does the scan indicate as tumor type?,No tumor present.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(102).jpg,image(102).jpg,What tumor subtype is this?,No tumor present.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(103).jpg,image(103).jpg,What tumor subtype is this?,No tumor present.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(104).jpg,image(104).jpg,What kind of tumor is present in the image?,No tumor present.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(0).jpg,image(0).jpg,What specific tumor is present here?,Type of tumor: glioma.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(1).jpg,image(1).jpg,Specify the tumor type visible here.,Detected tumor: glioma.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(2).jpg,image(2).jpg,Specify the tumor type visible here.,This is classified as a glioma.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(3).jpg,image(3).jpg,Specify the tumor type visible here.,Type of tumor: glioma.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(4).jpg,image(4).jpg,What is the classification of this tumor?,This is classified as a glioma.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(5).jpg,image(5).jpg,What is the classification of this tumor?,It is a glioma.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(6).jpg,image(6).jpg,What specific tumor is present here?,This image displays a glioma tumor.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(7).jpg,image(7).jpg,Identify the tumor type in this scan.,It is a glioma.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(8).jpg,image(8).jpg,What does the scan indicate as tumor type?,Glioma is the tumor type here.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(9).jpg,image(9).jpg,What is the detected tumor type?,Detected tumor: glioma.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(10).jpg,image(10).jpg,Can you tell the type of tumor shown?,This image displays a glioma tumor.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(11).jpg,image(11).jpg,Which tumor type does this image show?,Detected tumor: glioma.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(12).jpg,image(12).jpg,What kind of tumor is present in the image?,This scan has glioma type.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(13).jpg,image(13).jpg,Specify the tumor type visible here.,A glioma is present in this scan.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(14).jpg,image(14).jpg,What is the classification of this tumor?,It is a glioma.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(15).jpg,image(15).jpg,What kind of tumor is present in the image?,It is a glioma.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(16).jpg,image(16).jpg,Identify the tumor type in this scan.,This is classified as a glioma.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(17).jpg,image(17).jpg,What is the detected tumor type?,A glioma is present in this scan.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(18).jpg,image(18).jpg,What specific tumor is present here?,It is a glioma.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(19).jpg,image(19).jpg,What kind of tumor is present in the image?,Glioma tumor is shown here.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(20).jpg,image(20).jpg,Identify the tumor type in this scan.,A glioma is present in this scan.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(21).jpg,image(21).jpg,What does the scan indicate as tumor type?,It is a glioma.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(22).jpg,image(22).jpg,Can you tell the type of tumor shown?,It is a glioma.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(23).jpg,image(23).jpg,What is the classification of this tumor?,A glioma is present in this scan.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(24).jpg,image(24).jpg,What tumor subtype is this?,Glioma tumor is shown here.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(25).jpg,image(25).jpg,What is the classification of this tumor?,The tumor is glioma.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(26).jpg,image(26).jpg,What kind of tumor is present in the image?,It is a glioma.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(27).jpg,image(27).jpg,What kind of tumor is present in the image?,The tumor is glioma.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(28).jpg,image(28).jpg,Which tumor type does this image show?,Detected tumor: glioma.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(29).jpg,image(29).jpg,Identify the tumor type in this scan.,Glioma tumor is shown here.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(30).jpg,image(30).jpg,Identify the tumor type in this scan.,This scan has glioma type.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(31).jpg,image(31).jpg,What is the classification of this tumor?,Detected tumor: glioma.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(32).jpg,image(32).jpg,What kind of tumor is present in the image?,This is classified as a glioma.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(33).jpg,image(33).jpg,What kind of tumor is present in the image?,Detected tumor: glioma.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(34).jpg,image(34).jpg,Specify the tumor type visible here.,The tumor is glioma.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(35).jpg,image(35).jpg,What kind of tumor is present in the image?,A glioma is present in this scan.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(36).jpg,image(36).jpg,What kind of tumor is present in the image?,It is a glioma.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(37).jpg,image(37).jpg,What is the classification of this tumor?,Type of tumor: glioma.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(38).jpg,image(38).jpg,Which tumor type does this image show?,A glioma is present in this scan.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(39).jpg,image(39).jpg,What kind of tumor is present in the image?,Type of tumor: glioma.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(40).jpg,image(40).jpg,Specify the tumor type visible here.,Glioma tumor is shown here.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(41).jpg,image(41).jpg,Identify the tumor type in this scan.,It is a glioma.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(42).jpg,image(42).jpg,Which tumor type does this image show?,Glioma tumor is shown here.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(43).jpg,image(43).jpg,What does the scan indicate as tumor type?,This image displays a glioma tumor.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(44).jpg,image(44).jpg,Identify the tumor type in this scan.,Glioma tumor is shown here.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(45).jpg,image(45).jpg,What does the scan indicate as tumor type?,Glioma is the tumor type here.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(46).jpg,image(46).jpg,Specify the tumor type visible here.,This image displays a glioma tumor.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(47).jpg,image(47).jpg,Can you tell the type of tumor shown?,The tumor is glioma.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(48).jpg,image(48).jpg,What specific tumor is present here?,This is classified as a glioma.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(49).jpg,image(49).jpg,Which tumor type does this image show?,The tumor is glioma.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(50).jpg,image(50).jpg,What kind of tumor is present in the image?,This is classified as a glioma.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(51).jpg,image(51).jpg,What does the scan indicate as tumor type?,Glioma is the tumor type here.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(52).jpg,image(52).jpg,Can you tell the type of tumor shown?,This is classified as a glioma.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(53).jpg,image(53).jpg,Which tumor type does this image show?,It is a glioma.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(54).jpg,image(54).jpg,Specify the tumor type visible here.,Type of tumor: glioma.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(55).jpg,image(55).jpg,Can you tell the type of tumor shown?,Glioma tumor is shown here.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(56).jpg,image(56).jpg,What is the detected tumor type?,A glioma is present in this scan.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(57).jpg,image(57).jpg,Which tumor type does this image show?,Glioma is the tumor type here.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(58).jpg,image(58).jpg,Can you tell the type of tumor shown?,A glioma is present in this scan.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(59).jpg,image(59).jpg,Identify the tumor type in this scan.,It is a glioma.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(60).jpg,image(60).jpg,Can you tell the type of tumor shown?,The tumor is glioma.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(61).jpg,image(61).jpg,What kind of tumor is present in the image?,This is classified as a glioma.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(62).jpg,image(62).jpg,What is the classification of this tumor?,This image displays a glioma tumor.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(63).jpg,image(63).jpg,Specify the tumor type visible here.,The tumor is glioma.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(64).jpg,image(64).jpg,What tumor subtype is this?,Glioma is the tumor type here.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(65).jpg,image(65).jpg,Specify the tumor type visible here.,Type of tumor: glioma.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(66).jpg,image(66).jpg,What tumor subtype is this?,Type of tumor: glioma.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(67).jpg,image(67).jpg,What tumor subtype is this?,Glioma tumor is shown here.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(68).jpg,image(68).jpg,Specify the tumor type visible here.,Glioma is the tumor type here.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(69).jpg,image(69).jpg,Specify the tumor type visible here.,Detected tumor: glioma.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(70).jpg,image(70).jpg,What specific tumor is present here?,This is classified as a glioma.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(71).jpg,image(71).jpg,What tumor subtype is this?,Type of tumor: glioma.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(72).jpg,image(72).jpg,Identify the tumor type in this scan.,This image displays a glioma tumor.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(73).jpg,image(73).jpg,What is the classification of this tumor?,This is classified as a glioma.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(74).jpg,image(74).jpg,Which tumor type does this image show?,This is classified as a glioma.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(75).jpg,image(75).jpg,What is the detected tumor type?,This image displays a glioma tumor.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(76).jpg,image(76).jpg,Can you tell the type of tumor shown?,It is a glioma.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(77).jpg,image(77).jpg,Can you tell the type of tumor shown?,Glioma tumor is shown here.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(78).jpg,image(78).jpg,What does the scan indicate as tumor type?,Glioma tumor is shown here.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(79).jpg,image(79).jpg,What does the scan indicate as tumor type?,The tumor is glioma.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(80).jpg,image(80).jpg,Identify the tumor type in this scan.,The tumor is glioma.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(81).jpg,image(81).jpg,Which tumor type does this image show?,Detected tumor: glioma.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(82).jpg,image(82).jpg,Can you tell the type of tumor shown?,The tumor is glioma.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(83).jpg,image(83).jpg,Identify the tumor type in this scan.,This image displays a glioma tumor.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(84).jpg,image(84).jpg,What does the scan indicate as tumor type?,This is classified as a glioma.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(85).jpg,image(85).jpg,What kind of tumor is present in the image?,Glioma is the tumor type here.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(86).jpg,image(86).jpg,Identify the tumor type in this scan.,This image displays a glioma tumor.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(87).jpg,image(87).jpg,Specify the tumor type visible here.,This scan has glioma type.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(88).jpg,image(88).jpg,What tumor subtype is this?,A glioma is present in this scan.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(89).jpg,image(89).jpg,What specific tumor is present here?,Detected tumor: glioma.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(90).jpg,image(90).jpg,What specific tumor is present here?,Glioma is the tumor type here.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(91).jpg,image(91).jpg,What specific tumor is present here?,It is a glioma.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(92).jpg,image(92).jpg,What is the detected tumor type?,This image displays a glioma tumor.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(93).jpg,image(93).jpg,Which tumor type does this image show?,Detected tumor: glioma.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(94).jpg,image(94).jpg,What specific tumor is present here?,This image displays a glioma tumor.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(95).jpg,image(95).jpg,Can you tell the type of tumor shown?,Detected tumor: glioma.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(97).jpg,image(97).jpg,What does the scan indicate as tumor type?,Glioma is the tumor type here.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(98).jpg,image(98).jpg,Which tumor type does this image show?,This scan has glioma type.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(99).jpg,image(99).jpg,Can you tell the type of tumor shown?,This is classified as a glioma.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(100).jpg,image(100).jpg,Identify the tumor type in this scan.,This is classified as a glioma.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(0).jpg,image(0).jpg,What is the detected tumor type?,Meningioma is the tumor type here.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(1).jpg,image(1).jpg,Which tumor type does this image show?,A meningioma is present in this scan.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(2).jpg,image(2).jpg,What tumor subtype is this?,Meningioma tumor is shown here.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(3).jpg,image(3).jpg,Can you tell the type of tumor shown?,Detected tumor: meningioma.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(4).jpg,image(4).jpg,Which tumor type does this image show?,It is a meningioma.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(5).jpg,image(5).jpg,Identify the tumor type in this scan.,Meningioma is the tumor type here.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(6).jpg,image(6).jpg,What is the detected tumor type?,Meningioma tumor is shown here.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(7).jpg,image(7).jpg,What does the scan indicate as tumor type?,This is classified as a meningioma.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(8).jpg,image(8).jpg,What is the classification of this tumor?,Meningioma tumor is shown here.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(9).jpg,image(9).jpg,Can you tell the type of tumor shown?,This scan has meningioma type.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(10).jpg,image(10).jpg,What specific tumor is present here?,Meningioma is the tumor type here.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(11).jpg,image(11).jpg,Which tumor type does this image show?,This image displays a meningioma tumor.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(12).jpg,image(12).jpg,What is the classification of this tumor?,Meningioma tumor is shown here.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(13).jpg,image(13).jpg,Identify the tumor type in this scan.,Detected tumor: meningioma.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(14).jpg,image(14).jpg,What is the classification of this tumor?,The tumor is meningioma.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(15).jpg,image(15).jpg,Can you tell the type of tumor shown?,Meningioma tumor is shown here.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(16).jpg,image(16).jpg,What does the scan indicate as tumor type?,This scan has meningioma type.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(17).jpg,image(17).jpg,What is the detected tumor type?,This scan has meningioma type.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(18).jpg,image(18).jpg,What specific tumor is present here?,This scan has meningioma type.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(19).jpg,image(19).jpg,What specific tumor is present here?,A meningioma is present in this scan.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(20).jpg,image(20).jpg,What tumor subtype is this?,This is classified as a meningioma.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(21).jpg,image(21).jpg,What kind of tumor is present in the image?,Type of tumor: meningioma.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(22).jpg,image(22).jpg,Can you tell the type of tumor shown?,The tumor is meningioma.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(23).jpg,image(23).jpg,Can you tell the type of tumor shown?,It is a meningioma.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(24).jpg,image(24).jpg,What kind of tumor is present in the image?,Meningioma is the tumor type here.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(25).jpg,image(25).jpg,What does the scan indicate as tumor type?,Meningioma tumor is shown here.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(26).jpg,image(26).jpg,What is the detected tumor type?,It is a meningioma.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(27).jpg,image(27).jpg,Which tumor type does this image show?,Meningioma tumor is shown here.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(28).jpg,image(28).jpg,What specific tumor is present here?,It is a meningioma.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(29).jpg,image(29).jpg,Identify the tumor type in this scan.,This image displays a meningioma tumor.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(30).jpg,image(30).jpg,Specify the tumor type visible here.,Meningioma tumor is shown here.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(31).jpg,image(31).jpg,What is the detected tumor type?,This scan has meningioma type.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(32).jpg,image(32).jpg,What kind of tumor is present in the image?,This is classified as a meningioma.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(33).jpg,image(33).jpg,Can you tell the type of tumor shown?,The tumor is meningioma.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(34).jpg,image(34).jpg,Which tumor type does this image show?,Meningioma tumor is shown here.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(35).jpg,image(35).jpg,What is the classification of this tumor?,This image displays a meningioma tumor.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(36).jpg,image(36).jpg,What specific tumor is present here?,This scan has meningioma type.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(37).jpg,image(37).jpg,What does the scan indicate as tumor type?,Meningioma tumor is shown here.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(38).jpg,image(38).jpg,What tumor subtype is this?,Type of tumor: meningioma.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(39).jpg,image(39).jpg,Identify the tumor type in this scan.,A meningioma is present in this scan.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(40).jpg,image(40).jpg,Identify the tumor type in this scan.,This scan has meningioma type.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(41).jpg,image(41).jpg,What specific tumor is present here?,Meningioma is the tumor type here.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(42).jpg,image(42).jpg,What specific tumor is present here?,Detected tumor: meningioma.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(43).jpg,image(43).jpg,What kind of tumor is present in the image?,This is classified as a meningioma.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(44).jpg,image(44).jpg,Which tumor type does this image show?,This image displays a meningioma tumor.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(45).jpg,image(45).jpg,What specific tumor is present here?,Type of tumor: meningioma.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(46).jpg,image(46).jpg,What is the detected tumor type?,This image displays a meningioma tumor.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(47).jpg,image(47).jpg,What is the classification of this tumor?,Meningioma is the tumor type here.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(48).jpg,image(48).jpg,What kind of tumor is present in the image?,Type of tumor: meningioma.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(49).jpg,image(49).jpg,What is the classification of this tumor?,It is a meningioma.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(50).jpg,image(50).jpg,Which tumor type does this image show?,A meningioma is present in this scan.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(51).jpg,image(51).jpg,What specific tumor is present here?,Detected tumor: meningioma.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(52).jpg,image(52).jpg,What is the detected tumor type?,The tumor is meningioma.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(53).jpg,image(53).jpg,What is the classification of this tumor?,It is a meningioma.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(54).jpg,image(54).jpg,Which tumor type does this image show?,Meningioma tumor is shown here.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(55).jpg,image(55).jpg,Which tumor type does this image show?,Detected tumor: meningioma.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(56).jpg,image(56).jpg,Specify the tumor type visible here.,This scan has meningioma type.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(57).jpg,image(57).jpg,What is the detected tumor type?,This is classified as a meningioma.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(58).jpg,image(58).jpg,What does the scan indicate as tumor type?,Type of tumor: meningioma.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(59).jpg,image(59).jpg,Specify the tumor type visible here.,This scan has meningioma type.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(60).jpg,image(60).jpg,What is the classification of this tumor?,Meningioma tumor is shown here.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(61).jpg,image(61).jpg,What is the classification of this tumor?,A meningioma is present in this scan.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(62).jpg,image(62).jpg,What tumor subtype is this?,It is a meningioma.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(63).jpg,image(63).jpg,Identify the tumor type in this scan.,Meningioma is the tumor type here.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(64).jpg,image(64).jpg,What does the scan indicate as tumor type?,Detected tumor: meningioma.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(65).jpg,image(65).jpg,What tumor subtype is this?,The tumor is meningioma.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(66).jpg,image(66).jpg,What is the classification of this tumor?,This image displays a meningioma tumor.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(67).jpg,image(67).jpg,What is the detected tumor type?,A meningioma is present in this scan.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(68).jpg,image(68).jpg,What specific tumor is present here?,This is classified as a meningioma.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(69).jpg,image(69).jpg,What does the scan indicate as tumor type?,This is classified as a meningioma.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(70).jpg,image(70).jpg,What specific tumor is present here?,Meningioma is the tumor type here.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(71).jpg,image(71).jpg,Which tumor type does this image show?,This image displays a meningioma tumor.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(72).jpg,image(72).jpg,Identify the tumor type in this scan.,This scan has meningioma type.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(73).jpg,image(73).jpg,What tumor subtype is this?,This is classified as a meningioma.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(74).jpg,image(74).jpg,What is the classification of this tumor?,It is a meningioma.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(75).jpg,image(75).jpg,What is the classification of this tumor?,This image displays a meningioma tumor.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(76).jpg,image(76).jpg,Which tumor type does this image show?,Meningioma is the tumor type here.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(77).jpg,image(77).jpg,What specific tumor is present here?,Meningioma tumor is shown here.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(78).jpg,image(78).jpg,What does the scan indicate as tumor type?,Meningioma is the tumor type here.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(79).jpg,image(79).jpg,What does the scan indicate as tumor type?,Type of tumor: meningioma.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(80).jpg,image(80).jpg,What is the classification of this tumor?,This image displays a meningioma tumor.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(81).jpg,image(81).jpg,Specify the tumor type visible here.,Meningioma tumor is shown here.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(82).jpg,image(82).jpg,Identify the tumor type in this scan.,This is classified as a meningioma.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(83).jpg,image(83).jpg,What specific tumor is present here?,This is classified as a meningioma.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(84).jpg,image(84).jpg,What is the detected tumor type?,Type of tumor: meningioma.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(85).jpg,image(85).jpg,What kind of tumor is present in the image?,Meningioma tumor is shown here.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(86).jpg,image(86).jpg,Specify the tumor type visible here.,A meningioma is present in this scan.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(87).jpg,image(87).jpg,Can you tell the type of tumor shown?,Detected tumor: meningioma.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(88).jpg,image(88).jpg,What kind of tumor is present in the image?,Meningioma tumor is shown here.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(89).jpg,image(89).jpg,What specific tumor is present here?,Meningioma is the tumor type here.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(90).jpg,image(90).jpg,What is the detected tumor type?,This is classified as a meningioma.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(91).jpg,image(91).jpg,Specify the tumor type visible here.,The tumor is meningioma.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(92).jpg,image(92).jpg,What is the classification of this tumor?,This image displays a meningioma tumor.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(93).jpg,image(93).jpg,What specific tumor is present here?,Meningioma tumor is shown here.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(94).jpg,image(94).jpg,Which tumor type does this image show?,A meningioma is present in this scan.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(95).jpg,image(95).jpg,Which tumor type does this image show?,A meningioma is present in this scan.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(96).jpg,image(96).jpg,What does the scan indicate as tumor type?,Type of tumor: meningioma.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(97).jpg,image(97).jpg,Specify the tumor type visible here.,It is a meningioma.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(98).jpg,image(98).jpg,What is the classification of this tumor?,A meningioma is present in this scan.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(99).jpg,image(99).jpg,Can you tell the type of tumor shown?,Type of tumor: meningioma.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(100).jpg,image(100).jpg,What tumor subtype is this?,Meningioma is the tumor type here.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(102).jpg,image(102).jpg,What is the detected tumor type?,Type of tumor: meningioma.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(106).jpg,image(106).jpg,What does the scan indicate as tumor type?,This is classified as a meningioma.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(107).jpg,image(107).jpg,What is the classification of this tumor?,Meningioma tumor is shown here.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(109).jpg,image(109).jpg,What specific tumor is present here?,Detected tumor: meningioma.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(112).jpg,image(112).jpg,What does the scan indicate as tumor type?,Detected tumor: meningioma.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(113).jpg,image(113).jpg,What specific tumor is present here?,It is a meningioma.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(118).jpg,image(118).jpg,Can you tell the type of tumor shown?,Meningioma tumor is shown here.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(120).jpg,image(120).jpg,Identify the tumor type in this scan.,Detected tumor: meningioma.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(121).jpg,image(121).jpg,Identify the tumor type in this scan.,The tumor is meningioma.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(123).jpg,image(123).jpg,Specify the tumor type visible here.,The tumor is meningioma.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(124).jpg,image(124).jpg,What kind of tumor is present in the image?,The tumor is meningioma.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(125).jpg,image(125).jpg,Identify the tumor type in this scan.,This scan has meningioma type.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(126).jpg,image(126).jpg,Identify the tumor type in this scan.,The tumor is meningioma.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(127).jpg,image(127).jpg,Can you tell the type of tumor shown?,Detected tumor: meningioma.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(0).jpg,image(0).jpg,Which tumor type does this image show?,It is a pituitary tumor.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(1).jpg,image(1).jpg,Identify the tumor type in this scan.,Type of tumor: pituitary.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(2).jpg,image(2).jpg,What kind of tumor is present in the image?,This image displays a pituitary tumor.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(3).jpg,image(3).jpg,What is the classification of this tumor?,It is a pituitary tumor.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(5).jpg,image(5).jpg,What does the scan indicate as tumor type?,Pituitary is the tumor type here.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(6).jpg,image(6).jpg,Which tumor type does this image show?,This image displays a pituitary tumor.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(7).jpg,image(7).jpg,What tumor subtype is this?,This image displays a pituitary tumor.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(8).jpg,image(8).jpg,What is the classification of this tumor?,This is classified as a pituitary tumor.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(10).jpg,image(10).jpg,Can you tell the type of tumor shown?,Detected tumor: pituitary.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(11).jpg,image(11).jpg,What kind of tumor is present in the image?,Pituitary tumor is shown here.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(13).jpg,image(13).jpg,What kind of tumor is present in the image?,It is a pituitary tumor.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(15).jpg,image(15).jpg,What kind of tumor is present in the image?,This image displays a pituitary tumor.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(18).jpg,image(18).jpg,What specific tumor is present here?,Type of tumor: pituitary.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(19).jpg,image(19).jpg,What is the classification of this tumor?,Type of tumor: pituitary.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(20).jpg,image(20).jpg,What specific tumor is present here?,Pituitary tumor is shown here.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(21).jpg,image(21).jpg,Specify the tumor type visible here.,This scan has pituitary type.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(22).jpg,image(22).jpg,Specify the tumor type visible here.,The tumor is pituitary.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(23).jpg,image(23).jpg,What specific tumor is present here?,Pituitary tumor is shown here.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(27).jpg,image(27).jpg,Which tumor type does this image show?,Type of tumor: pituitary.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(28).jpg,image(28).jpg,What specific tumor is present here?,A pituitary is present in this scan.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(30).jpg,image(30).jpg,Can you tell the type of tumor shown?,Type of tumor: pituitary.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(31).jpg,image(31).jpg,Can you tell the type of tumor shown?,The tumor is pituitary.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(34).jpg,image(34).jpg,What does the scan indicate as tumor type?,Pituitary tumor is shown here.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(35).jpg,image(35).jpg,What specific tumor is present here?,This is classified as a pituitary tumor.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(36).jpg,image(36).jpg,What is the classification of this tumor?,This is classified as a pituitary tumor.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(37).jpg,image(37).jpg,Specify the tumor type visible here.,A pituitary is present in this scan.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(38).jpg,image(38).jpg,What tumor subtype is this?,A pituitary is present in this scan.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(41).jpg,image(41).jpg,What does the scan indicate as tumor type?,Type of tumor: pituitary.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(42).jpg,image(42).jpg,Can you tell the type of tumor shown?,A pituitary is present in this scan.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(43).jpg,image(43).jpg,What tumor subtype is this?,Type of tumor: pituitary.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(44).jpg,image(44).jpg,Can you tell the type of tumor shown?,It is a pituitary tumor.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(45).jpg,image(45).jpg,What tumor subtype is this?,Pituitary tumor is shown here.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(46).jpg,image(46).jpg,What is the classification of this tumor?,The tumor is pituitary.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(47).jpg,image(47).jpg,Specify the tumor type visible here.,It is a pituitary tumor.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(48).jpg,image(48).jpg,Can you tell the type of tumor shown?,Type of tumor: pituitary.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(49).jpg,image(49).jpg,Identify the tumor type in this scan.,This is classified as a pituitary tumor.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(51).jpg,image(51).jpg,What is the detected tumor type?,Pituitary tumor is shown here.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(52).jpg,image(52).jpg,What is the detected tumor type?,This image displays a pituitary tumor.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(53).jpg,image(53).jpg,Which tumor type does this image show?,It is a pituitary tumor.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(54).jpg,image(54).jpg,What specific tumor is present here?,A pituitary is present in this scan.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(55).jpg,image(55).jpg,What does the scan indicate as tumor type?,Pituitary tumor is shown here.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(56).jpg,image(56).jpg,What specific tumor is present here?,The tumor is pituitary.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(57).jpg,image(57).jpg,Which tumor type does this image show?,Pituitary is the tumor type here.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(60).jpg,image(60).jpg,What does the scan indicate as tumor type?,Pituitary tumor is shown here.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(61).jpg,image(61).jpg,What kind of tumor is present in the image?,This scan has pituitary type.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(63).jpg,image(63).jpg,Which tumor type does this image show?,This is classified as a pituitary tumor.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(64).jpg,image(64).jpg,What tumor subtype is this?,This is classified as a pituitary tumor.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(65).jpg,image(65).jpg,What tumor subtype is this?,Pituitary tumor is shown here.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(66).jpg,image(66).jpg,What is the classification of this tumor?,This is classified as a pituitary tumor.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(67).jpg,image(67).jpg,What tumor subtype is this?,Pituitary is the tumor type here.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(68).jpg,image(68).jpg,What is the detected tumor type?,It is a pituitary tumor.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(69).jpg,image(69).jpg,What is the detected tumor type?,This scan has pituitary type.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(70).jpg,image(70).jpg,Can you tell the type of tumor shown?,The tumor is pituitary.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(73).jpg,image(73).jpg,What kind of tumor is present in the image?,This image displays a pituitary tumor.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(76).jpg,image(76).jpg,What kind of tumor is present in the image?,It is a pituitary tumor.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(77).jpg,image(77).jpg,What does the scan indicate as tumor type?,This scan has pituitary type.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(78).jpg,image(78).jpg,What is the detected tumor type?,Detected tumor: pituitary.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(79).jpg,image(79).jpg,What is the classification of this tumor?,This is classified as a pituitary tumor.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(81).jpg,image(81).jpg,What does the scan indicate as tumor type?,Pituitary tumor is shown here.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(82).jpg,image(82).jpg,What is the classification of this tumor?,Detected tumor: pituitary.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(85).jpg,image(85).jpg,What does the scan indicate as tumor type?,The tumor is pituitary.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(86).jpg,image(86).jpg,Can you tell the type of tumor shown?,Pituitary tumor is shown here.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(87).jpg,image(87).jpg,Identify the tumor type in this scan.,It is a pituitary tumor.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(88).jpg,image(88).jpg,What tumor subtype is this?,Pituitary tumor is shown here.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(89).jpg,image(89).jpg,Specify the tumor type visible here.,Detected tumor: pituitary.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(90).jpg,image(90).jpg,What tumor subtype is this?,The tumor is pituitary.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(91).jpg,image(91).jpg,Identify the tumor type in this scan.,The tumor is pituitary.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(92).jpg,image(92).jpg,What is the detected tumor type?,Pituitary tumor is shown here.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(93).jpg,image(93).jpg,What does the scan indicate as tumor type?,This image displays a pituitary tumor.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(94).jpg,image(94).jpg,What kind of tumor is present in the image?,Type of tumor: pituitary.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(95).jpg,image(95).jpg,Specify the tumor type visible here.,Pituitary is the tumor type here.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(96).jpg,image(96).jpg,Specify the tumor type visible here.,Pituitary tumor is shown here.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(97).jpg,image(97).jpg,What is the detected tumor type?,A pituitary is present in this scan.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(98).jpg,image(98).jpg,What is the detected tumor type?,A pituitary is present in this scan.,tumor_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(0).jpg,image(0).jpg,What image type is displayed here?,Axial slice is shown.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(1).jpg,image(1).jpg,Which anatomical plane is used?,Axial slice is shown.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(2).jpg,image(2).jpg,What's the viewing angle here?,Axial perspective image.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(3).jpg,image(3).jpg,What's the viewing angle here?,View type: axial.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(4).jpg,image(4).jpg,Identify the image orientation.,Sagittal type image.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(5).jpg,image(5).jpg,What's the viewing angle here?,Scan is from coronal direction.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(6).jpg,image(6).jpg,What is the view type of this image?,Axial perspective image.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(7).jpg,image(7).jpg,What kind of image view is this?,Axial slice is shown.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(8).jpg,image(8).jpg,What image type is displayed here?,Axial type image.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(9).jpg,image(9).jpg,What kind of image view is this?,Orientation: axial.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(10).jpg,image(10).jpg,Which plane is shown in the image?,Axial plane is shown.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(11).jpg,image(11).jpg,What's the viewing angle here?,View type: axial.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(12).jpg,image(12).jpg,What is the imaging perspective?,Orientation: axial.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(13).jpg,image(13).jpg,What kind of image view is this?,This is an axial view.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(14).jpg,image(14).jpg,What kind of image view is this?,Scan is from axial direction.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(15).jpg,image(15).jpg,What image type is displayed here?,View type: axial.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(16).jpg,image(16).jpg,What's the viewing angle here?,Axial slice is shown.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(17).jpg,image(17).jpg,What is the view type of this image?,Orientation: sagittal.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(18).jpg,image(18).jpg,Can you name the scan view type?,This scan uses axial plane.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(19).jpg,image(19).jpg,Can you name the scan view type?,Sagittal plane is shown.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(20).jpg,image(20).jpg,Which plane is shown in the image?,Scan is from axial direction.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(21).jpg,image(21).jpg,What is the view type of this image?,Scan is from axial direction.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(22).jpg,image(22).jpg,What kind of image view is this?,Axial slice is shown.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(23).jpg,image(23).jpg,What's the viewing angle here?,Axial slice is shown.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(24).jpg,image(24).jpg,In which direction is this MRI taken?,This is an axial view.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(25).jpg,image(25).jpg,In which direction is this MRI taken?,Axial type image.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(26).jpg,image(26).jpg,In which direction is this MRI taken?,View type: axial.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(27).jpg,image(27).jpg,Identify the image orientation.,Axial perspective image.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(28).jpg,image(28).jpg,Identify the image orientation.,The image is coronal.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(29).jpg,image(29).jpg,What's the viewing angle here?,Axial slice is shown.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(30).jpg,image(30).jpg,What kind of image view is this?,Scan is from axial direction.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(31).jpg,image(31).jpg,What image type is displayed here?,Coronal type image.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(32).jpg,image(32).jpg,What's the viewing angle here?,Axial plane is shown.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(33).jpg,image(33).jpg,Which plane is shown in the image?,This is an axial view.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(34).jpg,image(34).jpg,What image type is displayed here?,Axial type image.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(35).jpg,image(35).jpg,Which plane is shown in the image?,The image is axial.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(36).jpg,image(36).jpg,In which direction is this MRI taken?,View type: axial.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(37).jpg,image(37).jpg,Which plane is shown in the image?,Axial plane is shown.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(38).jpg,image(38).jpg,What kind of image view is this?,This is an axial view.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(39).jpg,image(39).jpg,Identify the image orientation.,Orientation: axial.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(40).jpg,image(40).jpg,Can you name the scan view type?,Orientation: axial.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(41).jpg,image(41).jpg,In which direction is this MRI taken?,The image is axial.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(42).jpg,image(42).jpg,What is the view type of this image?,Axial slice is shown.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(43).jpg,image(43).jpg,What kind of image view is this?,View type: axial.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(44).jpg,image(44).jpg,Which plane is shown in the image?,This is an axial view.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(45).jpg,image(45).jpg,In which direction is this MRI taken?,Orientation: axial.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(46).jpg,image(46).jpg,What's the viewing angle here?,Axial type image.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(47).jpg,image(47).jpg,Which plane is shown in the image?,The image is axial.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(48).jpg,image(48).jpg,What kind of image view is this?,This is an axial view.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(49).jpg,image(49).jpg,What kind of image view is this?,This is an axial view.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(50).jpg,image(50).jpg,Can you name the scan view type?,Orientation: axial.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(51).jpg,image(51).jpg,What is the view type of this image?,Axial slice is shown.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(52).jpg,image(52).jpg,Which anatomical plane is used?,View type: axial.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(53).jpg,image(53).jpg,What kind of image view is this?,Axial type image.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(54).jpg,image(54).jpg,Which plane is shown in the image?,Orientation: axial.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(55).jpg,image(55).jpg,Which anatomical plane is used?,Axial plane is shown.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(56).jpg,image(56).jpg,In which direction is this MRI taken?,The image is axial.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(57).jpg,image(57).jpg,Which plane is shown in the image?,This scan uses axial plane.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(58).jpg,image(58).jpg,Which plane is shown in the image?,The image is axial.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(59).jpg,image(59).jpg,Which plane is shown in the image?,Orientation: axial.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(60).jpg,image(60).jpg,Can you name the scan view type?,Axial plane is shown.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(61).jpg,image(61).jpg,What image type is displayed here?,View type: axial.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(62).jpg,image(62).jpg,Can you name the scan view type?,Axial perspective image.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(63).jpg,image(63).jpg,What is the view type of this image?,Axial type image.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(64).jpg,image(64).jpg,What image type is displayed here?,Axial perspective image.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(65).jpg,image(65).jpg,Which anatomical plane is used?,View type: axial.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(66).jpg,image(66).jpg,Can you name the scan view type?,This is an axial view.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(67).jpg,image(67).jpg,What is the imaging perspective?,This is an axial view.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(68).jpg,image(68).jpg,Identify the image orientation.,Coronal plane is shown.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(69).jpg,image(69).jpg,Identify the image orientation.,Axial perspective image.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(70).jpg,image(70).jpg,What is the imaging perspective?,Orientation: axial.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(71).jpg,image(71).jpg,What is the imaging perspective?,The image is axial.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(72).jpg,image(72).jpg,What image type is displayed here?,The image is axial.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(73).jpg,image(73).jpg,In which direction is this MRI taken?,View type: axial.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(74).jpg,image(74).jpg,Which anatomical plane is used?,Axial plane is shown.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(75).jpg,image(75).jpg,What is the imaging perspective?,Orientation: axial.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(76).jpg,image(76).jpg,What is the view type of this image?,View type: axial.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(77).jpg,image(77).jpg,What kind of image view is this?,Axial slice is shown.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(78).jpg,image(78).jpg,What is the imaging perspective?,Orientation: axial.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(79).jpg,image(79).jpg,What kind of image view is this?,This is an axial view.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(80).jpg,image(80).jpg,What is the imaging perspective?,Axial plane is shown.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(81).jpg,image(81).jpg,What is the view type of this image?,Axial plane is shown.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(82).jpg,image(82).jpg,In which direction is this MRI taken?,Sagittal type image.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(83).jpg,image(83).jpg,Which plane is shown in the image?,View type: axial.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(84).jpg,image(84).jpg,What's the viewing angle here?,Axial type image.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(85).jpg,image(85).jpg,What image type is displayed here?,Axial plane is shown.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(86).jpg,image(86).jpg,Which plane is shown in the image?,Axial perspective image.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(87).jpg,image(87).jpg,Can you name the scan view type?,This is an axial view.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(88).jpg,image(88).jpg,In which direction is this MRI taken?,View type: axial.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(89).jpg,image(89).jpg,Which anatomical plane is used?,Scan is from axial direction.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(90).jpg,image(90).jpg,Which plane is shown in the image?,Axial slice is shown.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(91).jpg,image(91).jpg,In which direction is this MRI taken?,Axial slice is shown.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(92).jpg,image(92).jpg,Which plane is shown in the image?,View type: axial.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(93).jpg,image(93).jpg,What image type is displayed here?,View type: axial.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(94).jpg,image(94).jpg,What kind of image view is this?,Orientation: axial.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(95).jpg,image(95).jpg,Can you name the scan view type?,Axial plane is shown.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(96).jpg,image(96).jpg,Which anatomical plane is used?,View type: axial.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(97).jpg,image(97).jpg,Which plane is shown in the image?,Orientation: axial.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(98).jpg,image(98).jpg,Which anatomical plane is used?,This scan uses axial plane.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(99).jpg,image(99).jpg,What's the viewing angle here?,Orientation: axial.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(100).jpg,image(100).jpg,In which direction is this MRI taken?,Orientation: axial.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(101).jpg,image(101).jpg,What image type is displayed here?,Axial slice is shown.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(102).jpg,image(102).jpg,Which anatomical plane is used?,View type: sagittal.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(103).jpg,image(103).jpg,Which plane is shown in the image?,This scan uses axial plane.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/no_tumor/image(104).jpg,image(104).jpg,What is the view type of this image?,Axial perspective image.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(0).jpg,image(0).jpg,What image type is displayed here?,The image is coronal.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(1).jpg,image(1).jpg,Can you name the scan view type?,Scan is from coronal direction.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(2).jpg,image(2).jpg,What is the imaging perspective?,The image is axial.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(3).jpg,image(3).jpg,What image type is displayed here?,This scan uses axial plane.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(4).jpg,image(4).jpg,What is the imaging perspective?,Orientation: axial.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(5).jpg,image(5).jpg,What's the viewing angle here?,Axial plane is shown.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(6).jpg,image(6).jpg,What is the view type of this image?,Scan is from axial direction.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(7).jpg,image(7).jpg,Which plane is shown in the image?,Axial plane is shown.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(8).jpg,image(8).jpg,What is the imaging perspective?,Axial type image.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(9).jpg,image(9).jpg,What is the imaging perspective?,Coronal type image.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(10).jpg,image(10).jpg,In which direction is this MRI taken?,Sagittal slice is shown.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(11).jpg,image(11).jpg,What kind of image view is this?,The image is coronal.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(12).jpg,image(12).jpg,Which plane is shown in the image?,View type: coronal.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(13).jpg,image(13).jpg,Can you name the scan view type?,This scan uses coronal plane.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(14).jpg,image(14).jpg,What's the viewing angle here?,View type: coronal.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(15).jpg,image(15).jpg,Which plane is shown in the image?,The image is coronal.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(16).jpg,image(16).jpg,What is the imaging perspective?,View type: sagittal.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(17).jpg,image(17).jpg,Identify the image orientation.,Orientation: sagittal.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(18).jpg,image(18).jpg,Which anatomical plane is used?,View type: axial.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(19).jpg,image(19).jpg,What is the imaging perspective?,This scan uses sagittal plane.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(20).jpg,image(20).jpg,What's the viewing angle here?,Axial plane is shown.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(21).jpg,image(21).jpg,Identify the image orientation.,The image is axial.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(22).jpg,image(22).jpg,What image type is displayed here?,Orientation: axial.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(23).jpg,image(23).jpg,What kind of image view is this?,Axial plane is shown.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(24).jpg,image(24).jpg,What is the imaging perspective?,View type: axial.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(25).jpg,image(25).jpg,Identify the image orientation.,Sagittal slice is shown.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(26).jpg,image(26).jpg,In which direction is this MRI taken?,Coronal type image.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(27).jpg,image(27).jpg,What's the viewing angle here?,Orientation: axial.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(28).jpg,image(28).jpg,Can you name the scan view type?,Scan is from axial direction.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(29).jpg,image(29).jpg,In which direction is this MRI taken?,Orientation: axial.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(30).jpg,image(30).jpg,Identify the image orientation.,This is an axial view.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(31).jpg,image(31).jpg,What kind of image view is this?,Coronal perspective image.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(32).jpg,image(32).jpg,What's the viewing angle here?,Scan is from axial direction.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(33).jpg,image(33).jpg,In which direction is this MRI taken?,Axial slice is shown.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(34).jpg,image(34).jpg,In which direction is this MRI taken?,Axial perspective image.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(35).jpg,image(35).jpg,What is the imaging perspective?,View type: axial.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(36).jpg,image(36).jpg,Can you name the scan view type?,View type: axial.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(37).jpg,image(37).jpg,Can you name the scan view type?,Axial perspective image.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(38).jpg,image(38).jpg,What kind of image view is this?,Scan is from axial direction.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(39).jpg,image(39).jpg,Which anatomical plane is used?,Orientation: axial.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(40).jpg,image(40).jpg,What image type is displayed here?,This scan uses axial plane.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(41).jpg,image(41).jpg,In which direction is this MRI taken?,Axial perspective image.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(42).jpg,image(42).jpg,Which anatomical plane is used?,Axial slice is shown.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(43).jpg,image(43).jpg,What is the imaging perspective?,The image is axial.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(44).jpg,image(44).jpg,What is the view type of this image?,Orientation: axial.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(45).jpg,image(45).jpg,What kind of image view is this?,Axial plane is shown.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(46).jpg,image(46).jpg,Which plane is shown in the image?,View type: sagittal.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(47).jpg,image(47).jpg,Which plane is shown in the image?,Sagittal plane is shown.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(48).jpg,image(48).jpg,Identify the image orientation.,This is an axial view.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(49).jpg,image(49).jpg,Which plane is shown in the image?,Scan is from axial direction.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(50).jpg,image(50).jpg,Which plane is shown in the image?,Axial type image.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(51).jpg,image(51).jpg,What is the imaging perspective?,Axial plane is shown.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(52).jpg,image(52).jpg,What kind of image view is this?,Axial plane is shown.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(53).jpg,image(53).jpg,What kind of image view is this?,Axial perspective image.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(54).jpg,image(54).jpg,Identify the image orientation.,Orientation: sagittal.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(55).jpg,image(55).jpg,What image type is displayed here?,This is an axial view.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(56).jpg,image(56).jpg,Identify the image orientation.,This scan uses axial plane.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(57).jpg,image(57).jpg,Can you name the scan view type?,The image is axial.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(58).jpg,image(58).jpg,In which direction is this MRI taken?,View type: coronal.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(59).jpg,image(59).jpg,Which plane is shown in the image?,Coronal slice is shown.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(60).jpg,image(60).jpg,What's the viewing angle here?,This scan uses coronal plane.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(61).jpg,image(61).jpg,What is the imaging perspective?,Coronal perspective image.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(62).jpg,image(62).jpg,What is the view type of this image?,View type: coronal.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(63).jpg,image(63).jpg,Which anatomical plane is used?,Orientation: coronal.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(64).jpg,image(64).jpg,What is the imaging perspective?,Scan is from sagittal direction.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(65).jpg,image(65).jpg,What is the imaging perspective?,Sagittal slice is shown.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(66).jpg,image(66).jpg,Can you name the scan view type?,The image is axial.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(67).jpg,image(67).jpg,Which plane is shown in the image?,Axial type image.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(68).jpg,image(68).jpg,In which direction is this MRI taken?,Coronal type image.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(69).jpg,image(69).jpg,What is the imaging perspective?,This scan uses coronal plane.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(70).jpg,image(70).jpg,In which direction is this MRI taken?,Coronal plane is shown.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(71).jpg,image(71).jpg,In which direction is this MRI taken?,Scan is from coronal direction.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(72).jpg,image(72).jpg,Can you name the scan view type?,This is a coronal view.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(73).jpg,image(73).jpg,What's the viewing angle here?,View type: coronal.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(74).jpg,image(74).jpg,In which direction is this MRI taken?,Axial slice is shown.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(75).jpg,image(75).jpg,Identify the image orientation.,Axial type image.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(76).jpg,image(76).jpg,Which plane is shown in the image?,Orientation: axial.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(77).jpg,image(77).jpg,Can you name the scan view type?,The image is axial.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(78).jpg,image(78).jpg,Identify the image orientation.,This scan uses axial plane.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(79).jpg,image(79).jpg,What image type is displayed here?,View type: axial.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(80).jpg,image(80).jpg,Identify the image orientation.,Axial plane is shown.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(81).jpg,image(81).jpg,What image type is displayed here?,Axial plane is shown.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(82).jpg,image(82).jpg,In which direction is this MRI taken?,Scan is from axial direction.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(83).jpg,image(83).jpg,Can you name the scan view type?,View type: axial.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(84).jpg,image(84).jpg,What kind of image view is this?,This is an axial view.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(85).jpg,image(85).jpg,What image type is displayed here?,Axial plane is shown.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(86).jpg,image(86).jpg,Which anatomical plane is used?,The image is axial.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(87).jpg,image(87).jpg,What's the viewing angle here?,The image is axial.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(88).jpg,image(88).jpg,What is the imaging perspective?,View type: axial.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(89).jpg,image(89).jpg,What kind of image view is this?,This is an axial view.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(90).jpg,image(90).jpg,Which plane is shown in the image?,This scan uses coronal plane.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(91).jpg,image(91).jpg,What kind of image view is this?,Sagittal type image.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(92).jpg,image(92).jpg,Which anatomical plane is used?,Axial plane is shown.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(93).jpg,image(93).jpg,Identify the image orientation.,Axial plane is shown.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(94).jpg,image(94).jpg,Which plane is shown in the image?,Orientation: axial.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(95).jpg,image(95).jpg,Which plane is shown in the image?,Axial perspective image.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(97).jpg,image(97).jpg,What is the imaging perspective?,Coronal plane is shown.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(98).jpg,image(98).jpg,In which direction is this MRI taken?,Axial perspective image.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(99).jpg,image(99).jpg,Identify the image orientation.,The image is axial.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/glioma_tumor/image(100).jpg,image(100).jpg,Identify the image orientation.,View type: axial.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(0).jpg,image(0).jpg,Identify the image orientation.,This scan uses axial plane.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(1).jpg,image(1).jpg,What is the imaging perspective?,Scan is from coronal direction.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(2).jpg,image(2).jpg,What's the viewing angle here?,Scan is from axial direction.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(3).jpg,image(3).jpg,What image type is displayed here?,This is an axial view.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(4).jpg,image(4).jpg,In which direction is this MRI taken?,Axial perspective image.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(5).jpg,image(5).jpg,Identify the image orientation.,The image is axial.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(6).jpg,image(6).jpg,What's the viewing angle here?,Axial slice is shown.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(7).jpg,image(7).jpg,Identify the image orientation.,Axial type image.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(8).jpg,image(8).jpg,What image type is displayed here?,Axial perspective image.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(9).jpg,image(9).jpg,What image type is displayed here?,This scan uses axial plane.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(10).jpg,image(10).jpg,What is the view type of this image?,This is an axial view.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(11).jpg,image(11).jpg,Which anatomical plane is used?,Scan is from coronal direction.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(12).jpg,image(12).jpg,What image type is displayed here?,This is an axial view.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(13).jpg,image(13).jpg,What is the imaging perspective?,This scan uses axial plane.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(14).jpg,image(14).jpg,What kind of image view is this?,Coronal plane is shown.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(15).jpg,image(15).jpg,What is the view type of this image?,This scan uses coronal plane.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(16).jpg,image(16).jpg,What kind of image view is this?,Coronal plane is shown.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(17).jpg,image(17).jpg,What is the imaging perspective?,Scan is from axial direction.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(18).jpg,image(18).jpg,Which plane is shown in the image?,Sagittal slice is shown.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(19).jpg,image(19).jpg,What's the viewing angle here?,Orientation: axial.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(20).jpg,image(20).jpg,Identify the image orientation.,Axial type image.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(21).jpg,image(21).jpg,In which direction is this MRI taken?,The image is coronal.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(22).jpg,image(22).jpg,What is the imaging perspective?,The image is axial.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(23).jpg,image(23).jpg,What's the viewing angle here?,Sagittal plane is shown.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(24).jpg,image(24).jpg,In which direction is this MRI taken?,This scan uses axial plane.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(25).jpg,image(25).jpg,What is the view type of this image?,The image is axial.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(26).jpg,image(26).jpg,Can you name the scan view type?,Axial type image.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(27).jpg,image(27).jpg,Which anatomical plane is used?,Axial slice is shown.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(28).jpg,image(28).jpg,What kind of image view is this?,Axial plane is shown.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(29).jpg,image(29).jpg,In which direction is this MRI taken?,This scan uses axial plane.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(30).jpg,image(30).jpg,What is the view type of this image?,Scan is from axial direction.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(31).jpg,image(31).jpg,What image type is displayed here?,View type: sagittal.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(32).jpg,image(32).jpg,Identify the image orientation.,Scan is from axial direction.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(33).jpg,image(33).jpg,What kind of image view is this?,Orientation: coronal.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(34).jpg,image(34).jpg,Which anatomical plane is used?,Orientation: coronal.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(35).jpg,image(35).jpg,What kind of image view is this?,This is a sagittal view.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(36).jpg,image(36).jpg,What is the imaging perspective?,Sagittal perspective image.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(37).jpg,image(37).jpg,What is the view type of this image?,The image is sagittal.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(38).jpg,image(38).jpg,What is the view type of this image?,Orientation: axial.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(39).jpg,image(39).jpg,Which plane is shown in the image?,Sagittal type image.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(40).jpg,image(40).jpg,What is the imaging perspective?,Scan is from axial direction.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(41).jpg,image(41).jpg,Which plane is shown in the image?,The image is coronal.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(42).jpg,image(42).jpg,Which anatomical plane is used?,Scan is from coronal direction.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(43).jpg,image(43).jpg,What kind of image view is this?,Orientation: coronal.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(44).jpg,image(44).jpg,What is the view type of this image?,The image is sagittal.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(45).jpg,image(45).jpg,Which anatomical plane is used?,Coronal type image.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(46).jpg,image(46).jpg,Identify the image orientation.,Sagittal plane is shown.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(47).jpg,image(47).jpg,Which anatomical plane is used?,Sagittal type image.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(48).jpg,image(48).jpg,Which plane is shown in the image?,This scan uses sagittal plane.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(49).jpg,image(49).jpg,What is the imaging perspective?,Orientation: sagittal.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(50).jpg,image(50).jpg,What's the viewing angle here?,View type: sagittal.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(51).jpg,image(51).jpg,What's the viewing angle here?,The image is coronal.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(52).jpg,image(52).jpg,What's the viewing angle here?,This scan uses axial plane.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(53).jpg,image(53).jpg,What image type is displayed here?,Coronal perspective image.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(54).jpg,image(54).jpg,What kind of image view is this?,Scan is from coronal direction.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(55).jpg,image(55).jpg,What kind of image view is this?,Orientation: coronal.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(56).jpg,image(56).jpg,Which plane is shown in the image?,View type: coronal.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(57).jpg,image(57).jpg,What kind of image view is this?,This scan uses sagittal plane.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(58).jpg,image(58).jpg,What's the viewing angle here?,This scan uses axial plane.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(59).jpg,image(59).jpg,What kind of image view is this?,Coronal slice is shown.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(60).jpg,image(60).jpg,Which anatomical plane is used?,The image is coronal.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(61).jpg,image(61).jpg,What is the imaging perspective?,View type: axial.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(62).jpg,image(62).jpg,Which plane is shown in the image?,Scan is from coronal direction.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(63).jpg,image(63).jpg,What is the view type of this image?,Scan is from axial direction.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(64).jpg,image(64).jpg,In which direction is this MRI taken?,Scan is from sagittal direction.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(65).jpg,image(65).jpg,In which direction is this MRI taken?,Coronal type image.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(66).jpg,image(66).jpg,Identify the image orientation.,The image is axial.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(67).jpg,image(67).jpg,Which anatomical plane is used?,Scan is from axial direction.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(68).jpg,image(68).jpg,Identify the image orientation.,Scan is from axial direction.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(69).jpg,image(69).jpg,In which direction is this MRI taken?,This is a coronal view.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(70).jpg,image(70).jpg,Which plane is shown in the image?,Axial perspective image.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(71).jpg,image(71).jpg,Which plane is shown in the image?,Sagittal type image.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(72).jpg,image(72).jpg,What kind of image view is this?,Axial plane is shown.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(73).jpg,image(73).jpg,Which plane is shown in the image?,This is a coronal view.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(74).jpg,image(74).jpg,Can you name the scan view type?,Scan is from coronal direction.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(75).jpg,image(75).jpg,What kind of image view is this?,View type: coronal.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(76).jpg,image(76).jpg,Which anatomical plane is used?,Scan is from axial direction.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(77).jpg,image(77).jpg,What is the view type of this image?,This is an axial view.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(78).jpg,image(78).jpg,What is the imaging perspective?,Axial plane is shown.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(79).jpg,image(79).jpg,In which direction is this MRI taken?,Orientation: axial.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(80).jpg,image(80).jpg,Which plane is shown in the image?,This scan uses axial plane.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(81).jpg,image(81).jpg,What is the view type of this image?,Axial slice is shown.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(82).jpg,image(82).jpg,What kind of image view is this?,Axial slice is shown.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(83).jpg,image(83).jpg,Which plane is shown in the image?,Axial perspective image.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(84).jpg,image(84).jpg,Which plane is shown in the image?,This scan uses axial plane.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(85).jpg,image(85).jpg,What image type is displayed here?,This scan uses axial plane.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(86).jpg,image(86).jpg,Can you name the scan view type?,Scan is from axial direction.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(87).jpg,image(87).jpg,What is the view type of this image?,This is an axial view.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(88).jpg,image(88).jpg,What is the imaging perspective?,View type: axial.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(89).jpg,image(89).jpg,What is the imaging perspective?,Orientation: axial.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(90).jpg,image(90).jpg,What is the imaging perspective?,This is an axial view.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(91).jpg,image(91).jpg,Which plane is shown in the image?,View type: axial.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(92).jpg,image(92).jpg,What kind of image view is this?,Scan is from axial direction.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(93).jpg,image(93).jpg,Which anatomical plane is used?,Axial slice is shown.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(94).jpg,image(94).jpg,Which anatomical plane is used?,Axial slice is shown.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(95).jpg,image(95).jpg,What is the imaging perspective?,This scan uses axial plane.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(96).jpg,image(96).jpg,What is the imaging perspective?,Axial perspective image.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(97).jpg,image(97).jpg,What is the view type of this image?,Orientation: axial.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(98).jpg,image(98).jpg,Can you name the scan view type?,Axial perspective image.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(99).jpg,image(99).jpg,Can you name the scan view type?,This is an axial view.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(100).jpg,image(100).jpg,What kind of image view is this?,Axial perspective image.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(102).jpg,image(102).jpg,What kind of image view is this?,Coronal type image.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(106).jpg,image(106).jpg,Which plane is shown in the image?,View type: axial.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(107).jpg,image(107).jpg,Can you name the scan view type?,Scan is from axial direction.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(109).jpg,image(109).jpg,Can you name the scan view type?,This scan uses axial plane.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(112).jpg,image(112).jpg,Can you name the scan view type?,Scan is from axial direction.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(113).jpg,image(113).jpg,Can you name the scan view type?,This is an axial view.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(118).jpg,image(118).jpg,What kind of image view is this?,The image is axial.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(120).jpg,image(120).jpg,What is the imaging perspective?,This scan uses axial plane.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(121).jpg,image(121).jpg,Can you name the scan view type?,Axial slice is shown.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(123).jpg,image(123).jpg,What is the view type of this image?,Coronal type image.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(124).jpg,image(124).jpg,What's the viewing angle here?,Orientation: axial.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(125).jpg,image(125).jpg,Identify the image orientation.,View type: coronal.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(126).jpg,image(126).jpg,Can you name the scan view type?,Axial type image.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/meningioma_tumor/image(127).jpg,image(127).jpg,What's the viewing angle here?,The image is axial.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(0).jpg,image(0).jpg,What is the view type of this image?,Coronal plane is shown.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(1).jpg,image(1).jpg,Which plane is shown in the image?,View type: sagittal.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(2).jpg,image(2).jpg,Can you name the scan view type?,Sagittal type image.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(3).jpg,image(3).jpg,What is the view type of this image?,Sagittal plane is shown.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(5).jpg,image(5).jpg,Can you name the scan view type?,This is a coronal view.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(6).jpg,image(6).jpg,Can you name the scan view type?,Scan is from coronal direction.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(7).jpg,image(7).jpg,Which plane is shown in the image?,Coronal perspective image.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(8).jpg,image(8).jpg,What is the view type of this image?,Coronal type image.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(10).jpg,image(10).jpg,What kind of image view is this?,Orientation: coronal.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(11).jpg,image(11).jpg,Which anatomical plane is used?,View type: coronal.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(13).jpg,image(13).jpg,Which plane is shown in the image?,The image is coronal.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(15).jpg,image(15).jpg,What image type is displayed here?,Coronal perspective image.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(18).jpg,image(18).jpg,Can you name the scan view type?,Sagittal perspective image.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(19).jpg,image(19).jpg,Can you name the scan view type?,Orientation: sagittal.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(20).jpg,image(20).jpg,Which plane is shown in the image?,Sagittal plane is shown.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(21).jpg,image(21).jpg,What's the viewing angle here?,View type: sagittal.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(22).jpg,image(22).jpg,Which plane is shown in the image?,Axial type image.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(23).jpg,image(23).jpg,Identify the image orientation.,This scan uses axial plane.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(27).jpg,image(27).jpg,In which direction is this MRI taken?,Coronal slice is shown.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(28).jpg,image(28).jpg,Which plane is shown in the image?,This scan uses coronal plane.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(30).jpg,image(30).jpg,What's the viewing angle here?,This is a sagittal view.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(31).jpg,image(31).jpg,What is the view type of this image?,Axial perspective image.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(34).jpg,image(34).jpg,In which direction is this MRI taken?,Sagittal slice is shown.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(35).jpg,image(35).jpg,What kind of image view is this?,The image is coronal.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(36).jpg,image(36).jpg,Can you name the scan view type?,Coronal type image.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(37).jpg,image(37).jpg,In which direction is this MRI taken?,Coronal slice is shown.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(38).jpg,image(38).jpg,What's the viewing angle here?,Orientation: coronal.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(41).jpg,image(41).jpg,What is the view type of this image?,Sagittal slice is shown.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(42).jpg,image(42).jpg,What kind of image view is this?,Sagittal type image.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(43).jpg,image(43).jpg,What is the imaging perspective?,This is a sagittal view.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(44).jpg,image(44).jpg,What kind of image view is this?,Coronal type image.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(45).jpg,image(45).jpg,Can you name the scan view type?,This scan uses coronal plane.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(46).jpg,image(46).jpg,In which direction is this MRI taken?,Coronal plane is shown.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(47).jpg,image(47).jpg,Identify the image orientation.,Scan is from coronal direction.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(48).jpg,image(48).jpg,What image type is displayed here?,Coronal slice is shown.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(49).jpg,image(49).jpg,Which anatomical plane is used?,Coronal slice is shown.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(51).jpg,image(51).jpg,What kind of image view is this?,Orientation: coronal.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(52).jpg,image(52).jpg,What's the viewing angle here?,View type: coronal.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(53).jpg,image(53).jpg,Can you name the scan view type?,This scan uses coronal plane.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(54).jpg,image(54).jpg,Can you name the scan view type?,This scan uses coronal plane.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(55).jpg,image(55).jpg,What is the view type of this image?,The image is coronal.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(56).jpg,image(56).jpg,Which anatomical plane is used?,The image is coronal.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(57).jpg,image(57).jpg,What is the imaging perspective?,Scan is from coronal direction.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(60).jpg,image(60).jpg,In which direction is this MRI taken?,Sagittal plane is shown.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(61).jpg,image(61).jpg,In which direction is this MRI taken?,Sagittal perspective image.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(63).jpg,image(63).jpg,What is the imaging perspective?,The image is sagittal.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(64).jpg,image(64).jpg,Can you name the scan view type?,View type: sagittal.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(65).jpg,image(65).jpg,Which anatomical plane is used?,This scan uses coronal plane.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(66).jpg,image(66).jpg,Which plane is shown in the image?,Coronal perspective image.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(67).jpg,image(67).jpg,Which anatomical plane is used?,This scan uses sagittal plane.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(68).jpg,image(68).jpg,Can you name the scan view type?,Sagittal type image.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(69).jpg,image(69).jpg,Which plane is shown in the image?,View type: sagittal.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(70).jpg,image(70).jpg,In which direction is this MRI taken?,Sagittal slice is shown.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(73).jpg,image(73).jpg,In which direction is this MRI taken?,The image is axial.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(76).jpg,image(76).jpg,What's the viewing angle here?,This is an axial view.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(77).jpg,image(77).jpg,What's the viewing angle here?,Scan is from axial direction.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(78).jpg,image(78).jpg,What is the imaging perspective?,Scan is from axial direction.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(79).jpg,image(79).jpg,What image type is displayed here?,Orientation: coronal.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(81).jpg,image(81).jpg,What is the imaging perspective?,Coronal type image.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(82).jpg,image(82).jpg,Identify the image orientation.,This is a coronal view.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(85).jpg,image(85).jpg,In which direction is this MRI taken?,This is a coronal view.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(86).jpg,image(86).jpg,What is the view type of this image?,This is a coronal view.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(87).jpg,image(87).jpg,What is the imaging perspective?,Orientation: sagittal.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(88).jpg,image(88).jpg,What's the viewing angle here?,Orientation: sagittal.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(89).jpg,image(89).jpg,What is the imaging perspective?,The image is axial.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(90).jpg,image(90).jpg,Identify the image orientation.,The image is axial.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(91).jpg,image(91).jpg,Can you name the scan view type?,This is an axial view.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(92).jpg,image(92).jpg,What is the imaging perspective?,Coronal plane is shown.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(93).jpg,image(93).jpg,Which anatomical plane is used?,The image is coronal.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(94).jpg,image(94).jpg,What kind of image view is this?,Coronal slice is shown.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(95).jpg,image(95).jpg,Can you name the scan view type?,Orientation: coronal.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(96).jpg,image(96).jpg,Which anatomical plane is used?,Scan is from coronal direction.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(97).jpg,image(97).jpg,Which anatomical plane is used?,Coronal slice is shown.,image_type
+Brain Tumor MRI,Brain Tumor MRI/Test/pituitary_tumor/image(98).jpg,image(98).jpg,Which plane is shown in the image?,Orientation: coronal.,image_type
