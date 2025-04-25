@@ -1,0 +1,1135 @@
+id,image_path,question_type,question_prompt,gt_question,gt_answer,model_output,bb_gt_present,bb_pred_present,filtered_bb_pred
+1,/home/parthpk/NeuroChat//Brain Tumor Classification (MRI)/Test/notumor/Te-no_0010.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]",There is no tumor in this image,"```json
+{""answer"": ""There is no tumor in this image.""}
+```",False,False,The bounding box does not exist.
+2,/home/parthpk/NeuroChat//Brain Tumor Classification (MRI)/Test/notumor/Te-no_0011.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]",There is no tumor in this image,"```json
+{""answer"": ""There is no tumor in this image.""}
+```",False,False,The bounding box does not exist.
+3,/home/parthpk/NeuroChat//Brain Tumor Classification (MRI)/Test/notumor/Te-no_0012.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]",There is no tumor in this image,"```json
+{""answer"": ""There is no tumor in this image.""}
+```",False,False,The bounding box does not exist.
+4,/home/parthpk/NeuroChat//Brain Tumor Classification (MRI)/Test/notumor/Te-no_0013.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]",There is no tumor in this image,"```json
+[
+	{""bbox_2d"": [100, 138, 132, 162], ""label"": ""tumor""}
+]
+```",False,True,"[100, 138, 132, 162]"
+5,/home/parthpk/NeuroChat//Brain Tumor Classification (MRI)/Test/notumor/Te-no_0014.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]",There is no tumor in this image,"```json
+{""answer"": ""There is no tumor in this image.""}
+```",False,False,The bounding box does not exist.
+6,/home/parthpk/NeuroChat//Brain Tumor Classification (MRI)/Test/notumor/Te-no_0015.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]",There is no tumor in this image,"```json
+[
+	{""bbox_2d"": [104, 170, 146, 212], ""label"": ""tumor""}
+]
+```",False,True,"[104, 170, 146, 212]"
+7,/home/parthpk/NeuroChat//Brain Tumor Classification (MRI)/Test/notumor/Te-no_0016.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]",There is no tumor in this image,"```json
+{""answer"": ""There is no tumor in this image.""}
+```",False,False,The bounding box does not exist.
+8,/home/parthpk/NeuroChat//Brain Tumor Classification (MRI)/Test/notumor/Te-no_0017.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]",There is no tumor in this image,"```json
+[
+	{""bbox_2d"": [148, 176, 176, 201], ""label"": ""tumor""}
+]
+```",False,True,"[148, 176, 176, 201]"
+9,/home/parthpk/NeuroChat//Brain Tumor Classification (MRI)/Test/notumor/Te-no_0018.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]",There is no tumor in this image,"```json
+[
+	{""bbox_2d"": [124, 24, 156, 50], ""label"": ""tumor""}
+]
+```",False,True,"[124, 24, 156, 50]"
+10,/home/parthpk/NeuroChat//Brain Tumor Classification (MRI)/Test/notumor/Te-no_0019.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]",There is no tumor in this image,"```json
+{""answer"": ""There is no tumor in this image.""}
+```",False,False,The bounding box does not exist.
+11,/home/parthpk/NeuroChat//Brain Tumor Classification (MRI)/Test/notumor/Te-no_0020.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]",There is no tumor in this image,"```json
+{""answer"": ""There is no tumor in this image.""}
+```",False,False,The bounding box does not exist.
+12,/home/parthpk/NeuroChat//Brain Tumor Classification (MRI)/Test/notumor/Te-no_0021.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]",There is no tumor in this image,"```json
+{""answer"": ""There is no tumor in this image.""}
+```",False,False,The bounding box does not exist.
+13,/home/parthpk/NeuroChat//Brain Tumor Classification (MRI)/Test/notumor/Te-no_0022.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]",There is no tumor in this image,"```json
+{""answer"": ""There is no tumor in this image.""}
+```",False,False,The bounding box does not exist.
+14,/home/parthpk/NeuroChat//Brain Tumor Classification (MRI)/Test/notumor/Te-no_0023.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]",There is no tumor in this image,"```json
+[
+	{""bbox_2d"": [84, 46, 126, 100], ""label"": ""tumor""}
+]
+```",False,True,"[84, 46, 126, 100]"
+15,/home/parthpk/NeuroChat//Brain Tumor Classification (MRI)/Test/notumor/Te-no_0024.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]",There is no tumor in this image,"```json
+[
+	{""bbox_2d"": [126, 124, 172, 166], ""label"": ""tumor""}
+]
+```",False,True,"[126, 124, 172, 166]"
+16,/home/parthpk/NeuroChat//Brain Tumor Classification (MRI)/Test/notumor/Te-no_0025.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]",There is no tumor in this image,"```json
+{""answer"": ""There is no tumor in this image.""}
+```",False,False,The bounding box does not exist.
+17,/home/parthpk/NeuroChat//Brain Tumor Classification (MRI)/Test/notumor/Te-no_0026.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]",There is no tumor in this image,"```json
+{""answer"": ""There is no tumor in this image.""}
+```",False,False,The bounding box does not exist.
+18,/home/parthpk/NeuroChat//Brain Tumor Classification (MRI)/Test/notumor/Te-no_0027.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]",There is no tumor in this image,"```json
+[
+	{""bbox_2d"": [126, 178, 162, 215], ""label"": ""tumor""}
+]
+```",False,True,"[126, 178, 162, 215]"
+19,/home/parthpk/NeuroChat//Brain Tumor Classification (MRI)/Test/notumor/Te-no_0028.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]",There is no tumor in this image,"```json
+[
+	{""bbox_2d"": [111, 122, 148, 172], ""label"": ""tumor""}
+]
+```",False,True,"[111, 122, 148, 172]"
+20,/home/parthpk/NeuroChat//Brain Tumor Classification (MRI)/Test/notumor/Te-no_0029.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]",There is no tumor in this image,"```json
+[
+	{""bbox_2d"": [142, 146, 164, 173], ""label"": ""tumor""}
+]
+```",False,True,"[142, 146, 164, 173]"
+21,/home/parthpk/NeuroChat//Brain Tumor Classification (MRI)/Test/notumor/Te-no_0030.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]",There is no tumor in this image,"```json
+{""answer"": ""There is no tumor in this image.""}
+```",False,False,The bounding box does not exist.
+22,/home/parthpk/NeuroChat//Brain Tumor Classification (MRI)/Test/notumor/Te-no_0031.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]",There is no tumor in this image,"```json
+{""answer"": ""There is no tumor in this image.""}
+```",False,False,The bounding box does not exist.
+23,/home/parthpk/NeuroChat//Brain Tumor Classification (MRI)/Test/notumor/Te-no_0032.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]",There is no tumor in this image,"```json
+{""answer"": ""There is no tumor in this image.""}
+```",False,False,The bounding box does not exist.
+24,/home/parthpk/NeuroChat//Brain Tumor Classification (MRI)/Test/notumor/Te-no_0033.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]",There is no tumor in this image,"```json
+[
+	{""bbox_2d"": [133, 66, 188, 120], ""label"": ""tumor""}
+]
+```",False,True,"[133, 66, 188, 120]"
+25,/home/parthpk/NeuroChat//Brain Tumor Classification (MRI)/Test/notumor/Te-no_0034.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]",There is no tumor in this image,"```json
+{""answer"": ""There is no tumor in this image.""}
+```",False,False,The bounding box does not exist.
+26,/home/parthpk/NeuroChat//Brain Tumor Classification (MRI)/Test/notumor/Te-no_0035.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]",There is no tumor in this image,"```json
+[
+	{""bbox_2d"": [104, 100, 156, 152], ""label"": ""tumor""}
+]
+```",False,True,"[104, 100, 156, 152]"
+27,/home/parthpk/NeuroChat//Brain Tumor Classification (MRI)/Test/notumor/Te-no_0036.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]",There is no tumor in this image,"```json
+{""answer"": ""There is no tumor in this image.""}
+```",False,False,The bounding box does not exist.
+28,/home/parthpk/NeuroChat//Brain Tumor Classification (MRI)/Test/notumor/Te-no_0037.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]",There is no tumor in this image,"```json
+{""answer"": ""There is no tumor in this image.""}
+```",False,False,The bounding box does not exist.
+29,/home/parthpk/NeuroChat//Brain Tumor Classification (MRI)/Test/notumor/Te-no_0038.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]",There is no tumor in this image,"```json
+[
+	{""bbox_2d"": [104, 114, 144, 148], ""label"": ""tumor""}
+]
+```",False,True,"[104, 114, 144, 148]"
+30,/home/parthpk/NeuroChat//Brain Tumor Classification (MRI)/Test/notumor/Te-no_0039.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]",There is no tumor in this image,"```json
+[
+	{""bbox_2d"": [108, 126, 138, 155], ""label"": ""tumor""}
+]
+```",False,True,"[108, 126, 138, 155]"
+31,/home/parthpk/NeuroChat//Brain Tumor Classification (MRI)/Test/notumor/Te-no_0040.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]",There is no tumor in this image,"```json
+{""answer"": ""There is no tumor in this image.""}
+```",False,False,The bounding box does not exist.
+32,/home/parthpk/NeuroChat//Brain Tumor Classification (MRI)/Test/notumor/Te-no_0041.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]",There is no tumor in this image,"```json
+{""answer"": ""There is no tumor in this image.""}
+```",False,False,The bounding box does not exist.
+33,/home/parthpk/NeuroChat//Brain Tumor Classification (MRI)/Test/notumor/Te-no_0042.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]",There is no tumor in this image,"```json
+{""answer"": ""There is no tumor in this image.""}
+```",False,False,The bounding box does not exist.
+34,/home/parthpk/NeuroChat//Brain Tumor Classification (MRI)/Test/notumor/Te-no_0043.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]",There is no tumor in this image,"```json
+{""answer"": ""There is no tumor in this image.""}
+```",False,False,The bounding box does not exist.
+35,/home/parthpk/NeuroChat//Brain Tumor Classification (MRI)/Test/notumor/Te-no_0044.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]",There is no tumor in this image,"```json
+{""answer"": ""There is no tumor in this image.""}
+```",False,False,The bounding box does not exist.
+36,/home/parthpk/NeuroChat//Brain Tumor Classification (MRI)/Test/notumor/Te-no_0045.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]",There is no tumor in this image,"```json
+[
+	{""bbox_2d"": [144, 108, 178, 146], ""label"": ""tumor""}
+]
+```",False,True,"[144, 108, 178, 146]"
+37,/home/parthpk/NeuroChat//Brain Tumor Classification (MRI)/Test/notumor/Te-no_0046.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]",There is no tumor in this image,"```json
+{""answer"": ""There is no tumor in this image.""}
+```",False,False,The bounding box does not exist.
+38,/home/parthpk/NeuroChat//Brain Tumor Classification (MRI)/Test/notumor/Te-no_0047.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]",There is no tumor in this image,"```json
+{""answer"": ""There is no tumor in this image.""}
+```",False,False,The bounding box does not exist.
+39,/home/parthpk/NeuroChat//Brain Tumor Classification (MRI)/Test/notumor/Te-no_0048.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]",There is no tumor in this image,"```json
+{""answer"": ""There is no tumor in this image.""}
+```",False,False,The bounding box does not exist.
+40,/home/parthpk/NeuroChat//Brain Tumor Classification (MRI)/Test/notumor/Te-no_0049.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]",There is no tumor in this image,"```json
+[
+	{""bbox_2d"": [102, 138, 152, 160], ""label"": ""tumor""}
+]
+```",False,True,"[102, 138, 152, 160]"
+41,/home/parthpk/NeuroChat//Brain Tumor MRI/Test/no_tumor/image(0).jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]",There is no tumor in this image,"```json
+[
+	{""bbox_2d"": [128, 128, 178, 176], ""label"": ""tumor""}
+]
+```",False,True,"[128, 128, 178, 176]"
+42,/home/parthpk/NeuroChat//Brain Tumor MRI/Test/no_tumor/image(1).jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]",There is no tumor in this image,"```json
+{""answer"": ""There is no tumor in this image.""}
+```",False,False,The bounding box does not exist.
+43,/home/parthpk/NeuroChat//Brain Tumor MRI/Test/no_tumor/image(2).jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]",There is no tumor in this image,"```json
+{""answer"": ""There is no tumor in this image.""}
+```",False,False,The bounding box does not exist.
+44,/home/parthpk/NeuroChat//Brain Tumor MRI/Test/no_tumor/image(3).jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]",There is no tumor in this image,"```json
+[
+	{""bbox_2d"": [126, 184, 152, 214], ""label"": ""tumor""}
+]
+```",False,True,"[126, 184, 152, 214]"
+45,/home/parthpk/NeuroChat//Brain Tumor MRI/Test/no_tumor/image(4).jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]",There is no tumor in this image,"```json
+[
+	{""bbox_2d"": [118, 107, 147, 166], ""label"": ""tumor""}
+]
+```",False,True,"[118, 107, 147, 166]"
+46,/home/parthpk/NeuroChat//Brain Tumor MRI/Test/no_tumor/image(5).jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]",There is no tumor in this image,"```json
+[
+	{""bbox_2d"": [102, 136, 146, 160], ""label"": ""tumor""}
+]
+```",False,True,"[102, 136, 146, 160]"
+47,/home/parthpk/NeuroChat//Brain Tumor MRI/Test/no_tumor/image(6).jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]",There is no tumor in this image,"```json
+{""answer"": ""There is no tumor in this image.""}
+```",False,False,The bounding box does not exist.
+48,/home/parthpk/NeuroChat//Brain Tumor MRI/Test/no_tumor/image(7).jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]",There is no tumor in this image,"```json
+[
+	{""bbox_2d"": [104, 112, 176, 192], ""label"": ""tumor""}
+]
+```",False,True,"[104, 112, 176, 192]"
+49,/home/parthpk/NeuroChat//Brain Tumor MRI/Test/no_tumor/image(8).jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]",There is no tumor in this image,"```json
+{""answer"": ""There is no tumor in this image.""}
+```",False,False,The bounding box does not exist.
+50,/home/parthpk/NeuroChat//Brain Tumor MRI/Test/no_tumor/image(9).jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]",There is no tumor in this image,"```json
+{""answer"": ""There is no tumor in this image.""}
+```",False,False,The bounding box does not exist.
+51,/home/parthpk/NeuroChat//brain tumor/images/662.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[288, 281, 395, 375]","```json
+[
+	{""bbox_2d"": [146, 139, 199, 189], ""label"": ""tumor""}
+]
+```",True,True,"[146, 139, 199, 189]"
+52,/home/parthpk/NeuroChat//brain tumor/images/663.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[292, 286, 386, 368]","```json
+[
+	{""bbox_2d"": [146, 144, 190, 185], ""label"": ""tumor""}
+]
+```",True,True,"[146, 144, 190, 185]"
+53,/home/parthpk/NeuroChat//brain tumor/images/664.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[303, 117, 374, 185]","```json
+[
+	{""bbox_2d"": [152, 56, 186, 92], ""label"": ""tumor""}
+]
+```",True,True,"[152, 56, 186, 92]"
+54,/home/parthpk/NeuroChat//brain tumor/images/665.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[303, 112, 378, 190]","```json
+[
+	{""bbox_2d"": [150, 58, 188, 98], ""label"": ""tumor""}
+]
+```",True,True,"[150, 58, 188, 98]"
+55,/home/parthpk/NeuroChat//brain tumor/images/666.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[303, 115, 376, 188]","```json
+[
+	{""bbox_2d"": [152, 58, 186, 96], ""label"": ""tumor""}
+]
+```",True,True,"[152, 58, 186, 96]"
+56,/home/parthpk/NeuroChat//brain tumor/images/667.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[307, 117, 365, 177]","```json
+[
+	{""bbox_2d"": [152, 64, 184, 92], ""label"": ""tumor""}
+]
+```",True,True,"[152, 64, 184, 92]"
+57,/home/parthpk/NeuroChat//brain tumor/images/668.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[275, 70, 342, 134]","```json
+[
+	{""bbox_2d"": [136, 36, 175, 68], ""label"": ""tumor""}
+]
+```",True,True,"[136, 36, 175, 68]"
+58,/home/parthpk/NeuroChat//brain tumor/images/669.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[271, 64, 347, 137]","```json
+[
+	{""bbox_2d"": [136, 28, 172, 69], ""label"": ""tumor""}
+]
+```",True,True,"[136, 28, 172, 69]"
+59,/home/parthpk/NeuroChat//brain tumor/images/670.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[275, 60, 351, 140]","```json
+[
+	{""bbox_2d"": [136, 30, 172, 72], ""label"": ""tumor""}
+]
+```",True,True,"[136, 30, 172, 72]"
+60,/home/parthpk/NeuroChat//brain tumor/images/671.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[276, 62, 347, 139]","```json
+[
+	{""bbox_2d"": [137, 32, 176, 71], ""label"": ""tumor""}
+]
+```",True,True,"[137, 32, 176, 71]"
+61,/home/parthpk/NeuroChat//brain tumor/images/672.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[279, 70, 340, 131]","```json
+[
+	{""bbox_2d"": [138, 36, 171, 66], ""label"": ""tumor""}
+]
+```",True,True,"[138, 36, 171, 66]"
+62,/home/parthpk/NeuroChat//brain tumor/images/673.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[279, 247, 310, 275]","```json
+[
+	{""bbox_2d"": [138, 122, 158, 138], ""label"": ""tumor""}
+]
+```",True,True,"[138, 122, 158, 138]"
+63,/home/parthpk/NeuroChat//brain tumor/images/674.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[183, 254, 236, 289]","```json
+[
+	{""bbox_2d"": [92, 128, 122, 146], ""label"": ""tumor""}
+]
+```",True,True,"[92, 128, 122, 146]"
+64,/home/parthpk/NeuroChat//brain tumor/images/675.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[345, 243, 407, 321]","```json
+[
+	{""bbox_2d"": [168, 126, 202, 162], ""label"": ""tumor""}
+]
+```",True,True,"[168, 126, 202, 162]"
+65,/home/parthpk/NeuroChat//brain tumor/images/676.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[339, 239, 421, 328]","```json
+[
+	{""bbox_2d"": [168, 120, 212, 164], ""label"": ""tumor""}
+]
+```",True,True,"[168, 120, 212, 164]"
+66,/home/parthpk/NeuroChat//brain tumor/images/677.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[336, 239, 428, 330]","```json
+[
+	{""bbox_2d"": [168, 122, 215, 164], ""label"": ""tumor""}
+]
+```",True,True,"[168, 122, 215, 164]"
+67,/home/parthpk/NeuroChat//brain tumor/images/678.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[337, 240, 424, 329]","```json
+[
+	{""bbox_2d"": [166, 94, 214, 136], ""label"": ""tumor""}
+]
+```",True,True,"[166, 94, 214, 136]"
+68,/home/parthpk/NeuroChat//brain tumor/images/679.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[346, 251, 404, 310]","```json
+[
+	{""bbox_2d"": [168, 126, 206, 158], ""label"": ""tumor""}
+]
+```",True,True,"[168, 126, 206, 158]"
+69,/home/parthpk/NeuroChat//brain tumor/images/680.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[240, 76, 369, 162]","```json
+[
+	{""bbox_2d"": [124, 36, 182, 81], ""label"": ""tumor""}
+]
+```",True,True,"[124, 36, 182, 81]"
+70,/home/parthpk/NeuroChat//brain tumor/images/681.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[237, 72, 374, 168]","```json
+[
+	{""bbox_2d"": [118, 34, 185, 84], ""label"": ""tumor""}
+]
+```",True,True,"[118, 34, 185, 84]"
+71,/home/parthpk/NeuroChat//brain tumor/images/682.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[234, 67, 373, 165]","```json
+[
+	{""bbox_2d"": [119, 26, 187, 82], ""label"": ""tumor""}
+]
+```",True,True,"[119, 26, 187, 82]"
+72,/home/parthpk/NeuroChat//brain tumor/images/683.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[240, 57, 375, 160]","```json
+[
+	{""bbox_2d"": [120, 30, 186, 78], ""label"": ""tumor""}
+]
+```",True,True,"[120, 30, 186, 78]"
+73,/home/parthpk/NeuroChat//brain tumor/images/684.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[243, 54, 369, 156]","```json
+[
+	{""bbox_2d"": [122, 28, 186, 78], ""label"": ""tumor""}
+]
+```",True,True,"[122, 28, 186, 78]"
+74,/home/parthpk/NeuroChat//brain tumor/images/685.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[258, 56, 360, 134]","```json
+[
+	{""bbox_2d"": [130, 28, 188, 72], ""label"": ""tumor""}
+]
+```",True,True,"[130, 28, 188, 72]"
+75,/home/parthpk/NeuroChat//brain tumor/images/686.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[308, 301, 367, 356]","```json
+[
+	{""bbox_2d"": [154, 150, 186, 179], ""label"": ""tumor""}
+]
+```",True,True,"[154, 150, 186, 179]"
+76,/home/parthpk/NeuroChat//brain tumor/images/687.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[308, 303, 367, 348]","```json
+[
+	{""bbox_2d"": [154, 150, 184, 172], ""label"": ""tumor""}
+]
+```",True,True,"[154, 150, 184, 172]"
+77,/home/parthpk/NeuroChat//brain tumor/images/688.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[181, 94, 235, 147]","```json
+[
+	{""bbox_2d"": [86, 22, 120, 45], ""label"": ""tumor""}
+]
+```",True,True,"[86, 22, 120, 45]"
+78,/home/parthpk/NeuroChat//brain tumor/images/689.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[172, 90, 238, 152]","```json
+[
+	{""bbox_2d"": [86, 50, 122, 78], ""label"": ""tumor""}
+]
+```",True,True,"[86, 50, 122, 78]"
+79,/home/parthpk/NeuroChat//brain tumor/images/690.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[170, 92, 237, 152]","```json
+[
+	{""bbox_2d"": [86, 49, 120, 78], ""label"": ""tumor""}
+]
+```",True,True,"[86, 49, 120, 78]"
+80,/home/parthpk/NeuroChat//brain tumor/images/691.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[173, 98, 231, 152]","```json
+[
+	{""bbox_2d"": [85, 47, 120, 79], ""label"": ""tumor""}
+]
+```",True,True,"[85, 47, 120, 79]"
+81,/home/parthpk/NeuroChat//brain tumor/images/692.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[177, 101, 225, 148]","```json
+[
+	{""bbox_2d"": [86, 52, 114, 78], ""label"": ""tumor""}
+]
+```",True,True,"[86, 52, 114, 78]"
+82,/home/parthpk/NeuroChat//brain tumor/images/693.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[152, 127, 190, 169]","```json
+[
+	{""bbox_2d"": [74, 64, 96, 86], ""label"": ""tumor""}
+]
+```",True,True,"[74, 64, 96, 86]"
+83,/home/parthpk/NeuroChat//brain tumor/images/694.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[116, 121, 194, 186]","```json
+[
+	{""bbox_2d"": [56, 61, 100, 88], ""label"": ""tumor""}
+]
+```",True,True,"[56, 61, 100, 88]"
+84,/home/parthpk/NeuroChat//brain tumor/images/695.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[119, 138, 172, 187]","```json
+[
+	{""bbox_2d"": [68, 68, 95, 94], ""label"": ""tumor""}
+]
+```",True,True,"[68, 68, 95, 94]"
+85,/home/parthpk/NeuroChat//brain tumor/images/696.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[367, 116, 388, 142]","```json
+[
+	{""bbox_2d"": [176, 56, 200, 98], ""label"": ""tumor""}
+]
+```",True,True,"[176, 56, 200, 98]"
+86,/home/parthpk/NeuroChat//brain tumor/images/697.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[287, 73, 389, 167]","```json
+[
+	{""bbox_2d"": [147, 44, 192, 82], ""label"": ""tumor""}
+]
+```",True,True,"[147, 44, 192, 82]"
+87,/home/parthpk/NeuroChat//brain tumor/images/698.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[284, 65, 397, 170]","```json
+[
+	{""bbox_2d"": [144, 30, 196, 84], ""label"": ""tumor""}
+]
+```",True,True,"[144, 30, 196, 84]"
+88,/home/parthpk/NeuroChat//brain tumor/images/699.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[286, 69, 398, 169]","```json
+[
+	{""bbox_2d"": [144, 34, 198, 84], ""label"": ""tumor""}
+]
+```",True,True,"[144, 34, 198, 84]"
+89,/home/parthpk/NeuroChat//brain tumor/images/700.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[299, 80, 398, 165]","```json
+[
+	{""bbox_2d"": [148, 38, 198, 84], ""label"": ""tumor""}
+]
+```",True,True,"[148, 38, 198, 84]"
+90,/home/parthpk/NeuroChat//brain tumor/images/701.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[299, 89, 392, 166]","```json
+[
+	{""bbox_2d"": [154, 44, 198, 82], ""label"": ""tumor""}
+]
+```",True,True,"[154, 44, 198, 82]"
+91,/home/parthpk/NeuroChat//brain tumor/images/702.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[319, 105, 386, 168]","```json
+[
+	{""bbox_2d"": [164, 62, 196, 84], ""label"": ""tumor""}
+]
+```",True,True,"[164, 62, 196, 84]"
+92,/home/parthpk/NeuroChat//brain tumor/images/703.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[307, 149, 382, 231]","```json
+[
+	{""bbox_2d"": [156, 78, 192, 115], ""label"": ""tumor""}
+]
+```",True,True,"[156, 78, 192, 115]"
+93,/home/parthpk/NeuroChat//brain tumor/images/704.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[300, 146, 391, 242]","```json
+[
+	{""bbox_2d"": [148, 74, 196, 122], ""label"": ""tumor""}
+]
+```",True,True,"[148, 74, 196, 122]"
+94,/home/parthpk/NeuroChat//brain tumor/images/705.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[299, 144, 394, 244]","```json
+[
+	{""bbox_2d"": [149, 72, 196, 124], ""label"": ""tumor""}
+]
+```",True,True,"[149, 72, 196, 124]"
+95,/home/parthpk/NeuroChat//brain tumor/images/706.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[305, 144, 395, 246]","```json
+[
+	{""bbox_2d"": [152, 72, 198, 122], ""label"": ""tumor""}
+]
+```",True,True,"[152, 72, 198, 122]"
+96,/home/parthpk/NeuroChat//brain tumor/images/707.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[287, 148, 386, 269]","```json
+[
+	{""bbox_2d"": [144, 74, 197, 134], ""label"": ""tumor""}
+]
+```",True,True,"[144, 74, 197, 134]"
+97,/home/parthpk/NeuroChat//brain tumor/images/708.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[274, 160, 394, 272]","```json
+[
+	{""bbox_2d"": [142, 80, 196, 136], ""label"": ""tumor""}
+]
+```",True,True,"[142, 80, 196, 136]"
+98,/home/parthpk/NeuroChat//brain tumor/images/1791.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[194, 306, 223, 336]","```json
+[
+	{""bbox_2d"": [96, 152, 114, 171], ""label"": ""tumor""}
+]
+```",True,True,"[96, 152, 114, 171]"
+99,/home/parthpk/NeuroChat//brain tumor/images/1792.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[194, 303, 216, 325]","```json
+[
+	{""bbox_2d"": [94, 152, 114, 168], ""label"": ""tumor""}
+]
+```",True,True,"[94, 152, 114, 168]"
+100,/home/parthpk/NeuroChat//brain tumor/images/1793.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[194, 302, 223, 338]","```json
+[
+	{""bbox_2d"": [96, 151, 112, 169], ""label"": ""tumor""}
+]
+```",True,True,"[96, 151, 112, 169]"
+101,/home/parthpk/NeuroChat//brain tumor/images/1794.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[190, 307, 230, 335]","```json
+[
+	{""bbox_2d"": [98, 154, 118, 168], ""label"": ""tumor""}
+]
+```",True,True,"[98, 154, 118, 168]"
+102,/home/parthpk/NeuroChat//brain tumor/images/1795.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[190, 240, 241, 305]","```json
+[
+	{""bbox_2d"": [96, 114, 120, 148], ""label"": ""tumor""}
+]
+```",True,True,"[96, 114, 120, 148]"
+103,/home/parthpk/NeuroChat//brain tumor/images/1796.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[194, 240, 241, 306]","```json
+[
+	{""bbox_2d"": [97, 118, 125, 151], ""label"": ""tumor""}
+]
+```",True,True,"[97, 118, 125, 151]"
+104,/home/parthpk/NeuroChat//brain tumor/images/1797.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[196, 240, 236, 308]","```json
+[
+	{""bbox_2d"": [96, 146, 123, 179], ""label"": ""tumor""}
+]
+```",True,True,"[96, 146, 123, 179]"
+105,/home/parthpk/NeuroChat//brain tumor/images/1798.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[200, 242, 238, 308]","```json
+[
+	{""bbox_2d"": [98, 120, 120, 150], ""label"": ""tumor""}
+]
+```",True,True,"[98, 120, 120, 150]"
+106,/home/parthpk/NeuroChat//brain tumor/images/1799.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[198, 242, 236, 307]","```json
+[
+	{""bbox_2d"": [98, 134, 120, 154], ""label"": ""tumor""}
+]
+```",True,True,"[98, 134, 120, 154]"
+107,/home/parthpk/NeuroChat//brain tumor/images/1800.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[199, 276, 241, 303]","```json
+[
+	{""bbox_2d"": [96, 138, 124, 157], ""label"": ""tumor""}
+]
+```",True,True,"[96, 138, 124, 157]"
+108,/home/parthpk/NeuroChat//brain tumor/images/1801.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[244, 252, 275, 280]","```json
+[
+	{""bbox_2d"": [120, 94, 146, 120], ""label"": ""tumor""}
+]
+```",True,True,"[120, 94, 146, 120]"
+109,/home/parthpk/NeuroChat//brain tumor/images/1802.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[236, 241, 276, 282]","```json
+[
+	{""bbox_2d"": [136, 86, 186, 126], ""label"": ""tumor""}
+]
+```",True,True,"[136, 86, 186, 126]"
+110,/home/parthpk/NeuroChat//brain tumor/images/1803.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[236, 248, 277, 290]","```json
+[
+	{""bbox_2d"": [118, 126, 150, 154], ""label"": ""tumor""}
+]
+```",True,True,"[118, 126, 150, 154]"
+111,/home/parthpk/NeuroChat//brain tumor/images/1804.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[236, 252, 282, 286]","```json
+[
+	{""bbox_2d"": [124, 132, 146, 166], ""label"": ""tumor""}
+]
+```",True,True,"[124, 132, 146, 166]"
+112,/home/parthpk/NeuroChat//brain tumor/images/1805.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[237, 254, 273, 285]","```json
+[
+	{""bbox_2d"": [114, 124, 146, 152], ""label"": ""tumor""}
+]
+```",True,True,"[114, 124, 146, 152]"
+113,/home/parthpk/NeuroChat//brain tumor/images/1806.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[192, 296, 251, 358]","```json
+[
+	{""bbox_2d"": [100, 146, 132, 178], ""label"": ""tumor""}
+]
+```",True,True,"[100, 146, 132, 178]"
+114,/home/parthpk/NeuroChat//brain tumor/images/1807.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[193, 292, 246, 362]","```json
+[
+	{""bbox_2d"": [94, 148, 122, 179], ""label"": ""tumor""}
+]
+```",True,True,"[94, 148, 122, 179]"
+115,/home/parthpk/NeuroChat//brain tumor/images/1808.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[187, 291, 250, 370]","```json
+[
+	{""bbox_2d"": [94, 146, 122, 180], ""label"": ""tumor""}
+]
+```",True,True,"[94, 146, 122, 180]"
+116,/home/parthpk/NeuroChat//brain tumor/images/1809.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[194, 293, 244, 360]","```json
+[
+	{""bbox_2d"": [96, 144, 124, 178], ""label"": ""tumor""}
+]
+```",True,True,"[96, 144, 124, 178]"
+117,/home/parthpk/NeuroChat//brain tumor/images/1810.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[196, 294, 245, 355]","```json
+[
+	{""bbox_2d"": [96, 146, 122, 178], ""label"": ""tumor""}
+]
+```",True,True,"[96, 146, 122, 178]"
+118,/home/parthpk/NeuroChat//brain tumor/images/1811.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[193, 294, 241, 360]","```json
+[
+	{""bbox_2d"": [96, 146, 124, 175], ""label"": ""tumor""}
+]
+```",True,True,"[96, 146, 124, 175]"
+119,/home/parthpk/NeuroChat//brain tumor/images/1812.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[197, 296, 239, 356]","```json
+[
+	{""bbox_2d"": [100, 149, 132, 176], ""label"": ""tumor""}
+]
+```",True,True,"[100, 149, 132, 176]"
+120,/home/parthpk/NeuroChat//brain tumor/images/1813.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[178, 313, 227, 342]","```json
+[
+	{""bbox_2d"": [92, 156, 122, 178], ""label"": ""tumor""}
+]
+```",True,True,"[92, 156, 122, 178]"
+121,/home/parthpk/NeuroChat//brain tumor/images/1814.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[178, 310, 228, 342]","```json
+[
+	{""bbox_2d"": [88, 152, 112, 172], ""label"": ""tumor""}
+]
+```",True,True,"[88, 152, 112, 172]"
+122,/home/parthpk/NeuroChat//brain tumor/images/1815.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[172, 283, 223, 345]","```json
+[
+	{""bbox_2d"": [88, 140, 117, 170], ""label"": ""tumor""}
+]
+```",True,True,"[88, 140, 117, 170]"
+123,/home/parthpk/NeuroChat//brain tumor/images/1816.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[170, 284, 220, 342]","```json
+[
+	{""bbox_2d"": [86, 140, 108, 167], ""label"": ""tumor""}
+]
+```",True,True,"[86, 140, 108, 167]"
+124,/home/parthpk/NeuroChat//brain tumor/images/1817.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[168, 282, 218, 340]","```json
+[
+	{""bbox_2d"": [86, 140, 110, 166], ""label"": ""tumor""}
+]
+```",True,True,"[86, 140, 110, 166]"
+125,/home/parthpk/NeuroChat//brain tumor/images/1818.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[168, 280, 232, 343]","```json
+[
+	{""bbox_2d"": [84, 139, 114, 168], ""label"": ""tumor""}
+]
+```",True,True,"[84, 139, 114, 168]"
+126,/home/parthpk/NeuroChat//brain tumor/images/1819.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[208, 303, 271, 362]","```json
+[
+	{""bbox_2d"": [136, 93, 162, 116], ""label"": ""tumor""}
+]
+```",True,True,"[136, 93, 162, 116]"
+127,/home/parthpk/NeuroChat//brain tumor/images/1820.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[199, 298, 252, 346]","```json
+[
+	{""bbox_2d"": [92, 146, 128, 171], ""label"": ""tumor""}
+]
+```",True,True,"[92, 146, 128, 171]"
+128,/home/parthpk/NeuroChat//brain tumor/images/1821.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[191, 268, 230, 304]","```json
+[
+	{""bbox_2d"": [94, 132, 126, 158], ""label"": ""tumor""}
+]
+```",True,True,"[94, 132, 126, 158]"
+129,/home/parthpk/NeuroChat//brain tumor/images/1822.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[193, 292, 259, 359]","```json
+[
+	{""bbox_2d"": [102, 146, 128, 178], ""label"": ""tumor""}
+]
+```",True,True,"[102, 146, 128, 178]"
+130,/home/parthpk/NeuroChat//brain tumor/images/1823.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[180, 260, 258, 357]","```json
+[
+	{""bbox_2d"": [92, 132, 127, 152], ""label"": ""tumor""}
+]
+```",True,True,"[92, 132, 127, 152]"
+131,/home/parthpk/NeuroChat//brain tumor/images/1824.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[179, 255, 257, 365]","```json
+[
+	{""bbox_2d"": [92, 128, 128, 180], ""label"": ""tumor""}
+]
+```",True,True,"[92, 128, 128, 180]"
+132,/home/parthpk/NeuroChat//brain tumor/images/1825.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[182, 251, 256, 363]","```json
+[
+	{""bbox_2d"": [92, 128, 126, 180], ""label"": ""tumor""}
+]
+```",True,True,"[92, 128, 126, 180]"
+133,/home/parthpk/NeuroChat//brain tumor/images/1826.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[178, 248, 255, 366]","```json
+[
+	{""bbox_2d"": [90, 126, 122, 175], ""label"": ""tumor""}
+]
+```",True,True,"[90, 126, 122, 175]"
+134,/home/parthpk/NeuroChat//brain tumor/images/1827.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[172, 248, 254, 363]","```json
+[
+	{""bbox_2d"": [86, 126, 126, 182], ""label"": ""tumor""}
+]
+```",True,True,"[86, 126, 126, 182]"
+135,/home/parthpk/NeuroChat//brain tumor/images/1828.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[166, 252, 257, 363]","```json
+[
+	{""bbox_2d"": [88, 128, 122, 172], ""label"": ""tumor""}
+]
+```",True,True,"[88, 128, 122, 172]"
+136,/home/parthpk/NeuroChat//brain tumor/images/1829.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[171, 257, 255, 356]","```json
+[
+	{""bbox_2d"": [92, 130, 120, 152], ""label"": ""tumor""}
+]
+```",True,True,"[92, 130, 120, 152]"
+137,/home/parthpk/NeuroChat//brain tumor/images/1830.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[193, 248, 238, 319]","```json
+[
+	{""bbox_2d"": [94, 126, 124, 156], ""label"": ""tumor""}
+]
+```",True,True,"[94, 126, 124, 156]"
+138,/home/parthpk/NeuroChat//brain tumor/images/1831.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[187, 242, 244, 318]","```json
+[
+	{""bbox_2d"": [96, 122, 126, 160], ""label"": ""tumor""}
+]
+```",True,True,"[96, 122, 126, 160]"
+139,/home/parthpk/NeuroChat//brain tumor/images/1832.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[188, 238, 247, 320]","```json
+[
+	{""bbox_2d"": [94, 148, 126, 188], ""label"": ""tumor""}
+]
+```",True,True,"[94, 148, 126, 188]"
+140,/home/parthpk/NeuroChat//brain tumor/images/1833.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[182, 236, 254, 320]","```json
+[
+	{""bbox_2d"": [92, 120, 126, 160], ""label"": ""tumor""}
+]
+```",True,True,"[92, 120, 126, 160]"
+141,/home/parthpk/NeuroChat//brain tumor/images/1834.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[190, 246, 241, 316]","```json
+[
+	{""bbox_2d"": [96, 151, 126, 188], ""label"": ""tumor""}
+]
+```",True,True,"[96, 151, 126, 188]"
+142,/home/parthpk/NeuroChat//brain tumor/images/1835.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[183, 282, 237, 349]","```json
+[
+	{""bbox_2d"": [90, 142, 118, 172], ""label"": ""tumor""}
+]
+```",True,True,"[90, 142, 118, 172]"
+143,/home/parthpk/NeuroChat//brain tumor/images/1836.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[172, 271, 244, 360]","```json
+[
+	{""bbox_2d"": [90, 138, 120, 176], ""label"": ""tumor""}
+]
+```",True,True,"[90, 138, 120, 176]"
+144,/home/parthpk/NeuroChat//brain tumor/images/1837.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[178, 272, 232, 357]","```json
+[
+	{""bbox_2d"": [88, 138, 116, 174], ""label"": ""tumor""}
+]
+```",True,True,"[88, 138, 116, 174]"
+145,/home/parthpk/NeuroChat//brain tumor/images/1838.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[180, 274, 233, 356]","```json
+[
+	{""bbox_2d"": [88, 138, 116, 178], ""label"": ""tumor""}
+]
+```",True,True,"[88, 138, 116, 178]"
+146,/home/parthpk/NeuroChat//brain tumor/images/1839.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[184, 278, 228, 352]","```json
+[
+	{""bbox_2d"": [92, 139, 118, 172], ""label"": ""tumor""}
+]
+```",True,True,"[92, 139, 118, 172]"
+147,/home/parthpk/NeuroChat//brain tumor/images/1840.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[186, 291, 229, 350]","```json
+[
+	{""bbox_2d"": [94, 146, 118, 168], ""label"": ""tumor""}
+]
+```",True,True,"[94, 146, 118, 168]"
+148,/home/parthpk/NeuroChat//brain tumor/images/3012.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[168, 197, 202, 267]","```json
+[
+	{""bbox_2d"": [32, 124, 66, 166], ""label"": ""tumor""}
+]
+```",True,True,"[32, 124, 66, 166]"
+149,/home/parthpk/NeuroChat//brain tumor/images/3013.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[161, 201, 232, 247]","```json
+[
+	{""bbox_2d"": [32, 126, 68, 168], ""label"": ""tumor""}
+]
+```",True,True,"[32, 126, 68, 168]"
+150,/home/parthpk/NeuroChat//brain tumor/images/3014.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[200, 238, 319, 298]","```json
+[
+	{""bbox_2d"": [68, 126, 100, 176], ""label"": ""tumor""}
+]
+```",True,True,"[68, 126, 100, 176]"
+151,/home/parthpk/NeuroChat//brain tumor/images/3015.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[199, 236, 310, 319]","```json
+[
+	{""bbox_2d"": [98, 121, 156, 156], ""label"": ""tumor""}
+]
+```",True,True,"[98, 121, 156, 156]"
+152,/home/parthpk/NeuroChat//brain tumor/images/3016.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[187, 244, 318, 339]","```json
+[
+	{""bbox_2d"": [92, 126, 156, 171], ""label"": ""tumor""}
+]
+```",True,True,"[92, 126, 156, 171]"
+153,/home/parthpk/NeuroChat//brain tumor/images/3017.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[182, 193, 351, 331]","```json
+[
+	{""bbox_2d"": [136, 98, 182, 141], ""label"": ""tumor""}
+]
+```",True,True,"[136, 98, 182, 141]"
+154,/home/parthpk/NeuroChat//brain tumor/images/3018.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[185, 181, 357, 337]","```json
+[
+	{""bbox_2d"": [142, 89, 178, 122], ""label"": ""tumor""}
+]
+```",True,True,"[142, 89, 178, 122]"
+155,/home/parthpk/NeuroChat//brain tumor/images/3019.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[184, 266, 301, 343]","```json
+[
+	{""bbox_2d"": [77, 82, 174, 130], ""label"": ""tumor""}
+]
+```",True,True,"[77, 82, 174, 130]"
+156,/home/parthpk/NeuroChat//brain tumor/images/3020.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[245, 77, 303, 151]","```json
+[
+	{""bbox_2d"": [122, 25, 158, 50], ""label"": ""tumor""}
+]
+```",True,True,"[122, 25, 158, 50]"
+157,/home/parthpk/NeuroChat//brain tumor/images/3021.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[250, 81, 295, 148]","```json
+[
+	{""bbox_2d"": [124, 42, 150, 78], ""label"": ""tumor""}
+]
+```",True,True,"[124, 42, 150, 78]"
+158,/home/parthpk/NeuroChat//brain tumor/images/3022.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[194, 228, 246, 274]","```json
+[
+	{""bbox_2d"": [88, 112, 118, 138], ""label"": ""tumor""}
+]
+```",True,True,"[88, 112, 118, 138]"
+159,/home/parthpk/NeuroChat//brain tumor/images/3023.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[176, 214, 249, 289]","```json
+[
+	{""bbox_2d"": [89, 112, 124, 144], ""label"": ""tumor""}
+]
+```",True,True,"[89, 112, 124, 144]"
+160,/home/parthpk/NeuroChat//brain tumor/images/3024.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[168, 208, 268, 290]","```json
+[
+	{""bbox_2d"": [84, 106, 133, 147], ""label"": ""tumor""}
+]
+```",True,True,"[84, 106, 133, 147]"
+161,/home/parthpk/NeuroChat//brain tumor/images/3025.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[167, 201, 266, 287]","```json
+[
+	{""bbox_2d"": [84, 104, 132, 142], ""label"": ""tumor""}
+]
+```",True,True,"[84, 104, 132, 142]"
+162,/home/parthpk/NeuroChat//brain tumor/images/3026.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[170, 198, 262, 273]","```json
+[
+	{""bbox_2d"": [86, 100, 131, 142], ""label"": ""tumor""}
+]
+```",True,True,"[86, 100, 131, 142]"
+163,/home/parthpk/NeuroChat//brain tumor/images/3027.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[162, 202, 254, 265]","```json
+[
+	{""bbox_2d"": [94, 104, 126, 138], ""label"": ""tumor""}
+]
+```",True,True,"[94, 104, 126, 138]"
+164,/home/parthpk/NeuroChat//brain tumor/images/3028.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[194, 234, 237, 262]","```json
+[
+	{""bbox_2d"": [88, 108, 126, 140], ""label"": ""tumor""}
+]
+```",True,True,"[88, 108, 126, 140]"
+165,/home/parthpk/NeuroChat//brain tumor/images/3029.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[204, 144, 282, 229]","```json
+[
+	{""bbox_2d"": [100, 52, 178, 140], ""label"": ""tumor""}
+]
+```",True,True,"[100, 52, 178, 140]"
+166,/home/parthpk/NeuroChat//brain tumor/images/3030.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[310, 150, 392, 236]","```json
+[
+	{""bbox_2d"": [156, 76, 198, 118], ""label"": ""tumor""}
+]
+```",True,True,"[156, 76, 198, 118]"
+167,/home/parthpk/NeuroChat//brain tumor/images/3031.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[211, 94, 374, 230]","```json
+[
+	{""bbox_2d"": [114, 46, 186, 116], ""label"": ""tumor""}
+]
+```",True,True,"[114, 46, 186, 116]"
+168,/home/parthpk/NeuroChat//brain tumor/images/3032.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[206, 72, 384, 237]","```json
+[
+	{""bbox_2d"": [102, 42, 192, 116], ""label"": ""tumor""}
+]
+```",True,True,"[102, 42, 192, 116]"
+169,/home/parthpk/NeuroChat//brain tumor/images/3033.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[206, 86, 385, 238]","```json
+[
+	{""bbox_2d"": [106, 40, 188, 118], ""label"": ""tumor""}
+]
+```",True,True,"[106, 40, 188, 118]"
+170,/home/parthpk/NeuroChat//brain tumor/images/3034.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[214, 88, 377, 249]","```json
+[
+	{""bbox_2d"": [112, 48, 188, 116], ""label"": ""tumor""}
+]
+```",True,True,"[112, 48, 188, 116]"
+171,/home/parthpk/NeuroChat//brain tumor/images/3035.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[243, 117, 356, 242]","```json
+[
+	{""bbox_2d"": [122, 58, 182, 116], ""label"": ""tumor""}
+]
+```",True,True,"[122, 58, 182, 116]"
+172,/home/parthpk/NeuroChat//brain tumor/images/3036.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[353, 139, 401, 194]","```json
+[
+	{""bbox_2d"": [68, 74, 166, 124], ""label"": ""tumor""}
+]
+```",True,True,"[68, 74, 166, 124]"
+173,/home/parthpk/NeuroChat//brain tumor/images/3037.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[346, 140, 398, 215]","```json
+[
+	{""bbox_2d"": [168, 70, 202, 107], ""label"": ""tumor""}
+]
+```",True,True,"[168, 70, 202, 107]"
+174,/home/parthpk/NeuroChat//brain tumor/images/3038.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[342, 141, 392, 207]","```json
+[
+	{""bbox_2d"": [168, 76, 198, 108], ""label"": ""tumor""}
+]
+```",True,True,"[168, 76, 198, 108]"
+175,/home/parthpk/NeuroChat//brain tumor/images/3039.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[346, 166, 370, 194]","```json
+[
+	{""bbox_2d"": [168, 78, 186, 98], ""label"": ""tumor""}
+]
+```",True,True,"[168, 78, 186, 98]"
+176,/home/parthpk/NeuroChat//brain tumor/images/3040.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[326, 166, 376, 196]","```json
+[
+	{""bbox_2d"": [156, 82, 184, 100], ""label"": ""tumor""}
+]
+```",True,True,"[156, 82, 184, 100]"
+177,/home/parthpk/NeuroChat//brain tumor/images/3041.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[324, 162, 354, 204]","```json
+[
+	{""bbox_2d"": [102, 152, 137, 190], ""label"": ""tumor""}
+]
+```",True,True,"[102, 152, 137, 190]"
+178,/home/parthpk/NeuroChat//brain tumor/images/3042.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[355, 252, 427, 381]","```json
+[
+	{""bbox_2d"": [91, 138, 160, 184], ""label"": ""tumor""}
+]
+```",True,True,"[91, 138, 160, 184]"
+179,/home/parthpk/NeuroChat//brain tumor/images/3043.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[353, 286, 424, 362]","```json
+[
+	{""bbox_2d"": [86, 132, 160, 196], ""label"": ""tumor""}
+]
+```",True,True,"[86, 132, 160, 196]"
+180,/home/parthpk/NeuroChat//brain tumor/images/3044.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[235, 267, 417, 357]","```json
+[
+	{""bbox_2d"": [104, 108, 164, 170], ""label"": ""tumor""}
+]
+```",True,True,"[104, 108, 164, 170]"
+181,/home/parthpk/NeuroChat//brain tumor/images/3045.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[216, 291, 410, 401]","```json
+[
+	{""bbox_2d"": [148, 114, 208, 144], ""label"": ""tumor""}
+]
+```",True,True,"[148, 114, 208, 144]"
+182,/home/parthpk/NeuroChat//brain tumor/images/3046.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[241, 304, 400, 381]","```json
+[
+	{""bbox_2d"": [113, 166, 152, 208], ""label"": ""tumor""}
+]
+```",True,True,"[113, 166, 152, 208]"
+183,/home/parthpk/NeuroChat//brain tumor/images/3047.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[317, 204, 344, 256]","```json
+[
+	{""bbox_2d"": [46, 134, 102, 198], ""label"": ""tumor""}
+]
+```",True,True,"[46, 134, 102, 198]"
+184,/home/parthpk/NeuroChat//brain tumor/images/3048.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[310, 206, 339, 235]","```json
+[
+	{""bbox_2d"": [100, 60, 171, 110], ""label"": ""tumor""}
+]
+```",True,True,"[100, 60, 171, 110]"
+185,/home/parthpk/NeuroChat//brain tumor/images/3049.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[137, 156, 193, 241]","```json
+[
+	{""bbox_2d"": [144, 100, 194, 137], ""label"": ""tumor""}
+]
+```",True,True,"[144, 100, 194, 137]"
+186,/home/parthpk/NeuroChat//brain tumor/images/3050.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[116, 155, 193, 248]","```json
+[
+	{""bbox_2d"": [50, 132, 77, 166], ""label"": ""tumor""}
+]
+```",True,True,"[50, 132, 77, 166]"
+187,/home/parthpk/NeuroChat//brain tumor/images/3051.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[100, 134, 205, 257]","```json
+[
+	{""bbox_2d"": [60, 74, 98, 107], ""label"": ""tumor""}
+]
+```",True,True,"[60, 74, 98, 107]"
+188,/home/parthpk/NeuroChat//brain tumor/images/3052.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[87, 131, 207, 260]","```json
+[
+	{""bbox_2d"": [58, 64, 106, 110], ""label"": ""tumor""}
+]
+```",True,True,"[58, 64, 106, 110]"
+189,/home/parthpk/NeuroChat//brain tumor/images/3053.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[82, 122, 212, 266]","```json
+[
+	{""bbox_2d"": [58, 56, 110, 108], ""label"": ""tumor""}
+]
+```",True,True,"[58, 56, 110, 108]"
+190,/home/parthpk/NeuroChat//brain tumor/images/3054.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[83, 116, 223, 265]","```json
+[
+	{""bbox_2d"": [62, 60, 104, 108], ""label"": ""tumor""}
+]
+```",True,True,"[62, 60, 104, 108]"
+191,/home/parthpk/NeuroChat//brain tumor/images/3055.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[86, 109, 284, 272]","```json
+[
+	{""bbox_2d"": [62, 44, 126, 106], ""label"": ""tumor""}
+]
+```",True,True,"[62, 44, 126, 106]"
+192,/home/parthpk/NeuroChat//brain tumor/images/3056.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[259, 94, 331, 178]","```json
+[
+	{""bbox_2d"": [126, 45, 170, 90], ""label"": ""tumor""}
+]
+```",True,True,"[126, 45, 170, 90]"
+193,/home/parthpk/NeuroChat//brain tumor/images/3057.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[257, 88, 342, 170]","```json
+[
+	{""bbox_2d"": [100, 42, 188, 121], ""label"": ""tumor""}
+]
+```",True,True,"[100, 42, 188, 121]"
+194,/home/parthpk/NeuroChat//brain tumor/images/3058.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[246, 88, 358, 226]","```json
+[
+	{""bbox_2d"": [126, 44, 184, 100], ""label"": ""tumor""}
+]
+```",True,True,"[126, 44, 184, 100]"
+195,/home/parthpk/NeuroChat//brain tumor/images/3059.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[249, 97, 377, 222]","```json
+[
+	{""bbox_2d"": [122, 134, 150, 176], ""label"": ""tumor""}
+]
+```",True,True,"[122, 134, 150, 176]"
+196,/home/parthpk/NeuroChat//brain tumor/images/3060.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[247, 96, 372, 233]","```json
+[
+	{""bbox_2d"": [106, 54, 188, 122], ""label"": ""tumor""}
+]
+```",True,True,"[106, 54, 188, 122]"
+197,/home/parthpk/NeuroChat//brain tumor/images/3061.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[257, 141, 367, 212]","```json
+[
+	{""bbox_2d"": [122, 78, 189, 124], ""label"": ""tumor""}
+]
+```",True,True,"[122, 78, 189, 124]"
+198,/home/parthpk/NeuroChat//brain tumor/images/3062.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[342, 154, 368, 192]","```json
+[
+	{""bbox_2d"": [118, 52, 186, 116], ""label"": ""tumor""}
+]
+```",True,True,"[118, 52, 186, 116]"
+199,/home/parthpk/NeuroChat//brain tumor/images/3063.jpg,ground,"If the tumor exists in the image, GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]
+Otherwise, say 'There is no tumor in this image.'","GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[110, 262, 155, 332]","```json
+[
+	{""bbox_2d"": [56, 136, 76, 163], ""label"": ""tumor""}
+]
+```",True,True,"[56, 136, 76, 163]"
