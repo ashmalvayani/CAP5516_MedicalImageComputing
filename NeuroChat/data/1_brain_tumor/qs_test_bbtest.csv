@@ -1,0 +1,201 @@
+no.,id,image,tumor,tumor_type,path,question,answer,question type
+10,1,Te-no_0010.jpg,no,-,Brain Tumor Classification (MRI)/Test/notumor/Te-no_0010.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]",There is no tumor in this image,ground
+11,2,Te-no_0011.jpg,no,-,Brain Tumor Classification (MRI)/Test/notumor/Te-no_0011.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]",There is no tumor in this image,ground
+12,3,Te-no_0012.jpg,no,-,Brain Tumor Classification (MRI)/Test/notumor/Te-no_0012.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]",There is no tumor in this image,ground
+13,4,Te-no_0013.jpg,no,-,Brain Tumor Classification (MRI)/Test/notumor/Te-no_0013.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]",There is no tumor in this image,ground
+14,5,Te-no_0014.jpg,no,-,Brain Tumor Classification (MRI)/Test/notumor/Te-no_0014.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]",There is no tumor in this image,ground
+15,6,Te-no_0015.jpg,no,-,Brain Tumor Classification (MRI)/Test/notumor/Te-no_0015.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]",There is no tumor in this image,ground
+16,7,Te-no_0016.jpg,no,-,Brain Tumor Classification (MRI)/Test/notumor/Te-no_0016.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]",There is no tumor in this image,ground
+17,8,Te-no_0017.jpg,no,-,Brain Tumor Classification (MRI)/Test/notumor/Te-no_0017.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]",There is no tumor in this image,ground
+18,9,Te-no_0018.jpg,no,-,Brain Tumor Classification (MRI)/Test/notumor/Te-no_0018.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]",There is no tumor in this image,ground
+19,10,Te-no_0019.jpg,no,-,Brain Tumor Classification (MRI)/Test/notumor/Te-no_0019.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]",There is no tumor in this image,ground
+20,11,Te-no_0020.jpg,no,-,Brain Tumor Classification (MRI)/Test/notumor/Te-no_0020.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]",There is no tumor in this image,ground
+21,12,Te-no_0021.jpg,no,-,Brain Tumor Classification (MRI)/Test/notumor/Te-no_0021.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]",There is no tumor in this image,ground
+22,13,Te-no_0022.jpg,no,-,Brain Tumor Classification (MRI)/Test/notumor/Te-no_0022.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]",There is no tumor in this image,ground
+23,14,Te-no_0023.jpg,no,-,Brain Tumor Classification (MRI)/Test/notumor/Te-no_0023.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]",There is no tumor in this image,ground
+24,15,Te-no_0024.jpg,no,-,Brain Tumor Classification (MRI)/Test/notumor/Te-no_0024.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]",There is no tumor in this image,ground
+25,16,Te-no_0025.jpg,no,-,Brain Tumor Classification (MRI)/Test/notumor/Te-no_0025.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]",There is no tumor in this image,ground
+26,17,Te-no_0026.jpg,no,-,Brain Tumor Classification (MRI)/Test/notumor/Te-no_0026.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]",There is no tumor in this image,ground
+27,18,Te-no_0027.jpg,no,-,Brain Tumor Classification (MRI)/Test/notumor/Te-no_0027.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]",There is no tumor in this image,ground
+28,19,Te-no_0028.jpg,no,-,Brain Tumor Classification (MRI)/Test/notumor/Te-no_0028.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]",There is no tumor in this image,ground
+29,20,Te-no_0029.jpg,no,-,Brain Tumor Classification (MRI)/Test/notumor/Te-no_0029.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]",There is no tumor in this image,ground
+30,21,Te-no_0030.jpg,no,-,Brain Tumor Classification (MRI)/Test/notumor/Te-no_0030.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]",There is no tumor in this image,ground
+31,22,Te-no_0031.jpg,no,-,Brain Tumor Classification (MRI)/Test/notumor/Te-no_0031.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]",There is no tumor in this image,ground
+32,23,Te-no_0032.jpg,no,-,Brain Tumor Classification (MRI)/Test/notumor/Te-no_0032.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]",There is no tumor in this image,ground
+33,24,Te-no_0033.jpg,no,-,Brain Tumor Classification (MRI)/Test/notumor/Te-no_0033.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]",There is no tumor in this image,ground
+34,25,Te-no_0034.jpg,no,-,Brain Tumor Classification (MRI)/Test/notumor/Te-no_0034.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]",There is no tumor in this image,ground
+35,26,Te-no_0035.jpg,no,-,Brain Tumor Classification (MRI)/Test/notumor/Te-no_0035.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]",There is no tumor in this image,ground
+36,27,Te-no_0036.jpg,no,-,Brain Tumor Classification (MRI)/Test/notumor/Te-no_0036.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]",There is no tumor in this image,ground
+37,28,Te-no_0037.jpg,no,-,Brain Tumor Classification (MRI)/Test/notumor/Te-no_0037.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]",There is no tumor in this image,ground
+38,29,Te-no_0038.jpg,no,-,Brain Tumor Classification (MRI)/Test/notumor/Te-no_0038.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]",There is no tumor in this image,ground
+39,30,Te-no_0039.jpg,no,-,Brain Tumor Classification (MRI)/Test/notumor/Te-no_0039.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]",There is no tumor in this image,ground
+40,31,Te-no_0040.jpg,no,-,Brain Tumor Classification (MRI)/Test/notumor/Te-no_0040.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]",There is no tumor in this image,ground
+41,32,Te-no_0041.jpg,no,-,Brain Tumor Classification (MRI)/Test/notumor/Te-no_0041.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]",There is no tumor in this image,ground
+42,33,Te-no_0042.jpg,no,-,Brain Tumor Classification (MRI)/Test/notumor/Te-no_0042.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]",There is no tumor in this image,ground
+43,34,Te-no_0043.jpg,no,-,Brain Tumor Classification (MRI)/Test/notumor/Te-no_0043.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]",There is no tumor in this image,ground
+44,35,Te-no_0044.jpg,no,-,Brain Tumor Classification (MRI)/Test/notumor/Te-no_0044.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]",There is no tumor in this image,ground
+45,36,Te-no_0045.jpg,no,-,Brain Tumor Classification (MRI)/Test/notumor/Te-no_0045.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]",There is no tumor in this image,ground
+46,37,Te-no_0046.jpg,no,-,Brain Tumor Classification (MRI)/Test/notumor/Te-no_0046.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]",There is no tumor in this image,ground
+47,38,Te-no_0047.jpg,no,-,Brain Tumor Classification (MRI)/Test/notumor/Te-no_0047.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]",There is no tumor in this image,ground
+48,39,Te-no_0048.jpg,no,-,Brain Tumor Classification (MRI)/Test/notumor/Te-no_0048.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]",There is no tumor in this image,ground
+49,40,Te-no_0049.jpg,no,-,Brain Tumor Classification (MRI)/Test/notumor/Te-no_0049.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]",There is no tumor in this image,ground
+0,41,image(0).jpg,no,-,Brain Tumor MRI/Test/no_tumor/image(0).jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]",There is no tumor in this image,ground
+1,42,image(1).jpg,no,-,Brain Tumor MRI/Test/no_tumor/image(1).jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]",There is no tumor in this image,ground
+2,43,image(2).jpg,no,-,Brain Tumor MRI/Test/no_tumor/image(2).jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]",There is no tumor in this image,ground
+3,44,image(3).jpg,no,-,Brain Tumor MRI/Test/no_tumor/image(3).jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]",There is no tumor in this image,ground
+4,45,image(4).jpg,no,-,Brain Tumor MRI/Test/no_tumor/image(4).jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]",There is no tumor in this image,ground
+5,46,image(5).jpg,no,-,Brain Tumor MRI/Test/no_tumor/image(5).jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]",There is no tumor in this image,ground
+6,47,image(6).jpg,no,-,Brain Tumor MRI/Test/no_tumor/image(6).jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]",There is no tumor in this image,ground
+7,48,image(7).jpg,no,-,Brain Tumor MRI/Test/no_tumor/image(7).jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]",There is no tumor in this image,ground
+8,49,image(8).jpg,no,-,Brain Tumor MRI/Test/no_tumor/image(8).jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]",There is no tumor in this image,ground
+9,50,image(9).jpg,no,-,Brain Tumor MRI/Test/no_tumor/image(9).jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]",There is no tumor in this image,ground
+662,51,662.jpg,yes,-,brain tumor/images/662.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[288, 281, 395, 375]",ground
+663,52,663.jpg,yes,-,brain tumor/images/663.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[292, 286, 386, 368]",ground
+664,53,664.jpg,yes,-,brain tumor/images/664.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[303, 117, 374, 185]",ground
+665,54,665.jpg,yes,-,brain tumor/images/665.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[303, 112, 378, 190]",ground
+666,55,666.jpg,yes,-,brain tumor/images/666.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[303, 115, 376, 188]",ground
+667,56,667.jpg,yes,-,brain tumor/images/667.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[307, 117, 365, 177]",ground
+668,57,668.jpg,yes,-,brain tumor/images/668.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[275, 70, 342, 134]",ground
+669,58,669.jpg,yes,-,brain tumor/images/669.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[271, 64, 347, 137]",ground
+670,59,670.jpg,yes,-,brain tumor/images/670.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[275, 60, 351, 140]",ground
+671,60,671.jpg,yes,-,brain tumor/images/671.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[276, 62, 347, 139]",ground
+672,61,672.jpg,yes,-,brain tumor/images/672.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[279, 70, 340, 131]",ground
+673,62,673.jpg,yes,-,brain tumor/images/673.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[279, 247, 310, 275]",ground
+674,63,674.jpg,yes,-,brain tumor/images/674.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[183, 254, 236, 289]",ground
+675,64,675.jpg,yes,-,brain tumor/images/675.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[345, 243, 407, 321]",ground
+676,65,676.jpg,yes,-,brain tumor/images/676.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[339, 239, 421, 328]",ground
+677,66,677.jpg,yes,-,brain tumor/images/677.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[336, 239, 428, 330]",ground
+678,67,678.jpg,yes,-,brain tumor/images/678.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[337, 240, 424, 329]",ground
+679,68,679.jpg,yes,-,brain tumor/images/679.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[346, 251, 404, 310]",ground
+680,69,680.jpg,yes,-,brain tumor/images/680.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[240, 76, 369, 162]",ground
+681,70,681.jpg,yes,-,brain tumor/images/681.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[237, 72, 374, 168]",ground
+682,71,682.jpg,yes,-,brain tumor/images/682.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[234, 67, 373, 165]",ground
+683,72,683.jpg,yes,-,brain tumor/images/683.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[240, 57, 375, 160]",ground
+684,73,684.jpg,yes,-,brain tumor/images/684.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[243, 54, 369, 156]",ground
+685,74,685.jpg,yes,-,brain tumor/images/685.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[258, 56, 360, 134]",ground
+686,75,686.jpg,yes,-,brain tumor/images/686.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[308, 301, 367, 356]",ground
+687,76,687.jpg,yes,-,brain tumor/images/687.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[308, 303, 367, 348]",ground
+688,77,688.jpg,yes,-,brain tumor/images/688.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[181, 94, 235, 147]",ground
+689,78,689.jpg,yes,-,brain tumor/images/689.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[172, 90, 238, 152]",ground
+690,79,690.jpg,yes,-,brain tumor/images/690.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[170, 92, 237, 152]",ground
+691,80,691.jpg,yes,-,brain tumor/images/691.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[173, 98, 231, 152]",ground
+692,81,692.jpg,yes,-,brain tumor/images/692.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[177, 101, 225, 148]",ground
+693,82,693.jpg,yes,-,brain tumor/images/693.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[152, 127, 190, 169]",ground
+694,83,694.jpg,yes,-,brain tumor/images/694.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[116, 121, 194, 186]",ground
+695,84,695.jpg,yes,-,brain tumor/images/695.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[119, 138, 172, 187]",ground
+696,85,696.jpg,yes,-,brain tumor/images/696.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[367, 116, 388, 142]",ground
+697,86,697.jpg,yes,-,brain tumor/images/697.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[287, 73, 389, 167]",ground
+698,87,698.jpg,yes,-,brain tumor/images/698.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[284, 65, 397, 170]",ground
+699,88,699.jpg,yes,-,brain tumor/images/699.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[286, 69, 398, 169]",ground
+700,89,700.jpg,yes,-,brain tumor/images/700.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[299, 80, 398, 165]",ground
+701,90,701.jpg,yes,-,brain tumor/images/701.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[299, 89, 392, 166]",ground
+702,91,702.jpg,yes,-,brain tumor/images/702.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[319, 105, 386, 168]",ground
+703,92,703.jpg,yes,-,brain tumor/images/703.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[307, 149, 382, 231]",ground
+704,93,704.jpg,yes,-,brain tumor/images/704.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[300, 146, 391, 242]",ground
+705,94,705.jpg,yes,-,brain tumor/images/705.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[299, 144, 394, 244]",ground
+706,95,706.jpg,yes,-,brain tumor/images/706.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[305, 144, 395, 246]",ground
+707,96,707.jpg,yes,-,brain tumor/images/707.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[287, 148, 386, 269]",ground
+708,97,708.jpg,yes,-,brain tumor/images/708.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[274, 160, 394, 272]",ground
+1791,98,1791.jpg,yes,-,brain tumor/images/1791.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[194, 306, 223, 336]",ground
+1792,99,1792.jpg,yes,-,brain tumor/images/1792.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[194, 303, 216, 325]",ground
+1793,100,1793.jpg,yes,-,brain tumor/images/1793.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[194, 302, 223, 338]",ground
+1794,101,1794.jpg,yes,-,brain tumor/images/1794.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[190, 307, 230, 335]",ground
+1795,102,1795.jpg,yes,-,brain tumor/images/1795.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[190, 240, 241, 305]",ground
+1796,103,1796.jpg,yes,-,brain tumor/images/1796.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[194, 240, 241, 306]",ground
+1797,104,1797.jpg,yes,-,brain tumor/images/1797.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[196, 240, 236, 308]",ground
+1798,105,1798.jpg,yes,-,brain tumor/images/1798.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[200, 242, 238, 308]",ground
+1799,106,1799.jpg,yes,-,brain tumor/images/1799.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[198, 242, 236, 307]",ground
+1800,107,1800.jpg,yes,-,brain tumor/images/1800.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[199, 276, 241, 303]",ground
+1801,108,1801.jpg,yes,-,brain tumor/images/1801.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[244, 252, 275, 280]",ground
+1802,109,1802.jpg,yes,-,brain tumor/images/1802.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[236, 241, 276, 282]",ground
+1803,110,1803.jpg,yes,-,brain tumor/images/1803.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[236, 248, 277, 290]",ground
+1804,111,1804.jpg,yes,-,brain tumor/images/1804.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[236, 252, 282, 286]",ground
+1805,112,1805.jpg,yes,-,brain tumor/images/1805.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[237, 254, 273, 285]",ground
+1806,113,1806.jpg,yes,-,brain tumor/images/1806.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[192, 296, 251, 358]",ground
+1807,114,1807.jpg,yes,-,brain tumor/images/1807.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[193, 292, 246, 362]",ground
+1808,115,1808.jpg,yes,-,brain tumor/images/1808.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[187, 291, 250, 370]",ground
+1809,116,1809.jpg,yes,-,brain tumor/images/1809.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[194, 293, 244, 360]",ground
+1810,117,1810.jpg,yes,-,brain tumor/images/1810.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[196, 294, 245, 355]",ground
+1811,118,1811.jpg,yes,-,brain tumor/images/1811.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[193, 294, 241, 360]",ground
+1812,119,1812.jpg,yes,-,brain tumor/images/1812.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[197, 296, 239, 356]",ground
+1813,120,1813.jpg,yes,-,brain tumor/images/1813.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[178, 313, 227, 342]",ground
+1814,121,1814.jpg,yes,-,brain tumor/images/1814.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[178, 310, 228, 342]",ground
+1815,122,1815.jpg,yes,-,brain tumor/images/1815.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[172, 283, 223, 345]",ground
+1816,123,1816.jpg,yes,-,brain tumor/images/1816.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[170, 284, 220, 342]",ground
+1817,124,1817.jpg,yes,-,brain tumor/images/1817.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[168, 282, 218, 340]",ground
+1818,125,1818.jpg,yes,-,brain tumor/images/1818.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[168, 280, 232, 343]",ground
+1819,126,1819.jpg,yes,-,brain tumor/images/1819.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[208, 303, 271, 362]",ground
+1820,127,1820.jpg,yes,-,brain tumor/images/1820.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[199, 298, 252, 346]",ground
+1821,128,1821.jpg,yes,-,brain tumor/images/1821.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[191, 268, 230, 304]",ground
+1822,129,1822.jpg,yes,-,brain tumor/images/1822.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[193, 292, 259, 359]",ground
+1823,130,1823.jpg,yes,-,brain tumor/images/1823.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[180, 260, 258, 357]",ground
+1824,131,1824.jpg,yes,-,brain tumor/images/1824.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[179, 255, 257, 365]",ground
+1825,132,1825.jpg,yes,-,brain tumor/images/1825.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[182, 251, 256, 363]",ground
+1826,133,1826.jpg,yes,-,brain tumor/images/1826.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[178, 248, 255, 366]",ground
+1827,134,1827.jpg,yes,-,brain tumor/images/1827.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[172, 248, 254, 363]",ground
+1828,135,1828.jpg,yes,-,brain tumor/images/1828.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[166, 252, 257, 363]",ground
+1829,136,1829.jpg,yes,-,brain tumor/images/1829.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[171, 257, 255, 356]",ground
+1830,137,1830.jpg,yes,-,brain tumor/images/1830.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[193, 248, 238, 319]",ground
+1831,138,1831.jpg,yes,-,brain tumor/images/1831.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[187, 242, 244, 318]",ground
+1832,139,1832.jpg,yes,-,brain tumor/images/1832.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[188, 238, 247, 320]",ground
+1833,140,1833.jpg,yes,-,brain tumor/images/1833.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[182, 236, 254, 320]",ground
+1834,141,1834.jpg,yes,-,brain tumor/images/1834.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[190, 246, 241, 316]",ground
+1835,142,1835.jpg,yes,-,brain tumor/images/1835.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[183, 282, 237, 349]",ground
+1836,143,1836.jpg,yes,-,brain tumor/images/1836.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[172, 271, 244, 360]",ground
+1837,144,1837.jpg,yes,-,brain tumor/images/1837.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[178, 272, 232, 357]",ground
+1838,145,1838.jpg,yes,-,brain tumor/images/1838.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[180, 274, 233, 356]",ground
+1839,146,1839.jpg,yes,-,brain tumor/images/1839.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[184, 278, 228, 352]",ground
+1840,147,1840.jpg,yes,-,brain tumor/images/1840.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[186, 291, 229, 350]",ground
+3012,148,3012.jpg,yes,-,brain tumor/images/3012.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[168, 197, 202, 267]",ground
+3013,149,3013.jpg,yes,-,brain tumor/images/3013.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[161, 201, 232, 247]",ground
+3014,150,3014.jpg,yes,-,brain tumor/images/3014.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[200, 238, 319, 298]",ground
+3015,151,3015.jpg,yes,-,brain tumor/images/3015.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[199, 236, 310, 319]",ground
+3016,152,3016.jpg,yes,-,brain tumor/images/3016.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[187, 244, 318, 339]",ground
+3017,153,3017.jpg,yes,-,brain tumor/images/3017.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[182, 193, 351, 331]",ground
+3018,154,3018.jpg,yes,-,brain tumor/images/3018.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[185, 181, 357, 337]",ground
+3019,155,3019.jpg,yes,-,brain tumor/images/3019.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[184, 266, 301, 343]",ground
+3020,156,3020.jpg,yes,-,brain tumor/images/3020.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[245, 77, 303, 151]",ground
+3021,157,3021.jpg,yes,-,brain tumor/images/3021.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[250, 81, 295, 148]",ground
+3022,158,3022.jpg,yes,-,brain tumor/images/3022.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[194, 228, 246, 274]",ground
+3023,159,3023.jpg,yes,-,brain tumor/images/3023.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[176, 214, 249, 289]",ground
+3024,160,3024.jpg,yes,-,brain tumor/images/3024.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[168, 208, 268, 290]",ground
+3025,161,3025.jpg,yes,-,brain tumor/images/3025.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[167, 201, 266, 287]",ground
+3026,162,3026.jpg,yes,-,brain tumor/images/3026.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[170, 198, 262, 273]",ground
+3027,163,3027.jpg,yes,-,brain tumor/images/3027.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[162, 202, 254, 265]",ground
+3028,164,3028.jpg,yes,-,brain tumor/images/3028.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[194, 234, 237, 262]",ground
+3029,165,3029.jpg,yes,-,brain tumor/images/3029.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[204, 144, 282, 229]",ground
+3030,166,3030.jpg,yes,-,brain tumor/images/3030.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[310, 150, 392, 236]",ground
+3031,167,3031.jpg,yes,-,brain tumor/images/3031.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[211, 94, 374, 230]",ground
+3032,168,3032.jpg,yes,-,brain tumor/images/3032.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[206, 72, 384, 237]",ground
+3033,169,3033.jpg,yes,-,brain tumor/images/3033.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[206, 86, 385, 238]",ground
+3034,170,3034.jpg,yes,-,brain tumor/images/3034.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[214, 88, 377, 249]",ground
+3035,171,3035.jpg,yes,-,brain tumor/images/3035.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[243, 117, 356, 242]",ground
+3036,172,3036.jpg,yes,-,brain tumor/images/3036.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[353, 139, 401, 194]",ground
+3037,173,3037.jpg,yes,-,brain tumor/images/3037.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[346, 140, 398, 215]",ground
+3038,174,3038.jpg,yes,-,brain tumor/images/3038.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[342, 141, 392, 207]",ground
+3039,175,3039.jpg,yes,-,brain tumor/images/3039.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[346, 166, 370, 194]",ground
+3040,176,3040.jpg,yes,-,brain tumor/images/3040.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[326, 166, 376, 196]",ground
+3041,177,3041.jpg,yes,-,brain tumor/images/3041.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[324, 162, 354, 204]",ground
+3042,178,3042.jpg,yes,-,brain tumor/images/3042.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[355, 252, 427, 381]",ground
+3043,179,3043.jpg,yes,-,brain tumor/images/3043.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[353, 286, 424, 362]",ground
+3044,180,3044.jpg,yes,-,brain tumor/images/3044.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[235, 267, 417, 357]",ground
+3045,181,3045.jpg,yes,-,brain tumor/images/3045.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[216, 291, 410, 401]",ground
+3046,182,3046.jpg,yes,-,brain tumor/images/3046.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[241, 304, 400, 381]",ground
+3047,183,3047.jpg,yes,-,brain tumor/images/3047.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[317, 204, 344, 256]",ground
+3048,184,3048.jpg,yes,-,brain tumor/images/3048.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[310, 206, 339, 235]",ground
+3049,185,3049.jpg,yes,-,brain tumor/images/3049.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[137, 156, 193, 241]",ground
+3050,186,3050.jpg,yes,-,brain tumor/images/3050.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[116, 155, 193, 248]",ground
+3051,187,3051.jpg,yes,-,brain tumor/images/3051.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[100, 134, 205, 257]",ground
+3052,188,3052.jpg,yes,-,brain tumor/images/3052.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[87, 131, 207, 260]",ground
+3053,189,3053.jpg,yes,-,brain tumor/images/3053.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[82, 122, 212, 266]",ground
+3054,190,3054.jpg,yes,-,brain tumor/images/3054.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[83, 116, 223, 265]",ground
+3055,191,3055.jpg,yes,-,brain tumor/images/3055.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[86, 109, 284, 272]",ground
+3056,192,3056.jpg,yes,-,brain tumor/images/3056.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[259, 94, 331, 178]",ground
+3057,193,3057.jpg,yes,-,brain tumor/images/3057.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[257, 88, 342, 170]",ground
+3058,194,3058.jpg,yes,-,brain tumor/images/3058.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[246, 88, 358, 226]",ground
+3059,195,3059.jpg,yes,-,brain tumor/images/3059.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[249, 97, 377, 222]",ground
+3060,196,3060.jpg,yes,-,brain tumor/images/3060.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[247, 96, 372, 233]",ground
+3061,197,3061.jpg,yes,-,brain tumor/images/3061.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[257, 141, 367, 212]",ground
+3062,198,3062.jpg,yes,-,brain tumor/images/3062.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[342, 154, 368, 192]",ground
+3063,199,3063.jpg,yes,-,brain tumor/images/3063.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[110, 262, 155, 332]",ground
+3064,200,3064.jpg,yes,-,brain tumor/images/3064.jpg,"GROUND the tumor in the image. Return the answer in form of a list [x_min, y_min, x_max, y_max]","[250, 126, 299, 181]",ground
