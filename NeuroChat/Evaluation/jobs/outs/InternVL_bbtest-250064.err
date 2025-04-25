@@ -1,0 +1,9 @@
+Loading safetensors checkpoint shards:   0% Completed | 0/4 [00:00<?, ?it/s]
+Loading safetensors checkpoint shards:  25% Completed | 1/4 [00:03<00:11,  3.78s/it]
+Loading safetensors checkpoint shards:  50% Completed | 2/4 [00:07<00:07,  3.97s/it]
+Loading safetensors checkpoint shards:  75% Completed | 3/4 [00:08<00:02,  2.65s/it]
+Loading safetensors checkpoint shards: 100% Completed | 4/4 [00:12<00:00,  3.18s/it]
+Loading safetensors checkpoint shards: 100% Completed | 4/4 [00:12<00:00,  3.24s/it]
+
+Processed prompts:   0%|          | 0/199 [00:00<?, ?it/s, est. speed input: 0.00 toks/s, output: 0.00 toks/s]Processed prompts:  60%|######    | 120/199 [00:00<00:00, 405.37it/s, est. speed input: 236513.51 toks/s, output: 9465.57 toks/s]Processed prompts:  81%|########  | 161/199 [00:06<00:01, 19.96it/s, est. speed input: 13300.83 toks/s, output: 578.91 toks/s]   Processed prompts:  90%|########9 | 179/199 [00:09<00:01, 14.23it/s, est. speed input: 9684.07 toks/s, output: 442.12 toks/s] Processed prompts:  95%|#########4| 189/199 [00:11<00:00, 12.30it/s, est. speed input: 8570.17 toks/s, output: 400.69 toks/s]Processed prompts:  98%|#########8| 196/199 [00:11<00:00, 11.46it/s, est. speed input: 8091.18 toks/s, output: 381.26 toks/s]Processed prompts: 100%|##########| 199/199 [00:12<00:00, 15.94it/s, est. speed input: 7839.33 toks/s, output: 371.96 toks/s]
+[rank0]:[W424 18:26:05.988921641 ProcessGroupNCCL.cpp:1496] Warning: WARNING: destroy_process_group() was not called before program exit, which can leak resources. For more info, please see https://pytorch.org/docs/stable/distributed.html#shutdown (function operator())
