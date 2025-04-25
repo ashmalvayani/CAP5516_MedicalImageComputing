@@ -172,3 +172,28 @@ deepspeed src/training/train.py \
     --save_total_limit 10 \
     --dataloader_num_workers 4
 ```
+
+# For evaluation, we have created a separate test set in
+```shell
+cd data/1_brain_tumor
+# qs_test_bbtest.csv
+# qs_test_btcmri.csv
+# qs_test_btmri.csv
+```
+
+All the job files are placed under jobs folder:
+```shell
+cd Evaluation/jobs
+
+# For each model, run the following files:
+## For NeuroChat
+sbatch NeuroChat_bb.sh
+sbatch NeuroChat_btmri.sh
+sbatch NeuroChat_btcmri.sh
+
+## For Qwen-2.5-VL
+sbatch NeuroChat_bb.sh
+sbatch NeuroChat_btmri.sh
+sbatch NeuroChat_btcmri.sh
+..
+```
